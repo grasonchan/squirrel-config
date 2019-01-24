@@ -1,0 +1,40 @@
+# encoding: utf-8
+#
+# 词条来自搜狗在线词库
+#
+# 互联网产品经理
+#
+# no comment
+
+---
+name: luna_pinyin.hulianwangchanpinjingli
+version: "2016.5.23"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+标签栏	biao qian lan	1
+产品经理	chan pin jing li	1
+产品需求文档	chan pin xu qiu wen dang	1
+导航栏	dao hang lan	1
+二级页面	er ji ye mian	1
+开发评审	kai fa ping shen	1
+三级页面	san ji ye mian	1
+商务需求文档	shang wu xu qiu wen dang	1
+设计评审	she ji ping shen	1
+市场分析	shi chang fen xi	1
+市场需求文档	shi chang xu qiu wen dang	1
+使用场景	shi yong chang jing	1
+跳转逻辑	tiao zhuan luo ji	1
+痛点分析	tong dian fen xi	1
+详情页	xiang qing ye	1
+需求分析	xu qiu fen xi	1
+需求评审	xu qiu ping shen	1
+移动端	yi dong duan	1
+一级页面	yi ji ye mian	1
+用户体验	yong hu ti yan	1
+用户心理	yong hu xin li	1
+用户行为	yong hu xing wei	1
+用户研究	yong hu yan jiu	1
+原型图	yuan xing tu	1
+站立会议	zhan li hui yi	1

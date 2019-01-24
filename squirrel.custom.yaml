@@ -1,0 +1,65 @@
+patch:
+    style:
+        horizontal: true
+        inline_preedit: true
+        corner_radius: 5
+        hilited_corner_radius: 4                # 高亮圆角
+        border_height: 6                        # 窗口边界高度，大于圆角半径才生效
+        border_width: 6                         # 窗口边界宽度，大于圆角半径才生效
+        font_face: "PingFangSC"
+        font_point: 20
+        color_scheme: Minimalism
+    preset_color_schemes/Minimalism:
+        name: Minimalism
+        author: Grason Chan
+        back_color: 0xffffff
+        label_font_point: 16
+
+        # macOS 主题
+        label_color: 0x666666
+        hilited_candidate_back_color: 0xffede1
+        hilited_candidate_label_color: 0x000000
+        hilited_candidate_text_color: 0x000000
+        candidate_text_color: 0x000000
+
+    app_options:
+        com.apple.finder:
+            ascii_mode: true
+        com.apple.Spotlight:
+            ascii_mode: true
+        com.apple.dock.ecti:
+            ascii_mode: true
+        com.apple.Safari:
+            ascii_mode: true
+        com.apple.systempreferences:
+            ascii_mode: true
+        com.apple.Terminal:
+            ascii_mode: true
+        com.apple.Dictionary:
+            ascii_mode: true
+        com.google.Chrome:
+            ascii_mode: true
+        org.mozilla.firefox:
+            ascii_mode: true
+        com.github.atom:
+            ascii_mode: true
+        com.microsoft.VSCode:
+            ascii_mode: true
+        com.jetbrains.WebStorm:
+            ascii_mode: true
+        com.jetbrains.PhpStorm:
+            ascii_mode: true
+        com.bohemiancoding.sketch3:
+            ascii_mode: true
+        com.adobe.Photoshop:
+            ascii_mode: true
+        com.hicknhacksoftware.MacPass:
+            ascii_mode: true
+        net.freemacsoft.AppCleaner:
+            ascii_mode: true
+        com.qiuyuzhou.ShadowsocksX-NG:
+            ascii_mode: true
+        com.initex.proxifier.macosx:
+            ascii_mode: true
+        com.runningwithcrayons.Alfred-3:
+            ascii_mode: true
