@@ -8,19 +8,34 @@ patch:
         border_width: 6                         # 窗口边界宽度，大于圆角半径才生效
         font_face: "PingFangSC"
         font_point: 20
-        color_scheme: Minimalism
-    preset_color_schemes/Minimalism:
-        name: Minimalism
+        color_scheme: macos-light
+        # color_scheme: macos-dark
+    
+    # macOS 浅色主题
+    preset_color_schemes/macos-light:
+        name: macos-light
         author: Grason Chan
-        back_color: 0xffffff
         label_font_point: 16
-
-        # macOS 主题
+        back_color: 0xffffff
         label_color: 0x666666
+        candidate_text_color: 0x000000
         hilited_candidate_back_color: 0xffede1
         hilited_candidate_label_color: 0x000000
         hilited_candidate_text_color: 0x000000
-        candidate_text_color: 0x000000
+        comment_text_color: 0x888888
+
+    # macOS 黑色主题
+    preset_color_schemes/macos-dark:
+        name: macos-dark
+        author: Grason Chan
+        label_font_point: 16
+        back_color: 0x2d2826
+        label_color: 0xa09e9d
+        candidate_text_color: 0xffffff
+        hilited_candidate_back_color: 0xdd6622
+        hilited_candidate_label_color: 0xffffff
+        hilited_candidate_text_color: 0xffffff
+        comment_text_color: 0xaaaaaa
 
     app_options:
         com.apple.finder:
@@ -53,6 +68,8 @@ patch:
             ascii_mode: true
         com.adobe.Photoshop:
             ascii_mode: true
+        com.colliderli.iina:
+            ascii_mode: true
         com.hicknhacksoftware.MacPass:
             ascii_mode: true
         net.freemacsoft.AppCleaner:
@@ -62,4 +79,10 @@ patch:
         com.initex.proxifier.macosx:
             ascii_mode: true
         com.runningwithcrayons.Alfred-3:
+            ascii_mode: true
+        com.runningwithcrayons.Alfred:
+            ascii_mode: true
+        com.piezo.Translate-Tab:
+            ascii_mode: true
+        org.rehabman.github.MaciASLv1.31:
             ascii_mode: true

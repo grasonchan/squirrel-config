@@ -16,9 +16,6 @@ import_tables:
   - luna_pinyin
   - luna_pinyin.cn_en
   - luna_pinyin.xiandaihanyuchangyongcibiao
-  - luna_pinyin.qianduankaifa
-  - luna_pinyin.hulianwangchanpinjingli
-  - luna_pinyin.zhihuyonghurenming
   - luna_pinyin.wangluoliuxingci
   - luna_pinyin.sgmain
   - luna_pinyin.chengyusuyu
@@ -27,9 +24,7 @@ import_tables:
   - luna_pinyin.movie
   - luna_pinyin.dianshiju
   - luna_pinyin.music
-  - luna_pinyin.zuixinliuxinggequzhuanji
   - luna_pinyin.mingxing
-  - luna_pinyin.xinlixuecihuidaquan
   - luna_pinyin.i
   #
   - f_myphrases

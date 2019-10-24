@@ -14,12 +14,24 @@ use_preset_vocabulary: true
 # #####################################################
 
 # 中文特有名词
-笑哭
-傲娇
-补全
-苹方
-候选词
-修饰键
+笑哭	xiao ku
+傲娇	ao jiao
+补全	bu quan
+包邮	bao you
+酷安	ku an
+简书	jian shu
+校招	xiao zhao
+社招	she zhao
+众筹	zhong chou
+苹方	ping fang
+拉黑	la hei
+候选词	hou xuan ci
+修饰键	xiu shi jian
+公众号	gong zhong hao
+五险一金	wu xian yi jin
+全栈	quan zhan
+选择器	xuan ze qi
+响应式布局	xiang ying shi bu ju
 
 # 修饰键
 cmd	cmd	10000
@@ -34,19 +46,6 @@ eject	eject	10000
 # 常用
 知乎	zhi hu	10001
 陌陌	mo mo	10000
-罗永浩	luo yong hao	10000
-罗永浩	lao luo	10000
-锤子科技	chui zi	10001
-Smartisan	chui zi	10000
-Smartisan	s ma r	10002
-Smartisan	s ma r ti	10000
-Smartisan	s ma r ti sa	10000
-Smartisan	s ma r ti san	10000
-坚果	jian guo	10005
-坚果 R1	jian guo	10004
-坚果 Pro 2S	jian guo	10003
-坚果 Pro 2	jian guo	10002
-坚果 3	jian guo	10001
 拉勾	la gou	10001
 小米	mi	10001
 淘宝	tao bao	10001

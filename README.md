@@ -22,7 +22,9 @@
 
 * **外观**
 
-    模仿 macOS 自带输入法外观，使用苹方字体，字体大小为 20，默认显示 5 个候选词，输入方案仅开启 `朙月拼音.简化字`
+    包含 `macos-light` 和 `macos-dark` 明暗 2 套主题，默认使用 macos-light；如需更换为 macos-dark，打开 squirrel.custom.yaml 文件，将 `color_scheme: macos-light` 修改为 `color_scheme: macos-dark`
+    
+    配色参照 macOS 自带输入法，使用苹方字体，字体大小为 20，默认显示 5 个候选词，输入方案仅开启 `朙月拼音.简化字`
     
     <img src="https://github.com/grasonchan/squirrel-config/raw/master/screenshot/squirrel.png" alt="squirrel" height="72" />
 
@@ -154,7 +156,7 @@
     
     添加的个人词库包括 `luna_pinyin.i.dict.yaml` 和 `f_myphrases.dict.yaml`
     
-    扩充的词库包括 `中英文混输`、`现代汉语常用词表`、`前端开发`、`互联网产品经理`、`知乎用户人名`、`网络流行新词`、`常见词汇`、`成语俗语`、`计算机词汇`、`开发专业词汇`、`热门电影`、`电视剧名`、`歌曲`、`最新流行歌曲专辑`、`明星`、`心理学词汇大全`
+    扩充的词库包括 `中英文混输`、`现代汉语常用词表`、`网络流行新词`、`常见词汇`、`成语俗语`、`计算机词汇`、`开发专业词汇`、`热门电影`、`电视剧名`、`歌曲`、`明星`
 
 * **输入状态切换**
 
@@ -183,8 +185,11 @@
     * PhpStorm
     * Sketch
     * Photoshop
+    * IINA
     * MacPass
     * AppCleaner
     * ShadowsocksX-NG-R8
     * Proxifier
     * Alfred
+    * Translate Tab
+    * MaciASL
