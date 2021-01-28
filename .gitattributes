@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Dictionary files should always use LF as line ending
+*.dict.yaml text eol=lf
