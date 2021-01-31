@@ -1,0 +1,6023 @@
+# Rime dict
+# encoding: utf-8
+#
+# 明星
+# 詞條來源：搜狗輸入法詞庫
+# 創建者：搜狗拼音輸入法
+# 更新：2016-06-30
+# 來源：
+#   https://pinyin.sogou.com/dict/detail/index/15209
+#   https://pinyin.sogou.com/dict/detail/index/20658
+#
+# author: Graon Chan
+# GitHub: https://github.com/grasonchan/squirrel-config
+# **不去除** 與 Rime 預設詞彙表【八股文】重複的詞彙
+# 已將【明星】和【歌手人名大全】合併
+# 2021-01-31
+
+---
+name: "luna_pinyin.mingxing"
+version: "4.1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿寶	a bao
+阿爆	a bao
+阿本	a ben
+阿才	a cai
+阿德里安布勞迪	a de li an bu lao di
+阿弟	a di
+阿弟仔	a di zai
+阿杜	a du
+阿朵	a duo
+阿爾伯特芬尼	a er bo te fen ni
+阿飛西雅	a fei xi ya
+阿福	a fu
+阿褔	a fu
+阿貴	a gui
+阿果	a guo
+阿浩	a hao
+阿華	a hua
+阿吉仔	a ji zai
+阿佳組合	a jia zu he
+阿袈	a jia
+阿蘭	a lan
+阿蘭達瓦卓瑪	a lan da wa zhuo ma
+阿郎	a lang
+阿里郎	a li lang
+阿麗西婭吉絲	a li xi ya ji si
+阿麗雅	a li ya
+阿亮	a liang
+阿龍正罡	a long zheng gang
+阿魯	a lu
+阿輪	a lun
+阿妹	a mei
+阿妹妹	a mei mei
+阿木	a mu
+阿木古愣	a mu gu leng
+阿穆隆	a mu long
+阿牛	a niu
+阿諾施瓦辛格	a nuo shi wa xin ge
+阿霈樂團	a pei yue tuan
+阿強	a qiang
+阿悄	a qiao
+阿沁	a qin
+阿清	a qing
+阿丘	a qiu
+阿桑	a sang
+阿泰	a tai
+阿信	a xin
+阿修羅樂團	a xiu luo yue tuan
+阿雅	a ya
+阿勇澤讓	a yong ze rang
+阿幼朵	a you duo
+阿正	a zheng
+哀同絲	ai tong si
+埃德哈里斯	ai de ha li si
+埃爾頓約翰	ai er dun yue han
+埃利剋剋萊普頓	ai li ke ke lai pu dun
+艾成	ai cheng
+艾翠安娜伊凡絲	ai cui an na yi fan si
+艾爾肯	ai er ken
+艾歌	ai ge
+艾敬	ai jing
+艾鈞偉	ai jun wei
+艾可	ai ke
+艾拉妮絲莫莉塞特	ai la ni si mo li sai te
+艾利斯的鎖鏈樂隊	ai li si de suo lian yue dui
+艾莉婕	ai li jie
+艾莉莎	ai li sha
+艾莉西亞凱斯	ai li xi ya kai si
+艾琳	ai lin
+艾靈頓公爵	ai ling dun gong jue
+艾倫艾爾達	ai lun ai er da
+艾倫伯斯汀	ai lun bo si ting
+艾倫帕森斯	ai lun pa sen si
+艾梅葛蘭特	ai mei ge lan te
+艾美達斯丹頓	ai mei da si dan dun
+艾夢萌	ai meng meng
+艾米納姆	ai mi na mu
+艾普瓦	ai pu wa
+艾晴晴	ai qing qing
+艾瑞莎弗蘭克林	ai rui sha fu lan ke lin
+艾斯卡爾	ai si ka er
+艾斯特吉芭託	ai si te ji ba tuo
+艾絲琳	ai si lin
+艾威	ai wei
+艾薇兒	ai wei er
+艾維斯卡斯提洛	ai wei si ka si ti luo
+艾希莉辛普森	ai xi li xin pu sen
+艾心	ai xin
+艾雪兒	ai xue er
+艾軼曼	ai yi man
+艾雨	ai yu
+愛川杏裏季	ai chuan xing li ji
+愛戴	ai dai
+愛回家	ai hui jia
+愛倫奈維爾	ai lun nai wei er
+愛內裏菜	ai nei li cai
+愛紗	ai sha
+愛香瞬	ai xiang shun
+愛樂團	ai yue tuan
+安百慧	an bai hui
+安倍麻美	an bei ma mei
+安倍夏樹	an bei xia shu
+安伯政	an bo zheng
+安德列里歐	an de lie li ou
+安德魯洛伊韋伯	an de lu luo yi wei bo
+安德尊	an de zun
+安迪	an di
+安迪威廉姆斯	an di wei lian mu si
+安東尼	an dong ni
+安東尼奧卡洛斯裘賓	an dong ni ao ka luo si qiu bin
+安谷	an gu
+安琥	an hu
+安吉麗娜朱麗	an ji li na zhu li
+安康	an kang
+安立奎伊格萊希亞斯	an li kui yi ge lai xi ya si
+安娜斯塔西亞	an na si ta xi ya
+安妮班克羅夫特	an ni ban ke luo fu te
+安妮藍妮克絲	an ni lan ni ke si
+安妮特貝寧	an ni te bei ning
+安七炫	an qi xuan
+安七炫吳建豪	an qi xuan wu jian hao
+安琪兒	an qi er
+安琪史東	an qi shi dong
+安齊美緒	an qi mei xu
+安沁兒	an qin er
+安若兒	an ruo er
+安少宇	an shao yu
+安勝浩	an sheng hao
+安室奈美惠	an shi nai mei hui
+安濤	an tao
+安藤有裏	an teng you li
+安雯	an wen
+安心亞	an xin ya
+安旭	an xu
+安以軒	an yi xuan
+安又琪	an you qi
+安元洋貴	an yuan yang gui
+安在懋	an zai mao
+安在旭	an zai xu
+安昭熙	an zhao xi
+安志傑	an zhi jie
+俺命	an ming
+岸谷五朗	an gu wu lang
+敖嘉年	ao jia nian
+奧黛麗赫本	ao dai li he ben
+奧戶巴壽	ao hu ba shou
+奧華子	ao hua zi
+奧蘭多布魯姆	ao lan duo bu lu mu
+奧田民生	ao tian min sheng
+奧運北京	ao yun bei jing
+八釐米天空	ba li mi tian kong
+八三夭	ba san yao
+八三夭樂團	ba san yao yue tuan
+八隻眼	ba zhi yan
+巴哈爾古麗	ba ha er gu li
+巴奈	ba nai
+巴桑	ba sang
+巴思達韻	ba si da yun
+芭芭拉史翠姍	ba ba la shi cui shan
+芭比	ba bi
+芭比娃娃	ba bi wa wa
+爸爸媽媽	ba ba ma ma
+白百何	bai bai he
+白冰	bai bing
+白冰冰	bai bing bing
+白島智惠子	bai dao zhi hui zi
+白光	bai guang
+白虹	bai hong
+白建良	bai jian liang
+白靈	bai ling
+白潞	bai lu
+白夢	bai meng
+白目寶寶	bai mu bao bao
+白鳥英美子	bai niao ying mei zi
+白鳥櫻	bai niao ying
+白慶琳	bai qing lin
+白石日和	bai shi ri he
+白石瞳	bai shi tong
+白松	bai song
+白小俺	bai xiao an
+白小英楠	bai xiao ying nan
+白咲舞	bai xiao wu
+白歆惠	bai xin hui
+白雪	bai xue
+白巖松	bai yan song
+白一彤	bai yi tong
+白茵	bai yin
+白玉昆	bai yu kun
+白智英	bai zhi ying
+百慕三石	bai mu san shi
+柏安妮	bai an ni
+柏含	bai han
+柏栩栩	bai xu xu
+柏原崇	bo yuan chong
+拜金小姐	bai jin xiao jie
+班得瑞樂團	ban de rui yue tuan
+班傑	ban jie
+般羅	ban luo
+般若	bo re
+坂本隆一	ban ben long yi
+坂詰美紗子	ban jie mei sha zi
+板本龍一	ban ben long yi
+鈑機	ban ji
+半打玫瑰	ban da mei gui
+半田浩二	ban tian hao er
+辦桌阿龍	ban zhuo a long
+辦桌二人組	ban zhuo er ren zu
+邦尼泰勒	bang ni tai le
+邦喬維	bang qiao wei
+棒棒堂	bang bang tang
+棒棒堂男孩白光	bang bang tang nan hai bai guang
+棒棒天使	bang bang tian shi
+包美聖	bao mei sheng
+薄荷可樂	bo he ke le
+薄荷葉	bo he ye
+保劍鋒	bao jian feng
+保羅安卡	bao luo an ka
+保羅莫里哀	bao luo mo li ai
+保羅西蒙	bao luo xi meng
+寶兒	bao er
+豹妹	bao mei
+豹小子	bao xiao zi
+鮑比布朗	bao bi bu lang
+鮑比達	bao bi da
+鮑必提	bao bi ti
+鮑勃迪倫	bao bo di lun
+鮑翠薇	bao cui wei
+鮑鵬山	bao peng shan
+鮑正芳	bao zheng fang
+北極	bei ji
+北京天使合唱團	bei jing tian shi he chang tuan
+北山惠理	bei shan hui li
+北條麻妃	bei tiao ma fei
+北原梨奈	bei yuan li nai
+北原山貓	bei yuan shan mao
+貝貝	bei bei
+貝蒂米勒	bei di mi le
+貝多芬	bei duo fen
+貝克漢姆	bei ke han mu
+貝維	bei wei
+貝西伯爵	bei xi bo jue
+蓓蕾	bei lei
+本艾弗萊克	ben ai fu lai ke
+本金斯利	ben jin si li
+本尼古德曼	ben ni gu de man
+本尼西奧德爾託羅	ben ni xi ao de er tuo luo
+本田雅人	ben tian ya ren
+比伯	bi bo
+比利	bi li
+比約克	bi yue ke
+彼得傑克遜	bi de jie ke xun
+彼威爾	bi wei er
+陛尼曼	bi ni man
+畢福劍	bi fu jian
+畢國勇	bi guo yong
+畢曉海	bi xiao hai
+碧昂斯諾里斯	bi ang si nuo li si
+碧昂絲	bi ang si
+碧井椿	bi jing chun
+碧薇莉耐特	bi wei li nai te
+壁虎大樂隊	bi hu da yue dui
+卞進燮	bian jin xie
+卞留念	bian liu nian
+卞小貞	bian xiao zhen
+便利商店	bian li shang dian
+變形金剛	bian xing jin gang
+表兒樂隊	biao er yue dui
+彬雨	bin yu
+濱哥	bin ge
+濱崎步	bin qi bu
+濱崎裏緒	bin qi li xu
+濱田省吾	bin tian sheng wu
+濱田雅功	bin tian ya gong
+檳榔兄弟	bing lang xiong di
+冰火組合	bing huo zu he
+冰淇	bing qi
+冰室京介	bing shi jing jie
+並木優	bing mu you
+病毒	bing du
+波希米婭女子合唱團	bo xi mi ya nv zi he chang tuan
+玻璃箱子	bo li xiang zi
+伯特巴卡拉克	bo te ba ka la ke
+博比達林	bo bi da lin
+博振輝	bo zhen hui
+卜學亮	bu xue liang
+布袋寅泰	bu dai yin tai
+布拉德皮特	bu la de pi te
+布拉姆斯	bu la mu si
+布萊恩亞當斯	bu lai en ya dang si
+布賴恩威爾森	bu lai en wei er sen
+布蘭妮	bu lan ni
+布蘭妮斯皮爾斯	bu lan ni si pi er si
+布魯坎特雷爾	bu lu kan te lei er
+布魯斯斯普林斯汀	bu lu si si pu lin si ting
+布魯斯威利斯	bu lu si wei li si
+布仁巴雅爾	bu ren ba ya er
+布韋傑	bu wei jie
+鈈慊	bu qian
+財津和夫	cai jin he fu
+彩虹	cai hong
+彩虹樂團	cai hong yue tuan
+彩名杏子	cai ming xing zi
+蔡淳佳	cai chun jia
+蔡德才	cai de cai
+蔡楓華	cai feng hua
+蔡國慶	cai guo qing
+蔡國權	cai guo quan
+蔡惠羽	cai hui yu
+蔡慧敏	cai hui min
+蔡濟文	cai ji wen
+蔡健雅	cai jian ya
+蔡俊威	cai jun wei
+蔡康年	cai kang nian
+蔡康永	cai kang yong
+蔡藍欽	cai lan qin
+蔡立	cai li
+蔡立兒	cai li er
+蔡麗津	cai li jin
+蔡齡齡	cai ling ling
+蔡孟臻	cai meng zhen
+蔡妙甜	cai miao tian
+蔡旻佑	cai min you
+蔡明	cai ming
+蔡淇俊	cai qi jun
+蔡琴	cai qin
+蔡秋鳳	cai qiu feng
+蔡榮祖	cai rong zu
+蔡少芬	cai shao fen
+蔡詩芸	cai shi yun
+蔡思濤	cai si tao
+蔡汶家	cai wen jia
+蔡小虎	cai xiao hu
+蔡曉	cai xiao
+蔡曉恩	cai xiao en
+蔡幸娟	cai xing juan
+蔡妍	cai yan
+蔡一傑	cai yi jie
+蔡一智	cai yi zhi
+蔡依林	cai yi lin
+蔡依琳	cai yi lin
+蔡瑩瑩	cai ying ying
+蔡育鵬	cai yu peng
+蔡振南	cai zhen nan
+蔡鎮澤	cai zhen ze
+蔡卓妍	cai zhuo yan
+蔡子健	cai zi jian
+倉本裕基	cang ben yu ji
+倉持陽一	cang chi yang yi
+倉木麻衣	cang mu ma yi
+蒼井憐	cang jing lian
+蒼蠅	cang ying
+藏娃	cang wa
+曹成模	cao cheng mo
+曹誠模	cao cheng mo
+曹方	cao fang
+曹芳	cao fang
+曹芙嘉	cao fu jia
+曹格	cao ge
+曹卉娟	cao hui juan
+曹可凡	cao ke fan
+曹璐	cao lu
+曹敏莉	cao min li
+曹沁芳	cao qin fang
+曹仁超	cao ren chao
+曹曦文	cao xi wen
+曹軒賓	cao xuan bin
+曹穎	cao ying
+曹永廉	cao yong lian
+曹徵	cao zheng
+曹衆	cao zhong
+草莓救星	cao mei jiu xing
+草蜢	cao meng
+側田	ce tian
+岑寶兒	cen bao er
+曾愛玲	ceng ai ling
+曾寶儀	zeng bao yi
+曾春年	zeng chun nian
+曾格格	zeng ge ge
+曾國輝	zeng guo hui
+曾航生	zeng hang sheng
+曾華倩	zeng hua qian
+曾江	zeng jiang
+曾黎	zeng li
+曾路得	zeng lu de
+曾沛慈	zeng pei ci
+曾佩媛	ceng pei yuan
+曾慶瑜	zeng qing yu
+曾仁鬱	ceng ren yu
+曾淑勤	zeng shu qin
+曾曦寧	ceng xi ning
+曾心梅	ceng xin mei
+曾燕婷	ceng yan ting
+曾軼可	zeng yi ke
+曾泳醍	ceng yong ti
+曾志偉	zeng zhi wei
+曾子餘	zeng zi yu
+查克貝里	cha ke bei li
+查理派克	cha li pai ke
+查理茲塞隆	cha li zi sai long
+查娜	zha na
+柴可夫斯基	chai ke fu si ji
+柴田淳	chai tian chun
+柴田亞由美	chai tian ya you mei
+長春蟲子	chang chun chong zi
+長瀨愛	chang lai ai
+長渕剛	chang yuan gang
+常艾非	chang ai fei
+常安	chang an
+常春曉	chang chun xiao
+常海	chang hai
+常靜	chang jing
+常寬	chang kuan
+常盤貴子	chang pan gui zi
+常石磊	chang shi lei
+常思思	chang si si
+常萬全	chang wan quan
+常香玉	chang xiang yu
+常小婧	chang xiao jing
+常曉陽	chang xiao yang
+唱盤劊子手	chang pan gui zi shou
+超級男孩	chao ji nan hai
+超級市場	chao ji shi chang
+超口愛樂團	chao kou ai yue tuan
+超載	chao zai
+朝岡實嶺	chao gang shi ling
+朝美惠香	chao mei hui xiang
+車保羅	che bao luo
+車繼鈴	che ji ling
+車仁表	che ren biao
+車勝元	che sheng yuan
+車太賢	che tai xian
+車太鉉	che tai xuan
+車婉婉	che wan wan
+琛璐	chen lu
+辰伶	chen ling
+陳艾玲	chen ai ling
+陳艾湄	chen ai mei
+陳艾壎	chen ai xun
+陳安琪	chen an qi
+陳安瑩	chen an ying
+陳百強	chen bai qiang
+陳百祥	chen bai xiang
+陳柏宇	chen bai yu
+陳寶國	chen bao guo
+陳寶蓮	chen bao lian
+陳寶珠	chen bao zhu
+陳辰	chen chen
+陳沖	chen chong
+陳楚翹	chen chu qiao
+陳楚生	chen chu sheng
+陳純甄	chen chun zhen
+陳丹丹	chen dan dan
+陳道明	chen dao ming
+陳德容	chen de rong
+陳德志	chen de zhi
+陳狄克	chen di ke
+陳發樹	chen fa shu
+陳法拉	chen fa la
+陳芬蘭	chen fen lan
+陳剛	chen gang
+陳冠霖	chen guan lin
+陳冠蒲	chen guan pu
+陳冠茜	chen guan qian
+陳冠希	chen guan xi
+陳冠宇	chen guan yu
+陳國邦	chen guo bang
+陳國華	chen guo hua
+陳海鈴	chen hai ling
+陳豪	chen hao
+陳好	chen hao
+陳浩德	chen hao de
+陳浩峯	chen hao feng
+陳浩民	chen hao min
+陳紅	chen hong
+陳鴻烈	chen hong lie
+陳驊	chen hua
+陳奐仁	chen huan ren
+陳輝權	chen hui quan
+陳輝陽	chen hui yang
+陳慧琳	chen hui lin
+陳慧珊	chen hui shan
+陳慧恬	chen hui tian
+陳慧嫺	chen hui xian
+陳霽平	chen ji ping
+陳珈穎	chen jia ying
+陳嘉樺	chen jia hua
+陳嘉玲	chen jia ling
+陳嘉唯	chen jia wei
+陳見飛	chen jian fei
+陳建斌	chen jian bin
+陳建年	chen jian nian
+陳建騏	chen jian qi
+陳建穎	chen jian ying
+陳健鋒	chen jian feng
+陳健穎	chen jian ying
+陳鍵鋒	chen jian feng
+陳嬌	chen jiao
+陳潔麗	chen jie li
+陳潔靈	chen jie ling
+陳潔儀	chen jie yi
+陳金柱	chen jin zhu
+陳錦鴻	chen jin hong
+陳婧	chen jing
+陳娟兒	chen juan er
+陳俊生	chen jun sheng
+陳凱歌	chen kai ge
+陳凱怡	chen kai yi
+陳科妤	chen ke yu
+陳坤	chen kun
+陳藍迪	chen lan di
+陳蘭麗	chen lan li
+陳雷	chen lei
+陳黎鍾	chen li zhong
+陳立靖	chen li jing
+陳立強	chen li qiang
+陳莉莉	chen li li
+陳莉萍	chen li ping
+陳麗斯	chen li si
+陳林	chen lin
+陳琳	chen lin
+陳伶俐	chen ling li
+陳龍	chen long
+陳魯豫	chen lu yu
+陳鷺虹	chen lu hong
+陳曼娜	chen man na
+陳茂豐	chen mao feng
+陳美	chen mei
+陳美玲	chen mei ling
+陳美琪	chen mei qi
+陳美詩	chen mei shi
+陳勉良	chen mian liang
+陳妙英	chen miao ying
+陳妙瑛	chen miao ying
+陳玟希	chen wen xi
+陳敏之	chen min zhi
+陳明	chen ming
+陳明亮	chen ming liang
+陳明韶	chen ming shao
+陳明宇	chen ming yu
+陳明章	chen ming zhang
+陳明真	chen ming zhen
+陳木勝	chen mu sheng
+陳乃榮	chen nai rong
+陳念君	chen nian jun
+陳佩斯	chen pei si
+陳鵬	chen peng
+陳琪	chen qi
+陳啓泰	chen qi tai
+陳綺貞	chen qi zhen
+陳倩倩	chen qian qian
+陳倩揚	chen qian yang
+陳喬恩	chen qiao en
+陳慶祥	chen qing xiang
+陳慶祥阿牛	chen qing xiang a niu
+陳瓊美	chen qiong mei
+陳秋琳	chen qiu lin
+陳秋霞	chen qiu xia
+陳仁豐	chen ren feng
+陳蓉	chen rong
+陳蓉蓉	chen rong rong
+陳榮峻	chen rong jun
+陳榮森	chen rong sen
+陳蕊蕊	chen rui rui
+陳瑞	chen rui
+陳瑞華	chen rui hua
+陳瑞凱	chen rui kai
+陳山蔥	chen shan cong
+陳珊妮	chen shan ni
+陳少邦	chen shao bang
+陳少華	chen shao hua
+陳少雲	chen shao yun
+陳紹楠	chen shao nan
+陳昇	chen sheng
+陳詩慧	chen shi hui
+陳詩雨	chen shi yu
+陳十三	chen shi san
+陳世維	chen shi wei
+陳勢安	chen shi an
+陳淑芳	chen shu fang
+陳淑樺	chen shu hua
+陳淑惠	chen shu hui
+陳淑蘭	chen shu lan
+陳淑萍	chen shu ping
+陳爽	chen shuang
+陳司翰	chen si han
+陳思安	chen si an
+陳思慧	chen si hui
+陳思琦	chen si qi
+陳思思	chen si si
+陳思璇	chen si xuan
+陳松伶	chen song ling
+陳臺證	chen tai zheng
+陳天星	chen tian xing
+陳亭慧	chen ting hui
+陳宛蔚	chen wan wei
+陳威全	chen wei quan
+陳韋伶	chen wei ling
+陳韋汝	chen wei ru
+陳偉聯	chen wei lian
+陳偉霆	chen wei ting
+陳瑋儒	chen wei ru
+陳文浩	chen wen hao
+陳文靜	chen wen jing
+陳文媛	chen wen yuan
+陳西貝	chen xi bei
+陳熙	chen xi
+陳翔	chen xiang
+陳小春	chen xiao chun
+陳小霞	chen xiao xia
+陳筱娟	chen xiao juan
+陳曉東	chen xiao dong
+陳曉娟	chen xiao juan
+陳曉琪	chen xiao qi
+陳曉欣	chen xiao xin
+陳孝萱	chen xiao xuan
+陳信宏	chen xin hong
+陳星	chen xing
+陳興瑜	chen xing yu
+陳秀環	chen xiu huan
+陳秀麗	chen xiu li
+陳秀雯	chen xiu wen
+陳秀珠	chen xiu zhu
+陳旭	chen xu
+陳學東	chen xue dong
+陳雪君	chen xue jun
+陳亞蘭	chen ya lan
+陳妍斐	chen yan fei
+陳妍希	chen yan xi
+陳彥行	chen yan xing
+陳一娜	chen yi na
+陳依然	chen yi ran
+陳依依	chen yi yi
+陳怡川	chen yi chuan
+陳怡蓉	chen yi rong
+陳以生	chen yi sheng
+陳奕	chen yi
+陳奕文	chen yi wen
+陳奕迅	chen yi xun
+陳逸男	chen yi nan
+陳藝禎	chen yi zhen
+陳譯賢	chen yi xian
+陳茵媺	chen yin mei
+陳英俊	chen ying jun
+陳盈潔	chen ying jie
+陳穎妍	chen ying yan
+陳穎儀	chen ying yi
+陳穎芝	chen ying zhi
+陳瀅	chen ying
+陳友	chen you
+陳宥臻	chen you zhen
+陳予新	chen yu xin
+陳宇凡	chen yu fan
+陳宇寧	chen yu ning
+陳羽凡	chen yu fan
+陳雨霈	chen yu pei
+陳瑀涵	chen yu han
+陳玉建	chen yu jian
+陳玉蓮	chen yu lian
+陳昱熙	chen yu xi
+陳苑淇	chen yuan qi
+陳悅	chen yue
+陳樂洋	chen le yang
+陳澤宇	chen ze yu
+陳展鵬	chen zhan peng
+陳佔美	chen zhan mei
+陳昭榮	chen zhao rong
+陳芷菁	chen zhi jing
+陳志朋	chen zhi peng
+陳智燊	chen zhi shen
+陳中堅	chen zhong jian
+陳姿	chen zi
+陳子嘟	chen zi du
+陳紫函	chen zi han
+陳自瑤	chen zi yao
+晨輝	chen hui
+晨熙	chen xi
+成珈瑩	cheng jia ying
+成奎安	cheng kui an
+成龍	cheng long
+成詩京	cheng shi jing
+成泰	cheng tai
+成侑彬	cheng you bin
+成展權	cheng zhan quan
+成振宇	cheng zhen yu
+成震	cheng zhen
+城南海	cheng nan hai
+城市少女	cheng shi shao nv
+程晨	cheng chen
+程驥馳	cheng ji chi
+程可爲	cheng ke wei
+程蘭	cheng lan
+程雷	cheng lei
+程諾	cheng nuo
+程思琪	cheng si qi
+程顯軍	cheng xian jun
+程小龍	cheng xiao long
+程曉靜	cheng xiao jing
+程欣	cheng xin
+程怡	cheng yi
+程於倫	cheng yu lun
+程子轅	cheng zi yuan
+橙草	cheng cao
+池賴廣	chi lai guang
+池秋美	chi qiu mei
+池賢宇	chi xian yu
+池珍熙	chi zhen xi
+遲志強	chi zhi qiang
+赤堀雅秋	chi ku ya qiu
+赤雪	chi xue
+寵物店男孩	chong wu dian nan hai
+仇曉	qiu xiao
+初美理音	chu mei li yin
+初美智佳子	chu mei zhi jia zi
+初田悅子	chu tian yue zi
+初音	chu yin
+雛形明子	chu xing ming zi
+楚瑾	chu jin
+楚原	chu yuan
+川村千里	chuan cun qian li
+川村亞紀	chuan cun ya ji
+川村陽奈	chuan cun yang nai
+川島愛	chuan dao ai
+川島和津實	chuan dao he jin shi
+川合里美	chuan he li mei
+川口大輔	chuan kou da fu
+川崎愛	chuan qi ai
+川野直輝	chuan ye zhi hui
+川與晨	chuan yu chen
+川原洋子	chuan yuan yang zi
+川子	chuan zi
+傳田真央	chuan tian zhen yang
+吹牛老爹	chui niu lao die
+刺客	ci ke
+叢飛飛	cong fei fei
+叢浩楠	cong hao nan
+叢珊	cong shan
+崔建邦	cui jian bang
+崔健	cui jian
+崔京浩	cui jing hao
+崔林	cui lin
+崔民勇	cui min yong
+崔萍	cui ping
+崔維斯合唱團	cui wei si he chang tuan
+崔賢俊	cui xian jun
+崔奕	cui yi
+崔永元	cui yong yuan
+崔真實	cui zhen shi
+崔振英	cui zhen ying
+崔正哲	cui zheng zhe
+崔智友	cui zhi you
+崔智雲	cui zhi yun
+村下孝藏	cun xia xiao cang
+達達樂隊	da da yue dui
+達明一派	da ming yi pai
+達坡阿玻	da po a bo
+達瓦卓瑪	da wa zhuo ma
+達與璐	da yu lu
+大芭	da ba
+大城美和	da cheng mei he
+大春子	da chun zi
+大地	da di
+大規模進攻樂隊	da gui mo jin gong yue dui
+大黑摩季	da hei mo ji
+大懶堂	da lan tang
+大瀧詠一	da long yong yi
+大馬幫	da ma bang
+大麥	da mai
+大門樂隊	da men yue dui
+大內亞里沙	da nei ya li sha
+大鵬	da peng
+大浦安娜	da pu an na
+大喬小喬	da qiao xiao qiao
+大橋利恵	da qiao li hui
+大橋卓彌	da qiao zhuo mi
+大泉逸郎	da quan yi lang
+大森洋平	da sen yang ping
+大石彩香	da shi cai xiang
+大宋佳	da song jia
+大頭佛	da tou fo
+大衛鮑依	da wei bao yi
+大衛林奇	da wei lin qi
+大熊	da xiong
+大伢樂隊	da ya yue dui
+大澤佑香	da ze you xiang
+大澤譽志幸	da ze yu zhi xing
+大張偉	da zhang wei
+大哲	da zhe
+大支	da zhi
+大冢咲	da zhong xiao
+大塚咲	da zhong xiao
+大嘴巴	da zui ba
+呆寶靜	dai bao jing
+代青塔娜	dai qing ta na
+代旭	dai xu
+殆死悲愛	dai si bei ai
+戴愛玲	dai ai ling
+戴安萊恩	dai an lai en
+戴安娜	dai an na
+戴兵	dai bing
+戴伯拉考克斯	dai bo la kao ke si
+戴夫帕德樂隊	dai fu pa de yue dui
+戴軍	dai jun
+戴蕾	dai lei
+戴夢夢	dai meng meng
+戴米摩爾	dai mi mo er
+戴妮	dai ni
+戴佩妮	dai pei ni
+戴嬈	dai rao
+戴少民	dai shao min
+戴薇	dai wei
+戴維拜恩	dai wei bai en
+戴筱軼	dai xiao yi
+戴辛尉	dai xin wei
+戴雪兒	dai xue er
+戴耀明	dai yao ming
+戴玉強	dai yu qiang
+戴志偉	dai zhi wei
+黛安娜克瑞兒	dai an na ke rui er
+黛安娜羅絲	dai an na luo si
+黛兒塔	dai er ta
+黛娜華盛頓	dai na hua sheng dun
+黛絲瑞	dai si rui
+丹丹	dan dan
+丹堤湯瑪斯	dan di tang ma si
+丹吉布森	dan ji bu sen
+丹妮米洛	dan ni mi luo
+丹尼爾貝丁菲爾德	dan ni er bei ding fei er de
+丹尼爾戴路易斯	dan ni er dai lu yi si
+丹尼斯吳	dan ni si wu
+丹澤爾華盛頓	dan ze er hua sheng dun
+蛋糕炸彈	dan gao zha dan
+當娜劉易斯	dang na liu yi si
+黨寧	dang ning
+刀郎	dao lang
+道賢	dao xian
+道元京	dao yuan jing
+稻森麗奈	dao sen li nai
+稻盛和夫	dao sheng he fu
+稻葉浩志	dao ye hao zhi
+稻垣潤一	dao yuan run yi
+德德瑪	de de ma
+德永英明	de yong ying ming
+鄧超	deng chao
+鄧萃雯	deng cui wen
+鄧斐	deng fei
+鄧浩光	deng hao guang
+鄧寄塵	deng ji chen
+鄧建泓	deng jian hong
+鄧建明	deng jian ming
+鄧健泓	deng jian hong
+鄧九雲	deng jiu yun
+鄧力源	deng li yuan
+鄧麗君	deng li jun
+鄧麗欣	deng li xin
+鄧曼茹	deng man ru
+鄧妙華	deng miao hua
+鄧寧	deng ning
+鄧汝超	deng ru chao
+鄧森	deng sen
+鄧上文	deng shang wen
+鄧淑麗	deng shu li
+鄧衛	deng wei
+鄧一君	deng yi jun
+鄧伊茜	deng yi qian
+鄧英敏	deng ying min
+鄧穎芝	deng ying zhi
+鄧永健	deng yong jian
+鄧詠家	deng yong jia
+鄧育慶	deng yu qing
+鄧兆尊	deng zhao zun
+鄧志浩	deng zhi hao
+鄧梓峯	deng zi feng
+鄧紫飛	deng zi fei
+鄧紫棋	deng zi qi
+堤莎也加	di sha ye jia
+狄昂華薇克	di ang hua wei ke
+狄波拉哈利	di bo la ha li
+狄龍	di long
+狄鶯	di ying
+迪克蘭	di ke lan
+迪克牛仔	di ke niu zai
+迪桑	di sang
+荻原舞	di yuan wu
+底裏	di li
+地鐵兄弟	di tie xiong di
+地下國度	di xia guo du
+地下嬰兒	di xia ying er
+第頻道	di pin dao
+第七樂章	di qi yue zhang
+蒂朵	di duo
+蒂娜亞瑞納	di na ya rui na
+槙原敬之	dian yuan jing zhi
+刁寒	diao han
+丁當	ding dang
+丁菲飛	ding fei fei
+丁呱呱	ding gua gua
+丁廣泉	ding guang quan
+丁建華	ding jian hua
+丁力	ding li
+丁柳元	ding liu yuan
+丁寧	ding ning
+丁琦	ding qi
+丁爽	ding shuang
+丁天牧	ding tian mu
+丁汀	ding ting
+丁薇	ding wei
+丁文俊	ding wen jun
+丁文琪	ding wen qi
+丁香	ding xiang
+丁香曉曉	ding xiang xiao xiao
+丁小芹	ding xiao qin
+丁曉紅	ding xiao hong
+丁樂鍶	ding le si
+丁子峻	ding zi jun
+叮噹	ding dang
+冬馬由美	dong ma you mei
+東東湯運煥	dong dong tang yun huan
+東方快車	dong fang kuai che
+東方神起	dong fang shen qi
+東海	dong hai
+東來東往	dong lai dong wang
+東尼班尼特	dong ni ban ni te
+東山少爺	dong shan shao ye
+東野圭吾	dong ye gui wu
+東於哲	dong yu zhe
+鼕鼕	dong dong
+董浩	dong hao
+董家林	dong jia lin
+董潔	dong jie
+董敏莉	dong min li
+董平	dong ping
+董青	dong qing
+董卿	dong qing
+董事長樂團	dong shi zhang yue tuan
+董文華	dong wen hua
+董文瑩	dong wen ying
+董曉燕	dong xiao yan
+董璇	dong xuan
+董勇	dong yong
+董運昌	dong yun chang
+董貞	dong zhen
+懂此懂此樂團	dong ci dong ci yue tuan
+洞內愛	dong nei ai
+動靜	dong jing
+動力火車	dong li huo che
+豆豆	dou dou
+豆花妹	dou hua mei
+鬥鬧熱走唱隊	dou nao re zou chang dui
+竇鵬	dou peng
+竇唯	dou wei
+竇驍	dou xiao
+竇智孔	dou zhi kong
+杜斌	du bin
+杜長蕊	du chang rui
+杜淳	du chun
+杜大偉	du da wei
+杜德偉	du de wei
+杜海濤	du hai tao
+杜近芳	du jin fang
+杜鵑	du juan
+杜磊	du lei
+杜麗莎	du li sha
+杜琪峯	du qi feng
+杜雯惠	du wen hui
+杜汶澤	du wen ze
+杜小米	du xiao mi
+杜雲生	du yun sheng
+渡邊健二	du bian jian er
+渡瀨晶	du lai jing
+端木新卉	duan mu xin hui
+段波	duan bo
+段黃巍	duan huang wei
+段俊	duan jun
+段麗陽	duan li yang
+段千尋	duan qian xun
+恩雅	en ya
+恩煬	en yang
+爾冬升	er dong sheng
+二宮步美	er gong bu mei
+二宮優	er gong you
+二手玫瑰	er shou mei gui
+二月裏來	er yue li lai
+廢五金	fei wu jin
+廢墟樂隊	fei xu yue dui
+法藍	fa lan
+法蘭克辛納區	fa lan ke xin na qu
+法蘭茜斯嘉	fa lan qian si jia
+凡妮莎	fan ni sha
+凡人二重唱	fan ren er chong chang
+凡言與冥	fan yan yu ming
+樊波	fan bo
+樊少華	fan shao hua
+樊昱君	fan yu jun
+反町隆史	fan ding long shi
+反光鏡樂隊	fan guang jing yue dui
+范冰冰	fan bing bing
+范瑋琪	fan wei qi
+范文芳	fan wen fang
+范曉萱	fan xiao xuan
+范逸臣	fan yi chen
+梵音	fan yin
+飯島愛	fan dao ai
+飯田舞	fan tian wu
+範彩兒	fan cai er
+範成玉	fan cheng yu
+範廣惠	fan guang hui
+範思威	fan si wei
+範萱蔚	fan xuan wei
+範怡文	fan yi wen
+範蓁蓁	fan zhen zhen
+範宗沛	fan zong pei
+方邦	fang bang
+方大同	fang da tong
+方迪	fang di
+方皓玟	fang hao wen
+方季惟	fang ji wei
+方傑	fang jie
+方靜音	fang jing yin
+方炯鑌	fang jiong bin
+方力申	fang li shen
+方麗儀	fang li yi
+方夢誠	fang meng cheng
+方三俊	fang san jun
+方順吉	fang shun ji
+方文琳	fang wen lin
+方雅賢	fang ya xian
+方伊琪	fang yi qi
+方怡萍	fang yi ping
+方逸華	fang yi hua
+方志友	fang zhi you
+方治權	fang zhi quan
+方中信	fang zhong xin
+方子璇	fang zi xuan
+方梓媛	fang zi yuan
+芳華十八	fang hua shi ba
+房峯輝	fang feng hui
+房祖名	fang zu ming
+妃悠愛	fei you ai
+非誠勿擾	fei cheng wu rao
+非典妹	fei dian mei
+非同小可	fei tong xiao ke
+飛兒樂隊	fei er yue dui
+飛兒樂團	fei er yue tuan
+飛蘭	fei lan
+飛輪海	fei lun hai
+飛鳥涼	fei niao liang
+飛穎	fei ying
+菲比	fei bi
+菲爾柯林斯	fei er ke lin si
+菲姬	fei ji
+菲絲希爾	fei si xi er
+費尼克斯	fei ni ke si
+費絲希爾	fei si xi er
+費翔	fei xiang
+費星	fei xing
+費玉清	fei yu qing
+粉娛三寶	fen yu san bao
+風車草歌舞團	feng che cao ge wu tuan
+風吹亞吉拉	feng chui ya ji la
+風間由美	feng jian you mei
+風雲組合	feng yun zu he
+豐丸	feng wan
+馮翠樺	feng cui hua
+馮丹瀅	feng dan ying
+馮德倫	feng de lun
+馮剛毅	feng gang yi
+馮鞏	feng gong
+馮翰銘	feng han ming
+馮雷	feng lei
+馮磊	feng lei
+馮喬	feng qiao
+馮紹峯	feng shao feng
+馮素波	feng su bo
+馮挺然	feng ting ran
+馮瑋君	feng wei jun
+馮曦妤	feng xi yu
+馮小剛	feng xiao gang
+馮曉泉	feng xiao quan
+馮曉文	feng xiao wen
+馮穎琪	feng ying qi
+鳳飛飛	feng fei fei
+鳳凰傳奇	feng huang chuan qi
+弗蘭西斯麥克多門	fu lan xi si mai ke duo men
+弗朗西斯福特科波拉	fu lang xi si fu te ke bo la
+伏晨	fu chen
+伏明霞	fu ming xia
+浮克	fu ke
+浮世繪	fu shi hui
+符馨尹	fu xin yin
+福井舞	fu jing wu
+福井裕佳梨	fu jing yu jia li
+福山雅治	fu shan ya zhi
+福永	fu yong
+付佳明	fu jia ming
+付靜	fu jing
+付辛博	fu xin bo
+傅彪	fu biao
+傅楚卉	fu chu hui
+傅劍虹	fu jian hong
+傅娟	fu juan
+傅霖	fu lin
+傅佩嘉	fu pei jia
+傅斯彥	fu si yan
+傅天穎	fu tian ying
+傅薇	fu wei
+傅小洋	fu xiao yang
+傅穎	fu ying
+傅振輝	fu zhen hui
+蓋麗麗	gai li li
+蓋鳴輝	gai ming hui
+蓋世寶	gai shi bao
+甘萍	gan ping
+甘薇	gan wei
+甘雅丹	gan ya dan
+甘子正	gan zi zheng
+幹樂隊	gan yue dui
+岡倉鮎	gang cang nian
+岡村靖幸	gang cun jing xing
+岡崎律子	gang qi lv zi
+岡元厚子	gang yuan hou zi
+剛澤斌	gang ze bin
+剛紫	gang zi
+槓寶	gang bao
+高柏	gao bai
+高寶寶	gao bao bao
+高部	gao bu
+高潮樂隊	gao chao yue dui
+高晨維	gao chen wei
+高登	gao deng
+高恩美	gao en mei
+高菲	gao fei
+高楓	gao feng
+高海博	gao hai bo
+高海寧	gao hai ning
+高皓正	gao hao zheng
+高洪章	gao hong zhang
+高虎	gao hu
+高護文	gao hu wen
+高慧君	gao hui jun
+高見	gao jian
+高進	gao jin
+高鈞賢	gao jun xian
+高林生	gao lin sheng
+高凌風	gao ling feng
+高露	gao lu
+高明瀚	gao ming han
+高明駿	gao ming jun
+高木加織	gao mu jia zhi
+高木正勝	gao mu zheng sheng
+高旗	gao qi
+高橋瞳	gao qiao tong
+高橋洋樹	gao qiao yang shu
+高橋洋子	gao qiao yang zi
+高人傑	gao ren jie
+高仁	gao ren
+高瑞欣	gao rui xin
+高山阿嬤	gao shan a mo
+高山峯	gao shan feng
+高山林	gao shan lin
+高勝美	gao sheng mei
+高世元	gao shi yuan
+高樹千佳子	gao shu qian jia zi
+高夏	gao xia
+高曉松	gao xiao song
+高歆迪	gao xin di
+高雄	gao xiong
+高秀敏	gao xiu min
+高雅拉	gao ya la
+高婭媛	gao ya yuan
+高陽	gao yang
+高耀太	gao yao tai
+高以愛	gao yi ai
+高以翔	gao yi xiang
+高友振	gao you zhen
+高宇	gao yu
+高圓圓	gao yuan yuan
+高遠	gao yuan
+高子越	gao zi yue
+郜曉晨	gao xiao chen
+哥哥妹妹	ge ge mei mei
+格格	ge ge
+格蕾蒂絲奈特	ge lei di si nai te
+格里傑夫	ge li jie fu
+格利高裏派克	ge li gao li pai ke
+格溫妮絲帕特洛	ge wen ni si pa te luo
+葛繼力	ge ji li
+葛蘭	ge lan
+葛蕾威爾森	ge lei wei er sen
+葛洛麗婭艾絲特凡	ge luo li ya ai si te fan
+葛薇	ge wei
+葛欣	ge xin
+葛優	ge you
+給力小子	gei li xiao zi
+耿珞	geng luo
+耿寧	geng ning
+耿直	geng zhi
+耿忠	geng zhong
+工兵樂隊	gong bing yue dui
+工藤靜香	gong teng jing xiang
+公孫策	gong sun ce
+功夫	gong fu
+恭碩良	gong shuo liang
+恭僖禧	gong xi xi
+宮內幸平	gong nei xing ping
+宮平峻	gong ping jun
+宮崎駿	gong qi jun
+宮崎羽衣	gong qi yu yi
+宮下杏奈	gong xia xing nai
+宮下雄也	gong xia xiong ye
+宮沢和史	gong ze he shi
+宮澤理惠	gong ze li hui
+龔蓓苾	gong bei bi
+龔格爾	gong ge er
+龔嘉欣	gong jia xin
+龔柯允	gong ke yun
+龔茜彤	gong qian tong
+龔秋霞	gong qiu xia
+龔詩嘉	gong shi jia
+龔玥	gong yue
+鞏賀	gong he
+鞏俐	gong li
+貢米	gong mi
+貢維特	gong wei te
+苟偉	gou wei
+狗毛	gou mao
+辜靖潔	gu jing jie
+古谷徹	gu gu che
+古皓	gu hao
+古巨基	gu ju ji
+古明地洋哉	gu ming di yang zai
+古明華	gu ming hua
+古勝中	gu sheng zhong
+古天樂	gu tian le
+古田美穗	gu tian mei sui
+古宇	gu yu
+古月	gu yue
+谷本貴義	gu ben gui yi
+谷村奈南	gu cun nai nan
+谷村新司	gu cun xin si
+谷德昭	gu de zhao
+谷峯	gu feng
+谷祖琳	gu zu lin
+顧長衛	gu chang wei
+顧峯	gu feng
+顧海濱	gu hai bin
+顧紀筠	gu ji jun
+顧建華	gu jian hua
+顧莉雅	gu li ya
+顧媚	gu mei
+顧人麒	gu ren qi
+掛在盒子上	gua zai he zi shang
+官恩娜	guan en na
+官煒棠	guan wei tang
+官仲銘	guan zhong ming
+關寶慧	guan bao hui
+關楚耀	guan chu yao
+關德輝	guan de hui
+關海山	guan hai shan
+關懷	guan huai
+關菁	guan jing
+關菊英	guan ju ying
+關禮傑	guan li jie
+關鵬	guan peng
+關淑怡	guan shu yi
+關婉珊	guan wan shan
+關心妍	guan xin yan
+關詠荷	guan yong he
+關詠菏	guan yong he
+關月	guan yue
+關澤楠	guan ze nan
+關喆	guan zhe
+關正傑	guan zheng jie
+關之琳	guan zhi lin
+關智斌	guan zhi bin
+管維嘉	guan wei jia
+貫家郡	guan jia jun
+光磊	guang lei
+光良	guang liang
+光頭	guang tou
+光永亮太	guang yong liang tai
+光月夜也	guang yue ye ye
+廣末涼子	guang mo liang zi
+廣智	guang zhi
+鬼綸	gui lun
+鬼束千尋	gui shu qian xun
+桂綸鎂	gui lun mei
+桂木亞沙美	gui mu ya sha mei
+滾石樂隊	gun shi yue dui
+郭藹明	guo ai ming
+郭柏鷺	guo bai lu
+郭彪	guo biao
+郭采潔	guo cai jie
+郭德綱	guo de gang
+郭德信	guo de xin
+郭頂	guo ding
+郭妃麗	guo fei li
+郭峯	guo feng
+郭富城	guo fu cheng
+郭桂彬	guo gui bin
+郭恆	guo heng
+郭佳詩	guo jia shi
+郭嘉璐	guo jia lu
+郭金	guo jin
+郭晉安	guo jin an
+郭進	guo jin
+郭晶晶	guo jing jing
+郭淨	guo jing
+郭敬明	guo jing ming
+郭靜	guo jing
+郭靜純	guo jing chun
+郭柯宇	guo ke yu
+郭可盈	guo ke ying
+郭蘭英	guo lan ying
+郭力行	guo li xing
+郭凌霞	guo ling xia
+郭美美	guo mei mei
+郭美孜	guo mei zi
+郭品超	guo pin chao
+郭虔哲	guo qian zhe
+郭全寶	guo quan bao
+郭少芸	guo shao yun
+郭書瑤	guo shu yao
+郭帥	guo shuai
+郭彤	guo tong
+郭彤彤	guo tong tong
+郭偉亮	guo wei liang
+郭文龍	guo wen long
+郭羨妮	guo xian ni
+郭小霖	guo xiao lin
+郭曉冬	guo xiao dong
+郭曉婷	guo xiao ting
+郭芯其	guo xin qi
+郭鑫	guo xin
+郭燕	guo yan
+郭耀明	guo yao ming
+郭怡伶	guo yi ling
+郭易	guo yi
+郭穎橋	guo ying qiao
+郭珍霓	guo zhen ni
+郭政鴻	guo zheng hong
+郭卓樺	guo zhuo hua
+郭子	guo zi
+郭宗翰	guo zong han
+哈菲子	ha fei zi
+哈狗幫	ha gou bang
+哈輝	ha hui
+哈里森福特	ha li sen fu te
+哈利貝瑞	ha li bei rui
+哈雅樂團	ha ya yue tuan
+哈扎布	ha zha bu
+海潮	hai chao
+海頓	hai dun
+海雷	hai lei
+海倫亨特	hai lun heng te
+海倫米林	hai lun mi lin
+海鳴威	hai ming wei
+海楠	hai nan
+海鷗樂團	hai ou yue tuan
+海清	hai qing
+海生	hai sheng
+海灘男孩	hai tan nan hai
+海燕	hai yan
+亥兒樂隊	hai er yue dui
+含恩靜	han en jing
+含笑	han xiao
+韓寶儀	han bao yi
+韓超	han chao
+韓春	han chun
+韓東	han dong
+韓庚	han geng
+韓寒	han han
+韓紅	han hong
+韓京日	han jing ri
+韓晶	han jing
+韓君婷	han jun ting
+韓磊	han lei
+韓菱紗	han ling sha
+韓露	han lu
+韓馬利	han ma li
+韓鵬翼	han peng yi
+韓秋池	han qiu chi
+韓廷琦	han ting qi
+韓雯雯	han wen wen
+韓信	han xin
+韓秀雲	han xiu yun
+韓雪	han xue
+韓陽子	han yang zi
+韓一磊	han yi lei
+韓藝仁	han yi ren
+韓尤娜	han you na
+韓瑜	han yu
+韓毓霞	han yu xia
+韓宰錫	han zai xi
+韓再芬	han zai fen
+韓真真	han zhen zhen
+韓智俊	han zhi jun
+韓中	han zhong
+韓子婧	han zi jing
+闞傑	kan jie
+闞金明	kan jin ming
+漢洋	han yang
+行雨者	xing yu zhe
+杭嬌	hang jiao
+杭琳峯	hang lin feng
+好朋友樂團	hao peng you yue tuan
+郝菲爾	hao fei er
+郝歌	hao ge
+郝蕾	hao lei
+郝洋	hao yang
+郝雲	hao yun
+昊恩家家	hao en jia jia
+昊天	hao tian
+浩二	hao er
+浩瀚	hao han
+浩天	hao tian
+皓天	hao tian
+合而爲一合唱團	he er wei yi he chang tuan
+何傲兒	he ao er
+何傲芝	he ao zhi
+何超儀	he chao yi
+何東均	he dong jun
+何東俊	he dong jun
+何凡	he fan
+何方	he fang
+何炅	he jiong
+何家勁	he jia jin
+何家駒	he jia ju
+何家俊	he jia jun
+何嘉莉	he jia li
+何嘉樂	he jia le
+何建清	he jian qing
+何傑	he jie
+何潔	he jie
+何靜	he jing
+何俊明	he jun ming
+何浚尉	he jun wei
+何俐恩	he li en
+何琳	he lin
+何伶	he ling
+何美鈿	he mei dian
+何美玲	he mei ling
+何苗	he miao
+何沐陽	he mu yang
+何慕琪	he mu qi
+何沛澄	he pei cheng
+何佩兒	he pei er
+何平	he ping
+何啓南	he qi nan
+何綺雲	he qi yun
+何晴	he qing
+何潤東	he run dong
+何賽飛	he sai fei
+何晟銘	he sheng ming
+何守信	he shou xin
+何婉盈	he wan ying
+何維健	he wei jian
+何偉業	he wei ye
+何忻翰	he xin han
+何欣	he xin
+何欣穗	he xin sui
+何瑤	he yao
+何耀珊	he yao shan
+何以奇	he yi qi
+何勇	he yong
+何禹萱	he yu xuan
+何韻詩	he yun shi
+何真真	he zhen zhen
+何志健	he zhi jian
+何志祥	he zhi xiang
+何仲偉	he zhong wei
+和希沙也	he xi sha ye
+河村彩	he cun cai
+河村隆一	he cun long yi
+河國榮	he guo rong
+河合綾	he he ling
+河口恭吾	he kou gong wu
+河莉秀	he li xiu
+河琳	he lin
+河智苑	he zhi yuan
+河中麻系	he zhong ma xi
+賀剛	he gang
+賀軍翔	he jun xiang
+賀文傑	he wen jie
+赫拉瑞達芙	he la rui da fu
+黒崎	hei qi
+黑棒	hei bang
+黑豹	hei bao
+黑盒	hei he
+黑龍	hei long
+黑木麻衣	hei mu ma yi
+黑木明紗	hei mu ming sha
+黑木瞳	hei mu tong
+黑木香	hei mu xiang
+黑皮	hei pi
+黑崎彩	hei qi cai
+黑崎扇菜	hei qi shan cai
+黑色餅乾	hei se bing gan
+黑澀會美眉	hei se hui mei mei
+黑手那卡西工人樂隊	hei shou na ka xi gong ren yue dui
+黑鴨子	hei ya zi
+黑鴨子合唱組	hei ya zi he chang zu
+黑眼豆豆	hei yan dou dou
+黑澤薰	hei ze xun
+恆春兮	heng chun xi
+恆吉梨繪	heng ji li hui
+橫山知枝	heng shan zhi zhi
+衡越	heng yue
+洪愛莉	hong ai li
+洪百慧	hong bai hui
+洪格致	hong ge zhi
+洪京民	hong jing min
+洪敬堯	hong jing yao
+洪軍傑	hong jun jie
+洪俊揚	hong jun yang
+洪玲	hong ling
+洪佩誼	hong pei yi
+洪榮宏	hong rong hong
+洪瑞襄	hong rui xiang
+洪天明	hong tian ming
+洪瑋	hong wei
+洪小玲	hong xiao ling
+洪乙心	hong yi xin
+洪卓立	hong zhuo li
+洪子晴	hong zi qing
+紅白梅	hong bai mei
+紅布條	hong bu tiao
+紅脣族	hong chun zu
+紅豆	hong dou
+紅粉馬丁尼	hong fen ma ding ni
+紅孩兒	hong hai er
+紅辣椒樂隊	hong la jiao yue dui
+紅藍鉛筆	hong lan qian bi
+紅螞蟻	hong ma yi
+紅脈組合	hong mai zu he
+紅英	hong ying
+紅雨	hong yu
+紅雨晴	hong yu qing
+侯德健	hou de jian
+侯高俊傑	hou gao jun jie
+侯美儀	hou mei yi
+侯尼勳	hou ni xun
+侯佩岑	hou pei cen
+侯睿	hou rui
+侯湘婷	hou xiang ting
+侯旭	hou xu
+侯志斌	hou zhi bin
+後海大鯊魚	hou hai da sha yu
+後舍男生	hou she nan sheng
+後藤邑子	hou teng yi zi
+後弦	hou xian
+候尼勳	hou ni xun
+呼嚨	hu long
+呼斯楞	hu si leng
+呼吸樂隊	hu xi yue dui
+胡白	hu bai
+胡蓓蔚	hu bei wei
+胡兵	hu bing
+胡德夫	hu de fu
+胡定欣	hu ding xin
+胡東	hu dong
+胡芳芳	hu fang fang
+胡楓	hu feng
+胡歌	hu ge
+胡瓜	hu gua
+胡海峯	hu hai feng
+胡海泉	hu hai quan
+胡佳琛	hu jia chen
+胡椒貓	hu jiao mao
+胡靜	hu jing
+胡炯龍	hu jiong long
+胡軍	hu jun
+胡俊	hu jun
+胡凱莉	hu kai li
+胡里奧伊格萊西亞斯	hu li ao yi ge lai xi ya si
+胡力	hu li
+胡琳	hu lin
+胡靈	hu ling
+胡嗎個	hu ma ge
+胡美儀	hu mei yi
+胡敏明	hu min ming
+胡諾言	hu nuo yan
+胡培蔚	hu pei wei
+胡啓光	hu qi guang
+胡啓榮	hu qi rong
+胡清藍	hu qing lan
+胡銳	hu rui
+胡雯	hu wen
+胡雯娟	hu wen juan
+胡夏	hu xia
+胡曉晴	hu xiao qing
+胡杏兒	hu xing er
+胡雪盟	hu xue meng
+胡彥斌	hu yan bin
+胡燕妮	hu yan ni
+胡楊林	hu yang lin
+胡瑤	hu yao
+胡耀威	hu yao wei
+胡一虎	hu yi hu
+胡元愷	hu yuan kai
+胡越山	hu yue shan
+蝴蝶組合	hu die zu he
+虎子	hu zi
+許俾文	xu bi wen
+許崇	xu chong
+許飛	xu fei
+許戈輝	xu ge hui
+許冠傑	xu guan jie
+許冠文	xu guan wen
+許冠英	xu guan ying
+許還幻	xu hai huan
+許懷欣	xu huai xin
+許慧欣	xu hui xin
+許家傑	xu jia jie
+許家印	xu jia yin
+許嘉凌	xu jia ling
+許嘉齡	xu jia ling
+許晉豪	xu jin hao
+許景淳	xu jing chun
+許美靜	xu mei jing
+許孟哲	xu meng zhe
+許晴	xu qing
+許秋怡	xu qiu yi
+許仁杰	xu ren jie
+許茹芸	xu ru yun
+許紹洋	xu shao yang
+許淑娟	xu shu juan
+許嵩	xu song
+許廷鏗	xu ting keng
+許巍	xu wei
+許維芝	xu wei zhi
+許瑋倫	xu wei lun
+許小行	xu xiao hang
+許雅涵	xu ya han
+許逸婷	xu yi ting
+許永生	xu yong sheng
+許哲	xu zhe
+許哲佩	xu zhe pei
+許正廷	xu zheng ting
+許志安	xu zhi an
+許志豪	xu zhi hao
+琥珀	hu po
+戶田惠梨香	hu tian hui li xiang
+花兒樂隊	hua er yue dui
+花井美里	hua jing mei li
+花木蘭樂隊	hua mu lan yue dui
+花生隊長	hua sheng dui zhang
+花耀飛	hua yao fei
+花澤冰	hua ze bing
+華少	hua shao
+華少翌	hua shao yi
+華忠男	hua zhong nan
+驊梓	hua zi
+化學兄弟	hua xue xiong di
+壞愛情	huai ai qing
+壞碑脣	huai bei chun
+歡歡	huan huan
+歡子	huan zi
+荒山亮	huang shan liang
+皇甫惠靜	huang fu hui jing
+皇甫聖華	huang fu sheng hua
+皇后樂隊	huang hou yue dui
+黃安	huang an
+黃安琪	huang an qi
+黃百鳴	huang bai ming
+黃寶欣	huang bao xin
+黃寶瑤	huang bao yao
+黃碧玲	huang bi ling
+黃渤	huang bo
+黃燦	huang can
+黃衝	huang chong
+黃崇旭	huang chong xu
+黃翠珊	huang cui shan
+黃大城	huang da cheng
+黃大煒	huang da wei
+黃丹儀	huang dan yi
+黃德斌	huang de bin
+黃德江	huang de jiang
+黃妃	huang fei
+黃飛然	huang fei ran
+黃鳳瓊	huang feng qiong
+黃格選	huang ge xuan
+黃貫中	huang guan zhong
+黃光亮	huang guang liang
+黃桂林	huang gui lin
+黃國俊	huang guo jun
+黃國倫	huang guo lun
+黃海冰	huang hai bing
+黃河	huang he
+黃鶴翔	huang he xiang
+黃紅英	huang hong ying
+黃鴻升	huang hong sheng
+黃慧音	huang hui yin
+黃紀瑩	huang ji ying
+黃家駒	huang jia ju
+黃家強	huang jia qiang
+黃嘉麗	huang jia li
+黃嘉千	huang jia qian
+黃嘉樂	huang jia le
+黃建爲	huang jian wei
+黃健中	huang jian zhong
+黃鍵	huang jian
+黃玠	huang jie
+黃錦鴻	huang jin hong
+黃錦燊	huang jin shen
+黃錦炎	huang jin yan
+黃景行	huang jing xing
+黃靖倫	huang jing lun
+黃靜雅	huang jing ya
+黃靜茵	huang jing yin
+黃覺	huang jue
+黃俊郎	huang jun lang
+黃俊源	huang jun yuan
+黃凱琪	huang kai qi
+黃凱芹	huang kai qin
+黃鎧晴	huang kai qing
+黃藍白	huang lan bai
+黃磊	huang lei
+黃立成	huang li cheng
+黃立行	huang li xing
+黃麗玲	huang li ling
+黃烈傳	huang lie chuan
+黃齡	huang ling
+黃露儀	huang lu yi
+黃美姬	huang mei ji
+黃美棋	huang mei qi
+黃美熙	huang mei xi
+黃美珍	huang mei zhen
+黃名偉	huang ming wei
+黃佩珊	huang pei shan
+黃品源	huang pin yuan
+黃琦雯	huang qi wen
+黃祺銘	huang qi ming
+黃秋生	huang qiu sheng
+黃日華	huang ri hua
+黃蓉	huang rong
+黃聖依	huang sheng yi
+黃手帕	huang shou pa
+黃淑惠	huang shu hui
+黃淑儀	huang shu yi
+黃舒駿	huang shu jun
+黃思婷	huang si ting
+黃天鐸	huang tian duo
+黃婉伶	huang wan ling
+黃萬伯	huang wan bo
+黃威爾	huang wei er
+黃維德	huang wei de
+黃偉麟	huang wei lin
+黃偉文	huang wei wen
+黃煒林	huang wei lin
+黃文標	huang wen biao
+黃熹嬈	huang xi rao
+黃湘怡	huang xiang yi
+黃小琥	huang xiao hu
+黃小燕	huang xiao yan
+黃小楨	huang xiao zhen
+黃曉明	huang xiao ming
+黃心懋	huang xin mao
+黃新德	huang xin de
+黃薪惠	huang xin hui
+黃馨	huang xin
+黃馨儀	huang xin yi
+黃鑫	huang xin
+黃星魁	huang xing kui
+黃學新	huang xue xin
+黃雅莉	huang ya li
+黃雅珉	huang ya min
+黃雅詩	huang ya shi
+黃耀明	huang yao ming
+黃一飛	huang yi fei
+黃伊汶	huang yi wen
+黃沂瞳	huang yi tong
+黃乙玲	huang yi ling
+黃泆潼	huang yi tong
+黃奕	huang yi
+黃翊	huang yi
+黃義達	huang yi da
+黃毅成	huang yi cheng
+黃英	huang ying
+黃鶯	huang ying
+黃鶯鶯	huang ying ying
+黃瑩	huang ying
+黃宇詩	huang yu shi
+黃羽承	huang yu cheng
+黃雨田	huang yu tian
+黃玉榮	huang yu rong
+黃月明	huang yue ming
+黃閱	huang yue
+黃樂兒	huang le er
+黃蘊妍	huang yun yan
+黃韻玲	huang yun ling
+黃澤鋒	huang ze feng
+黃沾	huang zhan
+黃霑	huang zhan
+黃喆宇	huang zhe yu
+黃真真	huang zhen zhen
+黃振威	huang zhen wei
+黃徵	huang zheng
+黃志瑋	huang zhi wei
+黃智雯	huang zhi wen
+黃智賢	huang zhi xian
+黃中原	huang zhong yuan
+黃仲昆	huang zhong kun
+黃子衡	huang zi heng
+黃子華	huang zi hua
+黃子佼	huang zi jiao
+黃子騰	huang zi teng
+黃子雄	huang zi xiong
+黃梓瑋	huang zi wei
+黃宗澤	huang zong ze
+灰姑娘	hui gu niang
+輝星	hui xing
+惠美梨	hui mei li
+惠特尼休斯頓	hui te ni xiu si dun
+惠英紅	hui ying hong
+活希兒	huo xi er
+火風	huo feng
+火舞黃沙	huo wu huang sha
+火星人	huo xing ren
+火雅	huo ya
+霍建華	huo jian hua
+霍健邦	huo jian bang
+霍健華	huo jian hua
+霍思燕	huo si yan
+霍思羽	huo si yu
+乩童秩序	ji tong zhi xu
+姬神	ji shen
+姬聲雅士	ji sheng ya shi
+基地能手樂隊	ji di neng shou yue dui
+基地小虎	ji di xiao hu
+基努裏維斯	ji nu li wei si
+基尚	ji shang
+雞腿飯	ji tui fan
+吉川晃司	ji chuan huang si
+吉川綾乃	ji chuan ling nai
+吉爾伯特	ji er bo te
+吉岡亜衣加	ji gang ya yi jia
+吉傑	ji jie
+吉井和哉	ji jing he zai
+吉姆布勞德本特	ji mu bu lao de ben te
+吉姆凱瑞	ji mu kai rui
+吉田美和	ji tian mei he
+吉田亜咲	ji tian ya xiao
+吉娃斯杜嵐	ji wa si du lan
+吉雪萍	ji xue ping
+吉澤明步	ji ze ming bu
+吉澤瞳	ji ze tong
+極光樂團	ji guang yue tuan
+集束月光	ji shu yue guang
+幾米	ji mi
+忌野清志郎	ji ye qing zhi lang
+季紅	ji hong
+季芹	ji qin
+季忠平	ji zhong ping
+計鎮華	ji zhen hua
+紀寶如	ji bao ru
+紀佳松	ji jia song
+紀利	ji li
+紀敏佳	ji min jia
+紀如	ji ru
+紀如璟	ji ru jing
+紀曉君	ji xiao jun
+加藤愛	jia teng ai
+加藤和樹	jia teng he shu
+加藤英美里	jia teng ying mei li
+加藤侑紀	jia teng you ji
+加油金順	jia you jin shun
+佳仁	jia ren
+珈潁	jia ying
+嘉浚	jia jun
+嘉駿	jia jun
+嘉琳	jia lin
+夾子道	jia zi dao
+夾子電動大樂隊	jia zi dian dong da yue dui
+夾子太硬啦	jia zi tai ying la
+甲殼蟲樂隊	jia ke chong yue dui
+甲子蕙	jia zi hui
+假音人	jia yin ren
+賈長松	jia chang song
+賈多	jia duo
+賈靜雯	jia jing wen
+賈立怡	jia li yi
+賈玲	jia ling
+賈南	jia nan
+賈妮	jia ni
+賈思樂	jia si le
+賈斯汀	jia si ting
+賈斯汀汀布萊克	jia si ting ting bu lai ke
+賈維爾巴爾登	jia wei er ba er deng
+賈曉晨	jia xiao chen
+賈一平	jia yi ping
+賈雲哲	jia yun zhe
+駱超	luo chao
+駱達華	luo da hua
+駱應鈞	luo ying jun
+菅生隆之	jian sheng long zhi
+菅原紗由理	jian yuan sha you li
+撿稻穗	jian dao sui
+簡慕華	jian mu hua
+簡英材	jian ying cai
+簡宗旭	jian zong xu
+健輝	jian hui
+鍵山由佳	jian shan you jia
+江彬	jiang bin
+江得勝	jiang de sheng
+江漢	jiang han
+江宏恩	jiang hong en
+江華	jiang hua
+江暉	jiang hui
+江蕙	jiang hui
+江凱文	jiang kai wen
+江口洋介	jiang kou yang jie
+江玲	jiang ling
+江美麗	jiang mei li
+江美琪	jiang mei qi
+江明學	jiang ming xue
+江念庭	jiang nian ting
+江若琳	jiang ruo lin
+江山	jiang shan
+江珊	jiang shan
+江淑娜	jiang shu na
+江濤	jiang tao
+江希文	jiang xi wen
+江欣慈	jiang xin ci
+江欣燕	jiang xin yan
+江一燕	jiang yi yan
+江映蓉	jiang ying rong
+江語晨	jiang yu chen
+江芷妮	jiang zhi ni
+江智民	jiang zhi min
+姜彩二	jiang cai er
+姜成民	jiang cheng min
+姜成勳	jiang cheng xun
+姜大衛	jiang da wei
+姜道	jiang dao
+姜東元	jiang dong yuan
+姜華	jiang hua
+姜均成	jiang jun cheng
+姜昆	jiang kun
+姜培琳	jiang pei lin
+姜鵬	jiang peng
+姜彤	jiang tong
+姜文	jiang wen
+姜武	jiang wu
+姜賢秀	jiang xian xiu
+姜昕	jiang xin
+姜星	jiang xing
+姜洋	jiang yang
+姜異康	jiang yi kang
+姜億華	jiang yi hua
+姜玉陽	jiang yu yang
+姜育恆	jiang yu heng
+姜哲	jiang zhe
+姜徵	jiang zheng
+蔣艾伶	jiang ai ling
+蔣晨	jiang chen
+蔣大爲	jiang da wei
+蔣進興	jiang jin xing
+蔣愷	jiang kai
+蔣克	jiang ke
+蔣麗萍	jiang li ping
+蔣勤勤	jiang qin qin
+蔣詩琪	jiang shi qi
+蔣萬勳	jiang wan xun
+蔣雯麗	jiang wen li
+蔣曦兒	jiang xi er
+蔣雅文	jiang ya wen
+蔣依杉	jiang yi shan
+蔣怡	jiang yi
+蔣毓	jiang yu
+蔣志光	jiang zhi guang
+降央卓瑪	jiang yang zhuo ma
+交工樂隊	jiao gong yue dui
+焦恩俊	jiao en jun
+焦雄	jiao xiong
+嬌嬌	jiao jiao
+角松敏生	jiao song min sheng
+教練樂團	jiao lian yue tuan
+接招合唱團	jie zhao he chang tuan
+街頭霸王	jie tou ba wang
+街頭頑童	jie tou wan tong
+杰特	jie te
+傑夫布里吉斯	jie fu bu li ji si
+傑弗里拉什	jie fu li la shi
+傑珂	jie ke
+傑克尼克爾遜	jie ke ni ke er xun
+傑米福克斯	jie mi fu ke si
+傑米亨得裏克斯	jie mi heng de li ke si
+傑米李柯蒂斯	jie mi li ke di si
+傑娜	jie na
+傑瑞李劉易斯	jie rui li liu yi si
+傑西達邦	jie xi da bang
+傑西卡辛普森	jie xi ka xin pu sen
+潔芮	jie rui
+解小東	jie xiao dong
+解曉東	xie xiao dong
+解昕怡	jie xin yi
+今井翼	jin jing yi
+今野由愛	jin ye you ai
+金貝辛格	jin bei xin ge
+金波	jin bo
+金布里克	jin bu li ke
+金昌賢	jin chang xian
+金昌勳	jin chang xun
+金朝漢	jin chao han
+金承振	jin cheng zhen
+金城武	jin cheng wu
+金東律	jin dong lv
+金東萬	jin dong wan
+金東賢	jin dong xian
+金東旭	jin dong xu
+金度完	jin du wan
+金髮女郞樂隊	jin fa nv lang yue dui
+金範	jin fan
+金範龍	jin fan long
+金範秀	jin fan xiu
+金剛	jin gang
+金海心	jin hai xin
+金荷娜	jin he na
+金彗星	jin hui xing
+金建模	jin jian mo
+金健武	jin jian wu
+金津杓	jin jin biao
+金京浩	jin jing hao
+金景浩	jin jing hao
+金俊	jin jun
+金俊浩	jin jun hao
+金來沅	jin lai yuan
+金美兒	jin mei er
+金門王與李炳輝	jin men wang yu li bing hui
+金旼鍾	jin min zhong
+金木一	jin mu yi
+金娜英	jin na ying
+金南珠	jin nan zhu
+金培達	jin pei da
+金沛晟	jin pei sheng
+金巧巧	jin qiao qiao
+金瑞瑤	jin rui yao
+金賽綸	jin sai lun
+金莎	jin sha
+金善雅	jin shan ya
+金尚賢	jin shang xian
+金世晃	jin shi huang
+金素梅	jin su mei
+金素妍	jin su yan
+金泰熙	jin tai xi
+金泰宇	jin tai yu
+金田一	jin tian yi
+金武林	jin wu lin
+金熙澤	jin xi ze
+金喜善	jin xi shan
+金賢成	jin xian cheng
+金賢東	jin xian dong
+金賢哲	jin xian zhe
+金賢正	jin xian zheng
+金賢政	jin xian zheng
+金賢重	jin xian zhong
+金賢珠	jin xian zhu
+金享中	jin xiang zhong
+金興洙	jin xing zhu
+金宣兒	jin xuan er
+金泫雅	jin xuan ya
+金雅中	jin ya zhong
+金延宇	jin yan yu
+金妍宇	jin yan yu
+金燕玲	jin yan ling
+金勇建	jin yong jian
+金勇五	jin yong wu
+金有錫	jin you xi
+金宇宙	jin yu zhou
+金玉嵐	jin yu lan
+金悅	jin yue
+金韻蓉	jin yun rong
+金載沅	jin zai yuan
+金在熙	jin zai xi
+金在中	jin zai zhong
+金澤明子	jin ze ming zi
+金澤文子	jin ze wen zi
+金楨勳	jin zhen xun
+金震彪	jin zhen biao
+金正勳	jin zheng xun
+金政文	jin zheng wen
+金智勳	jin zhi xun
+金鐘國	jin zhong guo
+金鐘旭	jin zhong xu
+金子美穗	jin zi mei sui
+津亭	jin ting
+筋斗雲	jin dou yun
+錦繡二重唱	jin xiu er chong chang
+近畿小子	jin ji xiao zi
+近藤和美	jin teng he mei
+近藤真彥	jin teng zhen yan
+靳東	jin dong
+京乃	jing nai
+京生	jing sheng
+菁瑋	jing wei
+井柏然	jing bo ran
+井上	jing shang
+景崗山	jing gang shan
+景璉璉	jing lian lian
+景甜	jing tian
+靜婷	jing ting
+靜物樂團	jing wu yue tuan
+九紫樂隊	jiu zi yue dui
+久保田利伸	jiu bao tian li shen
+久保亞沙香	jiu bao ya sha xiang
+久石讓	jiu shi rang
+玖月奇蹟	jiu yue qi ji
+酒井彩名	jiu jing cai ming
+酒井法子	jiu jing fa zi
+酒井瑛裏	jiu jing ying li
+鞠萍	ju ping
+橘紅色	ju hong se
+橘慶太	ju qing tai
+橘未稀	ju wei xi
+具俊燁	ju jun ye
+具正賢	ju zheng xian
+絹子	juan zi
+君君	jun jun
+君怡	jun yi
+筠子	jun zi
+咖啡因	ka fei yin
+咖啡因公園	ka fei yin gong yuan
+卡戴珊	ka dai shan
+卡佛	ka fo
+卡果	ka guo
+卡卡	ka ka
+卡莉賽門	ka li sai men
+卡莉西蒙	ka li xi meng
+卡梅倫迪亞茲	ka mei lun di ya zi
+卡朋特樂隊	ka peng te yue dui
+卡奇社	ka qi she
+開心少女組	kai xin shao nv zu
+凱蒂赫爾姆斯	kai di he er mu si
+凱里拉	kai li la
+凱莉安妮莫斯	kai li an ni mo si
+凱莉克萊森	kai li ke lai sen
+凱莉米洛	kai li mi luo
+凱麗金	kai li jin
+凱薩林威廉斯	kai sa lin wei lian si
+凱瑟琳赫本	kai se lin he ben
+凱瑟琳澤塔瓊斯	kai se lin ze ta qiong si
+凱特布蘭切特	kai te bu lan qie te
+凱特布希	kai te bu xi
+凱特哈德森	kai te ha de sen
+凱特赫德森	kai te he de sen
+凱特萊恩	kai te lai en
+凱特琳娜桑迪諾莫雷諾	kai te lin na sang di nuo mo lei nuo
+凱特溫斯萊特	kai te wen si lai te
+凱文斯貝西	kai wen si bei xi
+凱西貝茲	kai xi bei zi
+坎耶維斯特	kan ye wei si te
+侃侃	kan kan
+康華	kang hua
+康淨淳	kang jing chun
+康康	kang kang
+康康康樂隊	kang kang kang le dui
+康賢	kang xian
+康子妮	kang zi ni
+考克萊	kao ke lai
+拷秋勤	kao qiu qin
+柯藍	ke lan
+柯林	ke lin
+柯受良	ke shou liang
+柯以敏	ke yi min
+柯以柔	ke yi rou
+柯有倫	ke you lun
+可兒家族	ke er jia zu
+可米小子	ke mi xiao zi
+克雷艾肯	ke lei ai ken
+克雷格大衛	ke lei ge da wei
+克里夫歐文	ke li fu ou wen
+克里斯蒂伯	ke li si di bo
+克里斯蒂娜米蓮	ke li si di na mi lian
+克里斯庫柏	ke li si ku bai
+克里斯泰爾蓋爾	ke li si tai er gai er
+克里斯托弗沃肯	ke li si tuo fu wo ken
+克莉斯汀娜阿格麗亞	ke li si ting na a ge li ya
+克莉絲汀阿奎萊拉	ke li si ting a kui lai la
+克林特伊斯特伍德	ke lin te yi si te wu de
+峇奴	ba nu
+肯尼羅傑斯	ken ni luo jie si
+空氣補給站樂隊	kong qi bu ji zhan yue dui
+空氣樂隊	kong qi yue dui
+空中鐵匠樂隊	kong zhong tie jiang yue dui
+孔令奇	kong ling qi
+寇世勳	kou shi xun
+堀井美月	ku jing mei yue
+堀內孝雄	ku nei xiao xiong
+苦榮	ku rong
+酷繪樂團	ku hui yue tuan
+酷龍	ku long
+酷玩樂隊	ku wan yue dui
+快樂家族	kuai le jia zu
+筷子兄弟	kuai zi xiong di
+鄺美雲	kuang mei yun
+鄺文	kuang wen
+鄺文珣	kuang wen xun
+鄺佐輝	kuang zuo hui
+奎賢	kui xian
+奎因拉蒂法	kui yin la di fa
+昆汀塔倫蒂諾	kun ting ta lun di nuo
+拉萊恩	la lai en
+拉蕾妮	la lei ni
+喇西塔吉於微	la xi ta ji yu wei
+辣妹	la mei
+來棲淳子	lai qi chun zi
+來生光	lai sheng guang
+萊昂納多迪卡普里奧	lai ang na duo di ka pu li ao
+萊昂內而裏奇	lai ang nei er li qi
+萊德澤普林	lai de ze pu lin
+賴銘偉	lai ming wei
+賴文峯	lai wen feng
+賴雅妍	lai ya yan
+賴苑彤	lai yuan tong
+瀨戶朝香	lai hu chao xiang
+瀨戶由衣	lai hu you yi
+藍弘欽	lan hong qin
+藍潔瑛	lan jie ying
+藍鈞天	lan jun tian
+藍立平	lan li ping
+藍沁	lan qin
+藍心湄	lan xin mei
+藍奕邦	lan yi bang
+藍又時	lan you shi
+藍雨	lan yu
+藍戰士	lan zhan shi
+藍喆	lan zhe
+蘭董姐姐	lan dong jie jie
+蘭色花園樂隊	lan se hua yuan yue dui
+蘭天	lan tian
+郎朗	lang lang
+狼嘯	lang xiao
+勞拉林尼	lao la lin ni
+勞拉琳妮	lao la lin ni
+勞倫希爾	lao lun xi er
+勞少娟	lao shao juan
+老狼	lao lang
+老頭	lao tou
+老鷹樂隊	lao ying yue dui
+雷安娜	lei an na
+雷查爾斯	lei cha er si
+雷德利斯科特	lei de li si ke te
+雷恩	lei en
+雷光夏	lei guang xia
+雷佳	lei jia
+雷凱欣	lei kai xin
+雷蕾	lei lei
+雷龍	lei long
+雷諾兒	lei nuo er
+雷茜	lei qian
+雷頌德	lei song de
+雷有輝	lei you hui
+雷有曜	lei you yao
+蕾妮齊薇格	lei ni qi wei ge
+淚凱	lei kai
+冷漠	leng mo
+冷血動物	leng xue dong wu
+冷中易	leng zhong yi
+黎安萊姆絲	li an lai mu si
+黎彼得	li bi de
+黎沸揮	li fei hui
+黎晶	li jing
+黎駿	li jun
+黎明	li ming
+黎明詩	li ming shi
+黎銘諾	li ming nuo
+黎諾懿	li nuo yi
+黎瑞恩	li rui en
+黎升銘	li sheng ming
+黎秀英	li xiu ying
+黎萱	li xuan
+黎耀祥	li yao xiang
+黎芷珊	li zhi shan
+黎姿	li zi
+李靄璣	li ai ji
+李艾	li ai
+李安	li an
+李安琪	li an qi
+李保田	li bao tian
+李必立	li bi li
+李碧華	li bi hua
+李璧琦	li bi qi
+李濱	li bin
+李冰冰	li bing bing
+李兵	li bing
+李秉憲	li bing xian
+李炳辰	li bing chen
+李彩樺	li cai hua
+李璨琛	li can chen
+李琛	li chen
+李承煥	li cheng huan
+李承鵬	li cheng peng
+李承鉉	li cheng xuan
+李承哲	li cheng zhe
+李春波	li chun bo
+李大龍	li da long
+李迪	li di
+李東健	li dong jian
+李東允	li dong yun
+李度	li du
+李端嫺	li duan xian
+李恩珠	li en zhu
+李菲	li fei
+李菲菲	li fei fei
+李風持	li feng chi
+李崗霖	li gang lin
+李谷一	li gu yi
+李光潔	li guang jie
+李國麟	li guo lin
+李國祥	li guo xiang
+李國毅	li guo yi
+李海寧	li hai ning
+李海生	li hai sheng
+李濠	li hao
+李浩林	li hao lin
+李和曾	li he ceng
+李赫焌	li he qu
+李鴻傑	li hong jie
+李慧	li hui
+李慧珍	li hui zhen
+李蕙敏	li hui min
+李基燦	li ji can
+李吉昌	li ji chang
+李吉漢	li ji han
+李驥	li ji
+李加靚	li jia liang
+李佳璐	li jia lu
+李家鼎	li jia ding
+李家發	li jia fa
+李家明	li jia ming
+李家聲	li jia sheng
+李嘉強	li jia qiang
+李嘉欣	li jia xin
+李建復	li jian fu
+李健	li jian
+李皆樂	li jie le
+李傑	li jie
+李解	li jie
+李金銘	li jin ming
+李金泉	li jin quan
+李錦	li jin
+李勁松	li jin song
+李進	li jin
+李進才	li jin cai
+李菁	li jing
+李晶	li jing
+李靜	li jing
+李靜美	li jing mei
+李九鳴	li jiu ming
+李玖哲	li jiu zhe
+李俊基	li jun ji
+李俊傑	li jun jie
+李俊京	li jun jing
+李俊男	li jun nan
+李駿駒	li jun ju
+李凱年	li kai nian
+李抗蝕	li kang shi
+李克勤	li ke qin
+李坤霖	li kun lin
+李麗芬	li li fen
+李麗華	li li hua
+李麗珍	li li zhen
+李連杰	li lian jie
+李琳	li lin
+李霖恩	li lin en
+李玲玉	li ling yu
+李龍基	li long ji
+李龍怡	li long yi
+李蘢怡	li long yi
+李路	li lu
+李鑾輝	li luan hui
+李茂	li mao
+李茂山	li mao shan
+李美鳳	li mei feng
+李美琪	li mei qi
+李蜜	li mi
+李民浩	li min hao
+李民基	li min ji
+李玟	li wen
+李珉宇	li min yu
+李敏鎬	li min hao
+李明洋	li ming yang
+李明依	li ming yi
+李明育	li ming yu
+李銘順	li ming shun
+李漠	li mo
+李木子	li mu zi
+李娜	li na
+李南星	li nan xing
+李寧	li ning
+李歐納孔	li ou na kong
+李佩芬	li pei fen
+李萍	li ping
+李起厚	li qi hou
+李啓傑	li qi jie
+李綺紅	li qi hong
+李綺雯	li qi wen
+李千娜	li qian na
+李倩	li qian
+李倩妮	li qian ni
+李倩蓉	li qian rong
+李瓊	li qiong
+李泉	li quan
+李苒苒	li ran ran
+李日升	li ri sheng
+李柔潼	li rou tong
+李瑞熙	li rui xi
+李若彤	li ruo tong
+李珊	li shan
+李珊珊	li shan shan
+李善日	li shan ri
+李少春	li shao chun
+李升烈	li sheng lie
+李勝基	li sheng ji
+李聖傑	li sheng jie
+李詩韻	li shi yun
+李石勳	li shi xun
+李世霖	li shi lin
+李壽全	li shou quan
+李殊	li shu
+李舒桐	li shu tong
+李恕權	li shu quan
+李雙江	li shuang jiang
+李舜育	li shun yu
+李司棋	li si qi
+李思蓓	li si bei
+李思欣	li si xin
+李斯羽	li si yu
+李素羅	li su luo
+李泰祥	li tai xiang
+李天華	li tian hua
+李天琪	li tian qi
+李天翔	li tian xiang
+李婷	li ting
+李婉華	li wan hua
+李婉靜	li wan jing
+李婉琳	li wan lin
+李威	li wei
+李薇薇	li wei wei
+李韋	li wei
+李偉賓	li wei bin
+李偉菘	li wei song
+李瑋	li wei
+李煒	li wei
+李煒祺	li wei qi
+李文	li wen
+李文世	li wen shi
+李炆	li wen
+李紋	li wen
+李西	li xi
+李霞	li xia
+李賢	li xian
+李賢燮	li xian xie
+李賢宇	li xian yu
+李香蘭	li xiang lan
+李香琴	li xiang qin
+李湘	li xiang
+李祥霆	li xiang ting
+李霄雲	li xiao yun
+李小東	li xiao dong
+李小龍	li xiao long
+李小璐	li xiao lu
+李小沛	li xiao pei
+李小冉	li xiao ran
+李小勇	li xiao yong
+李曉傑	li xiao jie
+李孝利	li xiao li
+李心潔	li xin jie
+李芯逸	li xin yi
+李欣娛	li xin yu
+李欣芸	li xin yun
+李星兒	li xing er
+李修	li xiu
+李修賢	li xiu xian
+李秀	li xiu
+李秀景	li xiu jing
+李秀英	li xiu ying
+李宣筠	li xuan jun
+李宣榕	li xuan rong
+李璇	li xuan
+李學慶	li xue qing
+李雪健	li xue jian
+李雅微	li ya wei
+李亞明	li ya ming
+李亞男	li ya nan
+李亞鵬	li ya peng
+李延亮	li yan liang
+李妍	li yan
+李妍瑾	li yan jin
+李妍熙	li yan xi
+李燕飛	li yan fei
+李燕珊	li yan shan
+李一星	li yi xing
+李依玲	li yi ling
+李依曉	li yi xiao
+李宜璇	li yi xuan
+李易峯	li yi feng
+李易珊	li yi shan
+李易祥	li yi xiang
+李羿慧	li yi hui
+李逸	li yi
+李逸朗	li yi lang
+李翊君	li yi jun
+李義貞	li yi zhen
+李英愛	li ying ai
+李英俊	li ying jun
+李瑩河	li ying he
+李永昌	li yong chang
+李勇勇	li yong yong
+李詠	li yong
+李尤	li you
+李宇春	li yu chun
+李雨	li yu
+李雨霏	li yu fei
+李雨寰	li yu huan
+李昱	li yu
+李毓芬	li yu fen
+李元	li yuan
+李元碩	li yuan shuo
+李元智	li yuan zhi
+李媛希	li yuan xi
+李媛媛	li yuan yuan
+李悅君	li yue jun
+李樂詩	li le shi
+李雲迪	li yun di
+李允浩	li yun hao
+李允宰	li yun zai
+李蘊	li yun
+李宰勳	li zai xun
+李宰鎮	li zai zhen
+李在憲	li zai xian
+李在勳	li zai xun
+李在元	li zai yuan
+李澤鋒	li ze feng
+李澤堅	li ze jian
+李兆君	li zhao jun
+李哲明	li zhe ming
+李貞賢	li zhen xian
+李振輝	li zhen hui
+李鎮成	li zhen cheng
+李正	li zheng
+李正帆	li zheng fan
+李正峯	li zheng feng
+李政	li zheng
+李鄭屋村	li zheng wu cun
+李之勤	li zhi qin
+李志清	li zhi qing
+李志勳	li zhi xun
+李志洲	li zhi zhou
+李治廷	li zhi ting
+李智楠	li zhi nan
+李智秀	li zhi xiu
+李智友	li zhi you
+李中希	li zhong xi
+李鍾碩	li zhong shuo
+李朱元	li zhu yuan
+李卓庭	li zhuo ting
+李姿敏	li zi min
+李子峯	li zi feng
+李子晗	li zi han
+李子雄	li zi xiong
+李子璇	li zi xuan
+李宗翰	li zong han
+李宗盛	li zong sheng
+立威廉	li wei lian
+利得彙	li de hui
+利綺	li qi
+利晴天	li qing tian
+荔枝王	li zhi wang
+莉莉金	li li jin
+慄錦	li jin
+慄雅馨	li ya xin
+厲娜	li na
+麗芙泰勒	li fu tai le
+麗莎史坦菲爾德	li sha shi tan fei er de
+連釋	lian shi
+蓮兒與啷噹六便士合唱團	lian er yu lang dang liu bian shi he chang tuan
+廉政勳	lian zheng xun
+涼木桃香	liang mu tao xiang
+梁安琪	liang an qi
+梁葆貞	liang bao zhen
+梁寶琪	liang bao qi
+梁朝偉	liang chao wei
+梁綽妍	liang chuo yan
+梁漢文	liang han wen
+梁浩賢	liang hao xian
+梁弘志	liang hong zhi
+梁宏達	liang hong da
+梁歡	liang huan
+梁輝宗	liang hui zong
+梁珈詠	liang jia yong
+梁家輝	liang jia hui
+梁嘉遜	liang jia xun
+梁建楓	liang jian feng
+梁健平	liang jian ping
+梁靖琪	liang jing qi
+梁靜	liang jing
+梁靜茹	liang jing ru
+梁凱恩	liang kai en
+梁烈唯	liang lie wei
+梁洛施	liang luo shi
+梁銘芷	liang ming zhi
+梁翹柏	liang qiao bai
+梁晴晴	liang qing qing
+梁舜燕	liang shun yan
+梁思浩	liang si hao
+梁天	liang tian
+梁文音	liang wen yin
+梁雯靜	liang wen jing
+梁曉豐	liang xiao feng
+梁心頤	liang xin yi
+梁雪媚	liang xue mei
+梁雁翎	liang yan ling
+梁一貞	liang yi zhen
+梁永斌	liang yong bin
+梁詠琳	liang yong lin
+梁詠琪	liang yong qi
+梁佑誠	liang you cheng
+梁宇翀	liang yu chong
+梁雨恩	liang yu en
+梁錚	liang zheng
+梁正羣	liang zheng qun
+梁政珏	liang zheng jue
+梁智達	liang zhi da
+梁紫丹	liang zi dan
+梁祖堯	liang zu yao
+兩個女生	liang ge nv sheng
+遼意	liao yi
+廖碧兒	liao bi er
+廖昌永	liao chang yong
+廖大森	liao da sen
+廖晶	liao jing
+廖雋嘉	liao juan jia
+廖麗麗	liao li li
+廖夢楚	liao meng chu
+廖佩伶	liao pei ling
+廖珮伶	liao pei ling
+廖啓智	liao qi zhi
+廖芊芊	liao qian qian
+廖士賢	liao shi xian
+廖書凡	liao shu fan
+廖韋卓	liao wei zhuo
+廖偉力	liao wei li
+廖文慈	liao wen ci
+廖小璇	liao xiao xuan
+廖子褕	liao zi yu
+廖自升	liao zi sheng
+獵虹樂團	lie hong yue tuan
+林安嚀	lin an ning
+林柏宏	lin bai hong
+林保怡	lin bao yi
+林寶	lin bao
+林冰冰	lin bing bing
+林昌奎	lin chang kui
+林宸希	lin chen xi
+林承光	lin cheng guang
+林翠萍	lin cui ping
+林黛	lin dai
+林道遠	lin dao yuan
+林笛	lin di
+林二汶	lin er wen
+林帆	lin fan
+林凡	lin fan
+林芳	lin fang
+林峯	lin feng
+林鋒	lin feng
+林鳳英	lin feng ying
+林冠吟	lin guan yin
+林海	lin hai
+林海峯	lin hai feng
+林漢洋	lin han yang
+林浩威	lin hao wei
+林亨柱	lin heng zhu
+林慧玲	lin hui ling
+林慧萍	lin hui ping
+林稷安	lin ji an
+林繼東	lin ji dong
+林佳蓉	lin jia rong
+林佳儀	lin jia yi
+林佳穎	lin jia ying
+林家川	lin jia chuan
+林家棟	lin jia dong
+林嘉綺	lin jia qi
+林嘉欣	lin jia xin
+林建亨	lin jian heng
+林健輝	lin jian hui
+林潔瑜	lin jie yu
+林菁國	lin jing guo
+林敬剛	lin jing gang
+林俊輝	lin jun hui
+林俊杰	lin jun jie
+林埈永	lin jun yong
+林凱	lin kai
+林可彤	lin ke tong
+林肯公園	lin ken gong yuan
+林立青	lin li qing
+林立雯	lin li wen
+林良歡	lin liang huan
+林良樂	lin liang le
+林琳	lin lin
+林靈	lin ling
+林隆璇	lin long xuan
+林美	lin mei
+林美惠	lin mei hui
+林蒙	lin meng
+林妙可	lin miao ke
+林敏驄	lin min cong
+林木	lin mu
+林沐樺	lin mu hua
+林佩君	lin pei jun
+林佩瑤	lin pei yao
+林萍	lin ping
+林其欣	lin qi xin
+林棋玉	lin qi yu
+林強	lin qiang
+林青霞	lin qing xia
+林青依果	lin qing yi guo
+林慶宗	lin qing zong
+林瓊瓏	lin qiong long
+林柔均	lin rou jun
+林睿一	lin rui yi
+林賽羅韓	lin sai luo han
+林姍	lin shan
+林姍姍	lin shan shan
+林少興	lin shao xing
+林申	lin shen
+林淑娟	lin shu juan
+林爽	lin shuang
+林彎彎	lin wan wan
+林菀	lin wan
+林婉霞	lin wan xia
+林威辰	lin wei chen
+林韋君	lin wei jun
+林偉雄	lin wei xiong
+林暐哲	lin wei zhe
+林文龍	lin wen long
+林希兒	lin xi er
+林熙蕾	lin xi lei
+林仙洲	lin xian zhou
+林顯丞	lin xian cheng
+林小寶	lin xiao bao
+林小樓	lin xiao lou
+林小湛	lin xiao zhan
+林曉峯	lin xiao feng
+林曉培	lin xiao pei
+林心如	lin xin ru
+林雄威	lin xiong wei
+林秀怡	lin xiu yi
+林葉亭	lin ye ting
+林一峯	lin yi feng
+林依晨	lin yi chen
+林依輪	lin yi lun
+林漪娸	lin yi qi
+林宜融	lin yi rong
+林頤	lin yi
+林逸欣	lin yi xin
+林憶蓮	lin yi lian
+林影紅	lin ying hong
+林穎嫺	lin ying xian
+林映輝	lin ying hui
+林泳東	lin yong dong
+林佑威	lin you wei
+林宥嘉	lin you jia
+林宇中	lin yu zhong
+林雨婷	lin yu ting
+林禹辰	lin yu chen
+林玉婷	lin yu ting
+林玉英	lin yu ying
+林育羣	lin yu qun
+林鬱	lin yu
+林原	lin yuan
+林原惠美	lin yuan hui mei
+林遠迎	lin yuan ying
+林苑	lin yuan
+林在範	lin zai fan
+林在完	lin zai wan
+林兆華	lin zhao hua
+林哲旭	lin zhe xu
+林珍釗	lin zhen zhao
+林正豪	lin zheng hao
+林之鶴	lin zhi he
+林直次郎	lin zhi ci lang
+林芷筠	lin zhi jun
+林志斌	lin zhi bin
+林志玲	lin zhi ling
+林志美	lin zhi mei
+林志炫	lin zhi xuan
+林志穎	lin zhi ying
+林智文	lin zhi wen
+林竹君	lin zhu jun
+林子娟	lin zi juan
+林子良	lin zi liang
+林子祥	lin zi xiang
+林子萱	lin zi xuan
+琳達朗絲黛	lin da lang si dai
+琳恩瑪蓮	lin en ma lian
+琳賽羅韓	lin sai luo han
+玲玲	ling ling
+凌漢	ling han
+凌志輝	ling zhi hui
+零點樂隊	ling dian yue dui
+零峯	ling feng
+鈴村健一	ling cun jian yi
+鈴木保奈美	ling mu bao nai mei
+鈴木麻奈美	ling mu ma nai mei
+鈴木茂	ling mu mao
+鈴木茜	ling mu qian
+鈴木史華	ling mu shi hua
+鈴木杏裏	ling mu xing li
+鈴木杏樹	ling mu xing shu
+鈴木雅之	ling mu ya zhi
+鈴木亞美	ling mu ya mei
+綾波芹	ling bo qin
+綾波優	ling bo you
+綾乃梓	ling nai zi
+靈感	ling gan
+流行尖端合唱團	liu xing jian duan he chang tuan
+劉蓓	liu bei
+劉冰	liu bing
+劉彩玉	liu cai yu
+劉蒼苔	liu cang tai
+劉長德	liu chang de
+劉宸希	liu chen xi
+劉承俊	liu cheng jun
+劉衝	liu chong
+劉純如	liu chun ru
+劉綽琪	liu chuo qi
+劉大剛	liu da gang
+劉丹	liu dan
+劉德華	liu de hua
+劉恩婕	liu en jie
+劉恩佑	liu en you
+劉芳	liu fang
+劉菲	liu fei
+劉逢軍	liu feng jun
+劉罡	liu gang
+劉剛	liu gang
+劉畊宏	liu geng hong
+劉冠翔	liu guan xiang
+劉桂芳	liu gui fang
+劉漢樂	liu han le
+劉浩龍	liu hao long
+劉和剛	liu he gang
+劉虹樺	liu hong hua
+劉虹翎	liu hong ling
+劉華	liu hua
+劉歡	liu huan
+劉慧順	liu hui shun
+劉佳芳	liu jia fang
+劉佳軒	liu jia xuan
+劉枷彤	liu jia tong
+劉家昌	liu jia chang
+劉家宏	liu jia hong
+劉嘉亮	liu jia liang
+劉嘉玲	liu jia ling
+劉婕	liu jie
+劉界輝	liu jie hui
+劉競	liu jing
+劉愷威	liu kai wei
+劉科	liu ke
+劉可	liu ke
+劉藍溪	liu lan xi
+劉磊	liu lei
+劉力揚	liu li yang
+劉俐	liu li
+劉玲玲	liu ling ling
+劉凌	liu ling
+劉流	liu liu
+劉美君	liu mei jun
+劉明峯	liu ming feng
+劉牧	liu mu
+劉盼	liu pan
+劉倩婷	liu qian ting
+劉巧巧	liu qiao qiao
+劉沁	liu qin
+劉青雲	liu qing yun
+劉仁娜	liu ren na
+劉日曦	liu ri xi
+劉芮伊	liu rui yi
+劉若英	liu ruo ying
+劉邵希	liu shao xi
+劉劭希	liu shao xi
+劉盛通	liu sheng tong
+劉世傑	liu shi jie
+劉思惠	liu si hui
+劉思偉	liu si wei
+劉濤	liu tao
+劉天蘭	liu tian lan
+劉威	liu wei
+劉威葳	liu wei wei
+劉維	liu wei
+劉偉仁	liu wei ren
+劉文正	liu wen zheng
+劉惜君	liu xi jun
+劉熙烈	liu xi lie
+劉錫明	liu xi ming
+劉翔	liu xiang
+劉小慧	liu xiao hui
+劉小天	liu xiao tian
+劉曉	liu xiao
+劉曉婧	liu xiao jing
+劉曉慶	liu xiao qing
+劉心	liu xin
+劉心悠	liu xin you
+劉欣	liu xin
+劉星	liu xing
+劉秀永	liu xiu yong
+劉雪芳	liu xue fang
+劉雅麗	liu ya li
+劉雅雯	liu ya wen
+劉雅詠	liu ya yong
+劉燁	liu ye
+劉一	liu yi
+劉一含	liu yi han
+劉一秒	liu yi miao
+劉一禎	liu yi zhen
+劉依純	liu yi chun
+劉依瑤	liu yi yao
+劉儀偉	liu yi wei
+劉以達	liu yi da
+劉以達與夢	liu yi da yu meng
+劉釔彤	liu yi tong
+劉亦菲	liu yi fei
+劉藝涵	liu yi han
+劉庸	liu yong
+劉宇軍	liu yu jun
+劉雨欣	liu yu xin
+劉玉翠	liu yu cui
+劉玉玲	liu yu ling
+劉育綾	liu yu ling
+劉鈺佳	liu yu jia
+劉園園	liu yuan yuan
+劉圓圓	liu yuan yuan
+劉悅	liu yue
+劉芸	liu yun
+劉允樂	liu yun le
+劉韻	liu yun
+劉錚	liu zheng
+劉忠源	liu zhong yuan
+劉仲儀	liu zhong yi
+劉轉亮	liu zhuan liang
+劉孜	liu zi
+劉子菲	liu zi fei
+劉子豪	liu zi hao
+劉宗立	liu zong li
+劉祖德	liu zu de
+劉尊	liu zun
+柳成奎	liu cheng kui
+柳飛	liu fei
+柳瀚雅	liu han ya
+柳明日香	liu ming ri xiang
+柳時元	liu shi yuan
+柳熙烈	liu xi lie
+柳巖	liu yan
+柳英真	liu ying zhen
+柳影虹	liu ying hong
+柳雲龍	liu yun long
+六折真人	liu zhe zhen ren
+六哲	liu zhe
+隆隆	long long
+龍軍	long jun
+龍寬	long kuan
+龍梅子	long mei zi
+龍飄飄	long piao piao
+龍千玉	long qian yu
+龍眼兒	long yan er
+龍喆一	long zhe yi
+瀧澤秀明	long ze xiu ming
+婁一晨	lou yi chen
+盧春如	lu chun ru
+盧庚戌	lu geng xu
+盧冠廷	lu guan ting
+盧廣仲	lu guang zhong
+盧家宏	lu jia hong
+盧凱彤	lu kai tong
+盧巧音	lu qiao yin
+盧慶輝	lu qing hui
+盧宛茵	lu wan yin
+盧偉莉	lu wei li
+盧曉華	lu xiao hua
+盧學叡	lu xue rui
+盧業瑂	lu ye mei
+魯諾	lu nuo
+魯昕兒	lu xin er
+魯振順	lu zhen shun
+陸川	lu chuan
+陸鋒	lu feng
+陸虎	lu hu
+陸明君	lu ming jun
+陸平	lu ping
+陸詩韻	lu shi yun
+陸瑤	lu yao
+陸毅	lu yi
+陸子藝	lu zi yi
+路達克里斯	lu da ke li si
+路嘉欣	lu jia xin
+路瑞德	lu rui de
+路瑟範德魯斯	lu se fan de lu si
+路易斯阿姆斯特郎	lu yi si a mu si te lang
+露露	lu lu
+露雲娜	lu yun na
+亂彈	luan tan
+亂彈阿翔	luan tan a xiang
+倫永亮	lun yong liang
+倫紫玄	lun zi xuan
+輪迴樂隊	lun hui yue dui
+螺絲釘	luo si ding
+羅百吉	luo bai ji
+羅柏殭屍	luo bai jiang shi
+羅比威廉斯	luo bi wei lian si
+羅賓	luo bin
+羅伯馬歇爾	luo bo ma xie er
+羅伯特奧爾特曼	luo bo te ao er te man
+羅燦然	luo can ran
+羅昌炫	luo chang xuan
+羅大佑	luo da you
+羅丹	luo dan
+羅恩霍華德	luo en huo hua de
+羅鋼	luo gang
+羅冠蘭	luo guan lan
+羅貫峯	luo guan feng
+羅海瓊	luo hai qiong
+羅弘證	luo hong zheng
+羅紘武	luo hong wu
+羅家英	luo jia ying
+羅嘉良	luo jia liang
+羅君左	luo jun zuo
+羅鈞滿	luo jun man
+羅開元	luo kai yuan
+羅克塞特樂隊	luo ke sai te yue dui
+羅拉費琪	luo la fei qi
+羅拉普西妮	luo la pu xi ni
+羅蘭	luo lan
+羅琳娜麥肯妮特	luo lin na mai ken ni te
+羅霖	luo lin
+羅曼波蘭斯基	luo man bo lan si ji
+羅莽	luo mang
+羅美玲	luo mei ling
+羅美薇	luo mei wei
+羅敏莊	luo min zhuang
+羅南基廷	luo nan ji ting
+羅琦	luo qi
+羅卿	luo qing
+羅時豐	luo shi feng
+羅素克洛	luo su ke luo
+羅天嬋	luo tian chan
+羅天池	luo tian chi
+羅天宇	luo tian yu
+羅文	luo wen
+羅文聰	luo wen cong
+羅文裕	luo wen yu
+羅憶詩	luo yi shi
+羅永娟	luo yong juan
+羅泳嫺	luo yong xian
+羅樂林	luo le lin
+羅允權	luo yun quan
+羅震環	luo zhen huan
+羅志祥	luo zhi xiang
+羅中旭	luo zhong xu
+羅梓琳	luo zi lin
+蘿拉菲比安	luo la fei bi an
+裸體淑女樂隊	luo ti shu nv yue dui
+洛城三兄弟	luo cheng san xiong di
+洛客班	luo ke ban
+洛史都華	luo shi du hua
+呂方	lv fang
+呂慧儀	lv hui yi
+呂繼宏	lv ji hong
+呂佳	lv jia
+呂佳芳	lv jia fang
+呂建中	lv jian zhong
+呂麗君	lv li jun
+呂麗萍	lv li ping
+呂良偉	lv liang wei
+呂珊	lv shan
+呂思清	lv si qing
+呂爲爲	lv wei wei
+呂雯	lv wen
+呂熙	lv xi
+呂小禾	lv xiao he
+呂秀齡	lv xiu ling
+呂燕	lv yan
+呂聿來	lv yu lai
+綠日樂隊	lv ri yue dui
+綠洲樂隊	lv zhou yue dui
+麻吉弟弟	ma ji di di
+麻美	ma mei
+麻美由真	ma mei you zhen
+麻生香月	ma sheng xiang yue
+麻生早苗	ma sheng zao miao
+馬場弘文	ma chang hong wen
+馬場俊英	ma chang jun ying
+馬德鍾	ma de zhong
+馬丁斯科賽斯	ma ding si ke sai si
+馬爾塔阿格里希	ma er ta a ge li xi
+馬國明	ma guo ming
+馬海倫	ma hai lun
+馬海生	ma hai sheng
+馬猴樂隊	ma hou yue dui
+馬季	ma ji
+馬健南	ma jian nan
+馬健濤	ma jian tao
+馬劍棋	ma jian qi
+馬菁宜	ma jing yi
+馬景濤	ma jing tao
+馬浚偉	ma jun wei
+馬克安東尼	ma ke an dong ni
+馬蘭	ma lan
+馬尼婭	ma ni ya
+馬念先	ma nian xian
+馬睿菈	ma rui la
+馬賽	ma sai
+馬珊娜	ma shan na
+馬思純	ma si chun
+馬蘇	ma su
+馬特達蒙	ma te da meng
+馬蹄露	ma ti lu
+馬天宇	ma tian yu
+馬薇薇	ma wei wei
+馬文蓋	ma wen gai
+馬小郡	ma xiao jun
+馬小靈	ma xiao ling
+馬修連恩	ma xiu lian en
+馬旭成	ma xu cheng
+馬婭舒	ma ya shu
+馬豔麗	ma yan li
+馬伊俐	ma yi li
+馬宜中	ma yi zhong
+馬詠恩	ma yong en
+馬友友	ma you you
+馬幼興	ma you xing
+馬玉芬	ma yu fen
+馬悅凌	ma yue ling
+馬閱	ma yue
+馬躍	ma yue
+馬雲龍	ma yun long
+馬兆駿	ma zhao jun
+馬卓	ma zhuo
+馬梓涵	ma zi han
+瑪蒂娜麥克布萊德	ma di na mai ke bu lai de
+瑪吉史密斯	ma ji shi mi si
+瑪俐亞	ma li ya
+瑪莉佛芮崔克森	ma li fo rui cui ke sen
+瑪莉雅凱瑞	ma li ya kai rui
+瑪麗蓮夢露	ma li lian meng lu
+瑪麗莎託梅	ma li sha tuo mei
+瑪麗莎伊瑟莉姬	ma li sha yi se li ji
+瑪麗亞凱莉	ma li ya kai li
+瑪麗婭	ma li ya
+瑪茜亞蓋哈登	ma qian ya gai ha deng
+瑪芮斯布魯克絲	ma rui si bu lu ke si
+麥長青	mai chang qing
+麥當娜	mai dang na
+麥皓兒	mai hao er
+麥家琪	mai jia qi
+麥嘉倫	mai jia lun
+麥潔文	mai jie wen
+麥浚龍	mai jun long
+麥可佈雷	mai ke bu lei
+麥可法蘭克斯	mai ke fa lan ke si
+麥可史密斯	mai ke shi mi si
+麥洛洛	mai luo luo
+麥田守望者	mai tian shou wang zhe
+麥韻	mai yun
+麥志誠	mai zhi cheng
+麥子云	mai zi yun
+邁爾士戴維斯	mai er shi dai wei si
+邁可森	mai ke sen
+邁克爾勃頓	mai ke er bo dun
+邁克爾道格拉斯	mai ke er dao ge la si
+邁克爾傑克遜	mai ke er jie ke xun
+邁克李	mai ke li
+滿江	man jiang
+滿文軍	man wen jun
+曼迪摩爾	man di mo er
+曼切塔	man qie ta
+貓王	mao wang
+毛阿敏	mao a min
+毛寧	mao ning
+毛舜筠	mao shun jun
+茆建玲	mao jian ling
+茅弘二	mao hong er
+眉佳	mei jia
+梅爾吉布森	mei er ji bu sen
+梅格瑞恩	mei ge rui en
+梅宮	mei gong
+梅蘭芳	mei lan fang
+梅琳	mei lin
+梅楣	mei mei
+梅婷	mei ting
+梅威瑟	mei wei se
+梅小惠	mei xiao hui
+梅豔芳	mei yan fang
+美里真裏	mei li zhen li
+美眉	mei mei
+美眉組合	mei mei zu he
+美聲男伶	mei sheng nan ling
+美穗由紀	mei sui you ji
+門生樂隊	men sheng yue dui
+蒙恩使女	meng en shi nv
+蒙嘉慧	meng jia hui
+孟非	meng fei
+孟耿如	meng geng ru
+孟佳	meng jia
+孟楠	meng nan
+孟庭葦	meng ting wei
+孟欣	meng xin
+孟楊	meng yang
+孟堯	meng yao
+孟子焱	meng zi yan
+夢飛船	meng fei chuan
+夢鴿	meng ge
+夢幻塑膠機器	meng huan su jiao ji qi
+夢潔	meng jie
+夢劇院	meng ju yuan
+夢桐	meng tong
+夢揚	meng yang
+迷路兵	mi lu bing
+謎樣樂團	mi yang yue tuan
+謎謠樂團	mi yao yue tuan
+彌拉	mi la
+米倉利紀	mi cang li ji
+米蒂	mi di
+米兒絲	mi er si
+米哈伊瑪蒂耶	mi ha yi ma di ye
+米蓮法莫	mi lian fa mo
+米西艾略特	mi xi ai lue te
+米線	mi xian
+米雪	mi xue
+米雪兒	mi xue er
+蜜雪薇琪	mi xue wei qi
+棉花糖	mian hua tang
+面孔	mian kong
+麪包	mian bao
+苗圃	miao pu
+苗僑偉	miao qiao wei
+苗韻桐	miao yun tong
+繆以婷	miu yi ting
+滅火器	mie huo qi
+滅火器樂團	mie huo qi yue tuan
+民歌	min ge
+民雄	min xiong
+閔春曉	min chun xiao
+閔寬弘	min kuan hong
+閔慶勳	min qing xun
+閔孝琳	min xiao lin
+名師三強	ming shi san qiang
+明道	ming dao
+明駿女孩	ming jun nv hai
+明凱	ming kai
+明萌派	ming meng pai
+明珠姐妹	ming zhu jie mei
+模糊樂隊	mo hu yue dui
+摩根弗里曼	mo gen fu li man
+摩卡	mo ka
+摩天人	mo tian ren
+魔比	mo bi
+莫家堯	mo jia yao
+莫娜辛格	mo na xin ge
+莫妮卡貝魯齊	mo ni ka bei lu qi
+莫文蔚	mo wen wei
+莫小奇	mo xiao qi
+莫豔琳	mo yan lin
+莫扎特	mo zha te
+墨明棋妙	mo ming qi miao
+牟青	mou qing
+木村拓哉	mu cun tuo zai
+木村衣裏	mu cun yi li
+木吉他	mu ji ta
+木馬	mu ma
+木內晶	mu nei jing
+木內晶子	mu nei jing zi
+木下亞由美	mu xia ya you mei
+木原音瀨	mu yuan yin lai
+沐爾	mu er
+牧本千幸	mu ben qian xing
+牧仁	mu ren
+牧野由依	mu ye you yi
+慕林杉	mu lin shan
+慕容曉曉	mu rong xiao xiao
+慕容萱	mu rong xuan
+那迪	na di
+那笛	na di
+那英	na ying
+娜娜	na na
+娜塔莉安博莉亞	na ta li an bo li ya
+娜塔麗波特曼	na ta li bo te man
+娜塔莎托馬斯	na ta sha tuo ma si
+娜坦莉莫森特	na tan li mo sen te
+娜薇	na wei
+乃亞	nai ya
+男才女貌	nan cai nv mao
+男孩地帶	nan hai di dai
+南寶拉	nan bao la
+南波杏	nan bo xing
+南方二重唱	nan fang er chong chang
+南方臺灣小姑娘	nan fang tai wan xiao gu niang
+南方小雞合唱團	nan fang xiao ji he chang tuan
+南合文鬥	nan he wen dou
+南拳媽媽	nan quan ma ma
+南賢俊	nan xian jun
+南勳	nan xun
+南遙	nan yao
+內田沙也加	nei tian sha ye jia
+妮可基德曼	ni ke ji de man
+妮妮	ni ni
+尼爾岱爾蒙德	ni er dai er meng de
+尼爾揚	ni er yang
+尼古拉斯凱奇	ni gu la si kai qi
+尼克卡特	ni ke ka te
+倪安東	ni an dong
+倪海廈	ni hai xia
+倪虹潔	ni hong jie
+倪琳	ni lin
+倪媚兒	ni mei er
+倪萍	ni ping
+倪睿思	ni rui si
+年少二人組	nian shao er ren zu
+鳥山雄司	niao shan xiong si
+涅磐	nie pan
+聶遠	nie yuan
+寧採兒	ning cai er
+寧丹琳	ning dan lin
+寧進	ning jin
+寧靜	ning jing
+寧零	ning ling
+牛朝陽	niu chao yang
+牛飛	niu fei
+牛嘉	niu jia
+牛莉	niu li
+牛奶	niu nai
+牛奶咖啡	niu nai ka fei
+牛奶樂團	niu nai yue tuan
+牛青峯	niu qing feng
+牛羣	niu qun
+牛振華	niu zhen hua
+鈕大可	niu da ke
+鈕榕	niu rong
+農夫	nong fu
+暖樂團	nuan yue tuan
+諾拉瓊斯	nuo la qiong si
+諾珉宇	nuo min yu
+諾瞳	nuo tong
+糯米糰	nuo mi tuan
+女生宿舍	nv sheng su she
+女子國樂坊	nv zi guo yue fang
+女子十二樂坊	nv zi shi er yue fang
+歐得洋	ou de yang
+歐錦棠	ou jin tang
+歐噴愛	ou pen ai
+歐倩怡	ou qian yi
+歐瑞偉	ou rui wei
+歐陽泊辰	ou yang bo chen
+歐陽菲菲	ou yang fei fei
+歐陽國璋	ou yang guo zhang
+歐陽青	ou yang qing
+歐陽震華	ou yang zhen hua
+歐中建	ou zhong jian
+歐子欣	ou zi xin
+毆家瑋	ou jia wei
+帕丁森	pa ding sen
+帕奎奧	pa kui ao
+帕麗斯希爾頓	pa li si xi er dun
+帕瓦羅蒂	pa wa luo di
+派兒樂團	pai er yue tuan
+潘安邦	pan an bang
+潘長江	pan chang jiang
+潘辰	pan chen
+潘迪	pan di
+潘迪華	pan di hua
+潘東文	pan dong wen
+潘恩蓓	pan en bei
+潘廣益	pan guang yi
+潘虹	pan hong
+潘虹樾	pan hong yue
+潘嘉麗	pan jia li
+潘婕	pan jie
+潘柯夫	pan ke fu
+潘美辰	pan mei chen
+潘時七	pan shi qi
+潘霜霜	pan shuang shuang
+潘瑋柏	pan wei bo
+潘瑋儀	pan wei yi
+潘曉峯	pan xiao feng
+潘曉彤	pan xiao tong
+潘協慶	pan xie qing
+潘雪萍	pan xue ping
+潘陽	pan yang
+潘盈	pan ying
+潘雨辰	pan yu chen
+潘裕文	pan yu wen
+潘越雲	pan yue yun
+潘粵明	pan yue ming
+潘雲峯	pan yun feng
+潘哲玄	pan zhe xuan
+龐龍	pang long
+龐曉宇	pang xiao yu
+培傑	pei jie
+裴蓓	pei bei
+裴琳	pei lin
+裴勇俊	pei yong jun
+佩班娜塔	pei ban na ta
+佩德羅阿爾莫多瓦	pei de luo a er mo duo wa
+佩內洛普克魯茲	pei nei luo pu ke lu zi
+砰砰樂隊	peng peng yue dui
+彭春霞	peng chun xia
+彭丹	peng dan
+彭芳	peng fang
+彭冠中	peng guan zhong
+彭海桐	peng hai tong
+彭懷安	peng huai an
+彭佳慧	peng jia hui
+彭嘉麗	peng jia li
+彭健新	peng jian xin
+彭靖惠	peng jing hui
+彭久洋	peng jiu yang
+彭立	peng li
+彭麗麗	peng li li
+彭麗媛	peng li yuan
+彭亮	peng liang
+彭羚	peng ling
+彭坦	peng tan
+彭學斌	peng xue bin
+彭楊	peng yang
+彭于晏	peng yu yan
+彭子晴	peng zi qing
+澎恰恰	peng qia qia
+披頭士樂隊	pi tou shi yue dui
+皮爾斯布魯斯南	pi er si bu lu si nan
+片瀨亞紀	pian lai ya ji
+漂亮親戚	piao liang qin qi
+飄樂隊	piao yue dui
+品冠	pin guan
+平川大輔	ping chuan da fu
+平井堅	ping jing jian
+平克弗洛依德	ping ke fu luo yi de
+平山綾	ping shan ling
+平原綾香	ping yuan ling xiang
+潑猴	po hou
+蒲巴甲	pu ba jia
+蒲公英合唱團	pu gong ying he chang tuan
+蒲茗藍	pu ming lan
+濮存昕	pu cun xin
+朴恩惠	piao en hui
+朴樹	pu shu
+朴志胤	piao zhi yin
+浦蒲	pu pu
+普普樂團	pu pu yue tuan
+樸蔡琳	pu cai lin
+樸成民	piao cheng min
+樸恩彬	pu en bin
+樸光賢	pu guang xian
+樸海珍	pu hai zhen
+樸寒星	piao han xing
+樸慧京	pu hui jing
+樸龍河	piao long he
+樸龍錫	pu long xi
+樸美宣	piao mei xuan
+樸明秀	piao ming xiu
+樸奇英	pu qi ying
+樸尚民	pu shang min
+樸申陽	pu shen yang
+樸施厚	piao shi hou
+樸完奎	pu wan kui
+樸賢基	pu xian ji
+樸相民	piao xiang min
+樸孝敏	pu xiao min
+樸孝信	piao xiao xin
+樸信陽	piao xin yang
+樸藝珍	pu yi zhen
+樸勇河	pu yong he
+樸章根	pu zhang gen
+樸鎮英	piao zhen ying
+樸正炫	piao zheng xuan
+樸智憲	pu zhi xian
+樸智妍	pu zhi yan
+七朵花	qi duo hua
+七公主	qi gong zhu
+七郎	qi lang
+七生奈央	qi sheng nai yang
+七月七組合	qi yue qi zu he
+戚跡	qi ji
+戚天朔	qi tian shuo
+戚薇	qi wei
+祁瀟瀟	qi xiao xiao
+其其格瑪	qi qi ge ma
+琪琪格	qi qi ge
+琦琦	qi qi
+齊千郡	qi qian jun
+齊秦	qi qin
+齊藤和義	qi teng he yi
+齊豫	qi yu
+麒龍	qi long
+企鵝	qi e
+恰克與飛鳥	qia ke yu fei niao
+千百惠	qian bai hui
+前島美步	qian dao mei bu
+前田敦子	qian tian dun zi
+前田亙輝	qian tian gen hui
+錢嘉樂	qian jia le
+錢韋成	qian wei cheng
+錢韋杉	qian wei shan
+錢泳辰	qian yong chen
+錢幽蘭	qian you lan
+淺倉彩音	qian cang cai yin
+淺倉舞	qian cang wu
+茜蒂諾哈麗莎	qian di nuo ha li sha
+強辯樂團	qiang bian yue tuan
+強麥倫坎	qiang mai lun kan
+強尼戴普	qiang ni dai pu
+喬阿金菲尼克斯	qiao a jin fei ni ke si
+喬丹	qiao dan
+喬恩沃伊特	qiao en wo yi te
+喬許葛洛班	qiao xu ge luo ban
+喬傑克遜	qiao jie ke xun
+喬庫克	qiao ku ke
+喬鵬樾	qiao peng yue
+喬喬	qiao qiao
+喬任梁	qiao ren liang
+喬史崔尼	qiao shi cui ni
+喬斯史東	qiao si shi dong
+喬維怡	qiao wei yi
+喬洋	qiao yang
+喬榛	qiao zhen
+喬治班遜	qiao zhi ban xun
+喬治克魯尼	qiao zhi ke lu ni
+喬治盧卡斯	qiao zhi lu ka si
+喬治邁克爾	qiao zhi mai ke er
+橋本愛實	qiao ben ai shi
+秦海菲	qin hai fei
+秦海璐	qin hai lu
+秦煌	qin huang
+秦基博	qin ji bo
+秦嵐	qin lan
+秦立巍	qin li wei
+秦沛	qin pei
+秦偉	qin wei
+秦炎仕	qin yan shi
+秦楊	qin yang
+勤琴	qin qin
+青春美少女	qing chun mei shao nv
+青木琳	qing mu lin
+青木玲	qing mu ling
+青山	qing shan
+青蛙樂隊	qing wa yue dui
+青雪	qing xue
+青沼知朝	qing zhao zhi chao
+清春	qing chun
+清貴	qing gui
+清木場俊介	qing mu chang jun jie
+清水翔太	qing shui xiang tai
+清醒	qing xing
+清醒樂隊	qing xing yue dui
+傾城之戀	qing cheng zhi lian
+輕鬆玩樂團	qing song wan yue tuan
+晴晴	qing qing
+瓊艾倫	qiong ai lun
+瓊安奧斯朋	qiong an ao si peng
+丘採樺	qiu cai hua
+丘凱敏	qiu kai min
+丘丘合唱團	qiu qiu he chang tuan
+丘萬城	qiu wan cheng
+丘梓宏	qiu zi hong
+邱家烈	qiu jia lie
+邱嘉敏	qiu jia min
+邱玲	qiu ling
+邱琦雯	qiu qi wen
+邱詩云	qiu shi yun
+邱淑貞	qiu shu zhen
+邱頌兒	qiu song er
+邱暐議	qiu wei yi
+邱穎欣	qiu ying xin
+邱於庭	qiu yu ting
+邱芸子	qiu yun zi
+邱澤	qiu ze
+秋菜楓	qiu cai feng
+秋紅樂隊	qiu hong yue dui
+秋家若	qiu jia ruo
+秋山惠	qiu shan hui
+秋天的蟲子	qiu tian de chong zi
+秋元彩香	qiu yuan cai xiang
+秋元美由	qiu yuan mei you
+秋元友美	qiu yuan you mei
+秋月杏奈	qiu yue xing nai
+秋子賢	qiu zi xian
+裘德洛	qiu de luo
+裘海正	qiu hai zheng
+裘盛戎	qiu sheng rong
+區俊濤	qu jun tao
+區瑞強	ou rui qiang
+區淑貞	qu shu zhen
+瞿穎	qu ying
+曲虹霓	qu hong ni
+曲尼次仁	qu ni ci ren
+曲山英里	qu shan ying li
+曲佑良	qu you liang
+曲祐良	qu you liang
+全慧彬	quan hui bin
+全仁權	quan ren quan
+全泰秀	quan tai xiu
+全智賢	quan zhi xian
+權相宇	quan xiang yu
+權志龍	quan zhi long
+雀斑	que ban
+羣星	qun xing
+讓雅爾	rang ya er
+人山人海	ren shan ren hai
+仁科	ren ke
+仁順伊	ren shun yi
+任昌正	ren chang zheng
+任程偉	ren cheng wei
+任創政	ren chuang zheng
+任達華	ren da hua
+任港秀	ren gang xiu
+任潔玲	ren jie ling
+任泉	ren quan
+任容萱	ren rong xuan
+任賢齊	ren xian qi
+任巖	ren yan
+任宰範	ren zai fan
+任正彬	ren zheng bin
+日吉亞衣	ri ji ya yi
+日京江羽人	ri jing jiang yu ren
+戎梵	rong fan
+容暉	rong hui
+容錦昌	rong jin chang
+容瑄	rong xuan
+容中爾甲	rong zhong er jia
+容祖兒	rong zu er
+蓉兒	rong er
+榮帝丞	rong di cheng
+入江慎也	ru jiang shen ye
+阮丹青	ruan dan qing
+阮經天	ruan jing tian
+阮小儀	ruan xiao yi
+阮筱芬	ruan xiao fen
+阮兆祥	ruan zhao xiang
+軟硬天師	ruan ying tian shi
+芮恩	rui en
+瑞查德馬克斯	rui cha de ma ke si
+瑞奇馬汀	rui qi ma ting
+瑞秋	rui qiu
+瑞莎	rui sha
+若槻千夏	ruo gui qian xia
+撒小樂團	sa xiao yue tuan
+薩頂頂	sa ding ding
+三狗組	san gou zu
+三吉里繪子	san ji li hui zi
+三郎王青	san lang wang qing
+三門忠司	san men zhong si
+三木科	san mu ke
+三浦愛	san pu ai
+三浦大知	san pu da zhi
+三浦綺音	san pu qi yin
+三浦智佳	san pu zhi jia
+三聲緣	san sheng yuan
+三田愛	san tian ai
+散芬芳合唱團	san fen fang he chang tuan
+桑蘭	sang lan
+桑田佳佑	sang tian jia you
+森廣隆	sen guang long
+森美	sen mei
+森美移動	sen mei yi dong
+森森	sen sen
+森山良子	sen shan liang zi
+森山直太朗	sen shan zhi tai lang
+森下千里	sen xia qian li
+森下悠裏	sen xia you li
+森原由紀	sen yuan you ji
+沙寶亮	sha bao liang
+沙非	sha fei
+沙靖傑	sha jing jie
+沙魯克汗	sha lu ke han
+沙子	sha zi
+莎黛	sha dai
+莎拉布萊曼	sha la bu lai man
+莎拉蔻娜	sha la kou na
+莎朗斯通	sha lang si tong
+莎瑪海雅克	sha ma hai ya ke
+莎莎	sha sha
+紗山恵理	sha shan hui li
+山本惠美	shan ben hui mei
+山本健司	shan ben jian si
+山本領平	shan ben ling ping
+山本讓二	shan ben rang er
+山本梓	shan ben zi
+山風點火	shan feng dian huo
+山根綾乃	shan gen ling nai
+山口百惠	shan kou bai hui
+山口敦子	shan kou dun zi
+山口晶	shan kou jing
+山崎將義	shan qi jiang yi
+山崎賢人	shan qi xian ren
+山下達郎	shan xia da lang
+山下祐樹	shan xia you shu
+山下智久	shan xia zhi jiu
+山咲舞	shan xiao wu
+山野	shan ye
+杉本有美	shan ben you mei
+杉本知春	shan ben zhi chun
+杉原杏璃	shan yuan xing li
+杉籽伽	shan zi jia
+閃亮三姐妹	shan liang san jie mei
+閃亮三姊妹	shan liang san zi mei
+閃靈樂團	shan ling yue tuan
+善天	shan tian
+善舞的死者	shan wu de si zhe
+上官飛鳳	shang guan fei feng
+上海夢幻組合	shang hai meng huan zu he
+上戸彩	shang hu cai
+上戶彩	shang hu cai
+上妻宏光	shang qi hong guang
+上松秀実	shang song xiu shi
+上田正樹	shang tian zheng shu
+上原綾	shang yuan ling
+尚保羅	shang bao luo
+尚富霞	shang fu xia
+尚格雲頓	shang ge yun dun
+尚明	shang ming
+尚雯婕	shang wen jie
+尚小云	shang xiao yun
+少女時代	shao nv shi dai
+邵兵	shao bing
+邵傳勇	shao chuan yong
+邵美君	shao mei jun
+邵美琪	shao mei qi
+邵庭	shao ting
+邵雨涵	shao yu han
+邵卓堯	shao zhuo yao
+紹萱	shao xuan
+畲詩曼	she shi man
+佘詩曼	she shi man
+涉谷	she gu
+申成雨	shen cheng yu
+申承勳	shen cheng xun
+申恩慶	shen en qing
+申鳳梅	shen feng mei
+申赫	shen he
+申彗星	shen hui xing
+申慧星	shen hui xing
+申升勳	shen sheng xun
+申太權	shen tai quan
+申信愛	shen xin ai
+申揚	shen yang
+申銀貞	shen yin zhen
+深白色二人組	shen bai se er ren zu
+深度接觸樂隊	shen du jie chu yue dui
+深藍	shen lan
+深藍樂團	shen lan yue tuan
+深南大道	shen nan da dao
+深田恭子	shen tian gong zi
+深紫樂隊	shen zi yue dui
+神谷浩史	shen gu hao shi
+神話	shen hua
+神祕失控人聲樂團	shen mi shi kong ren sheng yue tuan
+神祕園	shen mi yuan
+神木與瞳	shen mu yu tong
+神乃麻美	shen nai ma mei
+神思者	shen si zhe
+神田理江	shen tian li jiang
+神田美穗	shen tian mei sui
+神童	shen tong
+沈愛琳	shen ai lin
+沈傲君	shen ao jun
+沈冰	shen bing
+沈暢	shen chang
+沈殿霞	shen dian xia
+沈恩珍	shen en zhen
+沈芳如	shen fang ru
+沈慧芬	shen hui fen
+沈佳妮	shen jia ni
+沈建宏	shen jian hong
+沈建祥	shen jian xiang
+沈可欣	shen ke xin
+沈凌	shen ling
+沈培藝	shen pei yi
+沈人傑	shen ren jie
+沈聖哲	shen sheng zhe
+沈泰	shen tai
+沈婷	shen ting
+沈文程	shen wen cheng
+沈星	shen xing
+沈雁	shen yan
+沈銀河	shen yin he
+沈穎婷	shen ying ting
+沈玉琳	shen yu lin
+沈正哲	shen zheng zhe
+沈卓盈	shen zhuo ying
+瀋太潤	shen tai run
+生稻晃子	sheng dao huang zi
+生駒惠理子	sheng ju hui li zi
+生命之餅	sheng ming zhi bing
+聲帝	sheng di
+聲音碎片	sheng yin sui pian
+盛曉玫	sheng xiao mei
+勝嶼	sheng yu
+聖潔凡蕾絲	sheng jie fan lei si
+聖女合唱團	sheng nv he chang tuan
+聖女天團	sheng nv tian tuan
+施教日	shi jiao ri
+施念慈	shi nian ci
+施文彬	shi wen bin
+施文斌	shi wen bin
+施孝榮	shi xiao rong
+施豔飛	shi yan fei
+師春玲	shi chun ling
+師洋	shi yang
+詩音	shi yin
+溼溼溼樂隊	shi shi shi yue dui
+辻詩音	shi shi yin
+石川惠理	shi chuan hui li
+石川鈴華	shi chuan ling hua
+石黑京香	shi hei jing xiang
+石井龍也	shi jing long ye
+石康軍	shi kang jun
+石梅	shi mei
+石仁茂	shi ren mao
+石頭	shi tou
+石文	shi wen
+石小杰	shi xiao jie
+石小倩	shi xiao qian
+石小羣	shi xiao qun
+石欣卉	shi xin hui
+石修	shi xiu
+石雪	shi xue
+石野田奈津代	shi ye tian nai jin dai
+拾叄	shi san
+拾叄樂團	shi san yue tuan
+拾音社	shi yin she
+史黛芬妮	shi dai fen ni
+史丹	shi dan
+史帝文	shi di wen
+史帝文斯	shi di wen si
+史蒂芬道瑞	shi di fen dao rui
+史蒂夫範	shi di fu fan
+史蒂文斯皮爾伯格	shi di wen si pi er bo ge
+史磊	shi lei
+史提夫汪達	shi ti fu wang da
+史汀	shi ting
+史逸欣	shi yi xin
+矢田亞希子	shi tian ya xi zi
+矢野浩二	shi ye hao er
+矢澤永吉	shi ze yong ji
+柿原徹也	shi yuan che ye
+誓言	shi yan
+釋道心	shi dao xin
+收音頭樂隊	shou yin tou yue dui
+手島葵	shou dao kui
+守護	shou hu
+淑惠美娜	shu hui mei na
+淑熙	shu xi
+舒暢	shu chang
+舒高	shu gao
+舒克	shu ke
+舒鳴	shu ming
+舒淇	shu qi
+舒雅頌	shu ya song
+樹麻裏子	shu ma li zi
+帥霖	shuai lin
+雙江	shuang jiang
+水城奈緒	shui cheng nai xu
+水島宏	shui dao hong
+水晶蝶	shui jing die
+水均益	shui jun yi
+水琉璃	shui liu li
+水木年華	shui mu nian hua
+水崎綾女	shui qi ling nv
+水樹奈	shui shu nai
+水水	shui shui
+水澤千夏寫真圖片	shui ze qian xia xie zhen tu pian
+順子	shun zi
+舜天齊	shun tian qi
+司徒駿文	si tu jun wen
+司徒瑞祈	si tu rui qi
+司文	si wen
+思小妞	si xiao niu
+斯蒂芬道德利	si di fen dao de li
+斯蒂文索德伯格	si di wen suo de bo ge
+斯嘉麗約翰松	si jia li yue han song
+斯琴高麗	si qin gao li
+斯琴高娃	si qin gao wa
+斯琴格日樂	si qin ge ri le
+斯汀	si ting
+四方果	si fang guo
+四分衛	si fen wei
+四季樂隊	si ji yue dui
+寺岡呼人	si gang hu ren
+松阪季實子	song ban ji shi zi
+松坂南	song ban nan
+松本和之	song ben he zhi
+松本江梨花	song ben jiang li hua
+松本孝弘	song ben xiao hong
+松島菜菜子	song dao cai cai zi
+松谷卓	song gu zhuo
+松井沙也香	song jing sha ye xiang
+松隆子	song long zi
+松浦亞彌	song pu ya mi
+松山千春	song shan qian chun
+松田樹利亞	song tian shu li ya
+松武	song wu
+宋承憲	song cheng xian
+宋丹丹	song dan dan
+宋光植	song guang zhi
+宋慧喬	song hui qiao
+宋佳	song jia
+宋柯	song ke
+宋明	song ming
+宋茜	song qian
+宋韶光	song shao guang
+宋騰躍	song teng yue
+宋偉峯	song wei feng
+宋汶霏	song wen fei
+宋熙年	song xi nian
+宋小寶	song xiao bao
+宋欣潔	song xin jie
+宋新妮	song xin ni
+宋巖欣	song yan xin
+宋軼	song yi
+宋嶽庭	song yue ting
+宋允兒	song yun er
+宋芝齡	song zhi ling
+宋仲基	song zhong ji
+宋子璇	song zi xuan
+宋紫盈	song zi ying
+宋祖兒	song zu er
+宋祖英	song zu ying
+甦醒	su xing
+蘇打綠	su da lv
+蘇恩磁	su en ci
+蘇菲瑪索	su fei ma suo
+蘇菲珊曼妮	su fei shan man ni
+蘇慧倫	su hui lun
+蘇見信	su jian xin
+蘇瑾	su jin
+蘇麗明	su li ming
+蘇路	su lu
+蘇麥	su mai
+蘇敏聰	su min cong
+蘇琪	su qi
+蘇清和	su qing he
+蘇芮	su rui
+蘇珊娜薇格	su shan na wei ge
+蘇童	su tong
+蘇汐洋	su xi yang
+蘇小懶	su xiao lan
+蘇永康	su yong kang
+蘇有朋	su you peng
+蘇玉華	su yu hua
+蘇遇	su yu
+蘇雲	su yun
+蘇志威	su zhi wei
+蘇志燮	su zhi xie
+隋俊波	sui jun bo
+孫翠鳳	sun cui feng
+孫菲菲	sun fei fei
+孫海英	sun hai ying
+孫浩英	sun hao ying
+孫紅雷	sun hong lei
+孫輝	sun hui
+孫慧瑩	sun hui ying
+孫季卿	sun ji qing
+孫家鵬	sun jia peng
+孫嘉敏	sun jia min
+孫建平	sun jian ping
+孫潔	sun jie
+孫立羣	sun li qun
+孫儷	sun li
+孫萌	sun meng
+孫明	sun ming
+孫楠	sun nan
+孫寧	sun ning
+孫培恩	sun pei en
+孫淑媚	sun shu mei
+孫思怡	sun si yi
+孫鐵	sun tie
+孫婷	sun ting
+孫聞雍	sun wen yong
+孫羨真	sun xian zhen
+孫曉亮	sun xiao liang
+孫笑一	sun xiao yi
+孫協志	sun xie zhi
+孫新釗	sun xin zhao
+孫興	sun xing
+孫遜	sun xun
+孫燕姿	sun yan zi
+孫耀威	sun yao wei
+孫曄	sun ye
+孫燁	sun ye
+孫一嬌	sun yi jiao
+孫一理	sun yi li
+孫益程	sun yi cheng
+孫逸飛	sun yi fei
+孫藝心	sun yi xin
+孫藝珍	sun yi zhen
+孫穎	sun ying
+孫毓敏	sun yu min
+孫悅	sun yue
+孫芸芸	sun yun yun
+孫志昌	sun zhi chang
+孫中藝	sun zhong yi
+孫子涵	sun zi han
+孫紫晴	sun zi qing
+索菲奧克妮多	suo fei ao ke ni duo
+索菲亞科波拉	suo fei ya ke bo la
+索朗扎西	suo lang zha xi
+索妮	suo ni
+邰正宵	tai zheng xiao
+臺灣阿兜仔	tai wan a dou zai
+颱風	tai feng
+太沖	tai chong
+泰斌	tai bin
+泰迪羅賓	tai di luo bin
+泰勒海克福德	tai le hai ke fu de
+泰然	tai ran
+灘坂舞	tan ban wu
+覃麗	qin li
+談芳兵	tan fang bing
+談莉娜	tan li na
+譚炳文	tan bing wen
+譚盾	tan dun
+譚晶	tan jing
+譚凱琪	tan kai qi
+譚坤	tan kun
+譚倩紅	tan qian hong
+譚維維	tan wei wei
+譚歆柔	tan xin rou
+譚揚	tan yang
+譚耀文	tan yao wen
+譚一清	tan yi qing
+譚詠麟	tan yong lin
+湯寶如	tang bao ru
+湯潮	tang chao
+湯加麗	tang jia li
+湯俊明	tang jun ming
+湯俊業	tang jun ye
+湯米李瓊斯	tang mi li qiong si
+湯姆漢克斯	tang mu han ke si
+湯姆克魯斯	tang mu ke lu si
+湯姆瓊斯	tang mu qiong si
+湯姆威爾金森	tang mu wei er jin sen
+湯羣	tang qun
+湯旭	tang xu
+湯奕蓉	tang yi rong
+湯盈盈	tang ying ying
+湯鎮業	tang zhen ye
+唐艾萱	tang ai xuan
+唐朝	tang chao
+唐國強	tang guo qiang
+唐季禮	tang ji li
+唐峻洋	tang jun yang
+唐磊	tang lei
+唐妮布萊斯頓	tang ni bu lai si dun
+唐寧	tang ning
+唐錢德爾	tang qian de er
+唐詩詩	tang shi shi
+唐詩詠	tang shi yong
+唐素琪	tang su qi
+唐文龍	tang wen long
+唐夏娃	tang xia wa
+唐曉詩	tang xiao shi
+唐笑	tang xiao
+唐雅明	tang ya ming
+唐嫣	tang yan
+唐於鴻	tang yu hong
+唐禹哲	tang yu zhe
+唐韻笙	tang yun sheng
+堂本剛	tang ben gang
+堂本光一	tang ben guang yi
+堂島孝平	tang dao xiao ping
+堂娜	tang na
+糖果槍	tang guo qiang
+桃麗芭頓	tao li ba dun
+陶傳正	tao chuan zheng
+陶大宇	tao da yu
+陶格斯	tao ge si
+陶虹	tao hong
+陶紅	tao hong
+陶佳	tao jia
+陶晶瑩	tao jing ying
+陶鯤鵬	tao kun peng
+陶莉萍	tao li ping
+陶帥	tao shuai
+陶喆	tao zhe
+滕麗名	teng li ming
+滕旋	teng xuan
+藤本綾	teng ben ling
+藤本美貴	teng ben mei gui
+藤井彩	teng jing cai
+藤井隆	teng jing long
+藤井鬱彌	teng jing yu mi
+藤木直人	teng mu zhi ren
+藤田惠美	teng tian hui mei
+藤原紀香	teng yuan ji xiang
+騰格爾	teng ge er
+踢窩客	ti wo ke
+天場	tian chang
+天海麗	tian hai li
+天上智喜	tian shang zhi xi
+天使之翼合唱團	tian shi zhi yi he chang tuan
+天堂	tian tang
+天堂樂隊	tian tang yue dui
+天心	tian xin
+天炫男孩	tian xuan nan hai
+天野浩成	tian ye hao cheng
+天娛羣星	tian yu qun xing
+天織堂	tian zhi tang
+田馥甄	tian fu zhen
+田宮梨香	tian gong li xiang
+田海蓉	tian hai rong
+田華杜磊	tian hua du lei
+田坤	tian kun
+田麗	tian li
+田亮	tian liang
+田龍	tian long
+田路路	tian lu lu
+田萌	tian meng
+田岷	tian min
+田平秋月	tian ping qiu yue
+田沁鑫	tian qin xin
+田欣	tian xin
+田一龍	tian yi long
+田宇哲	tian yu zhe
+田原	tian yuan
+田原步	tian yuan bu
+田原俊彥	tian yuan jun yan
+田震	tian zhen
+田中美久	tian zhong mei jiu
+田梓呈	tian zi cheng
+甜梅號	tian mei hao
+甜蜜的孩子	tian mi de hai zi
+甜蜜射線合唱團	tian mi she xian he chang tuan
+跳房子	tiao fang zi
+鐵熱沁夫	tie re qin fu
+鐵玉蘭	tie yu lan
+鐵政	tie zheng
+鐵之女	tie zhi nv
+鐵竹堂	tie zhu tang
+庭竹	ting zhu
+婷婷	ting ting
+同恩	tong en
+佟晨潔	tong chen jie
+佟大爲	tong da wei
+佟麗婭	tong li ya
+彤傑	tong jie
+桐島繪里香	tong dao hui li xiang
+童安格	tong an ge
+童冰玉	tong bing yu
+童話	tong hua
+童話演唱團	tong hua yan chang tuan
+童輝	tong hui
+童孔	tong kong
+童麗	tong li
+童童	tong tong
+童欣	tong xin
+童芷苓	tong zhi ling
+童自榮	tong zi rong
+瞳小妞	tong xiao niu
+痛苦的信仰	tong ku de xin yang
+涂惠元	tu hui yuan
+屠洪綱	tu hong gang
+屠穎	tu ying
+塗凌	tu ling
+塗紫凝	tu zi ning
+圖騰	tu teng
+托馬斯哈登丘奇	tuo ma si ha deng qiu qi
+託比凱斯	tuo bi kai si
+託尼賈	tuo ni jia
+脫拉庫	tuo la ku
+脫一	tuo yi
+庹宗華	tuo zong hua
+庹宗康	tuo zong kang
+蛙蛙合唱團	wa wa he chang tuan
+窪冢洋介	wa zhong yang jie
+娃娃	wa wa
+娃娃臉	wa wa lian
+丸子	wan zi
+玩具船長	wan ju chuan zhang
+玩樂團	wan yue tuan
+萬芳	wan fang
+萬瑪才旦	wan ma cai dan
+萬美汐	wan mei xi
+萬茜	wan qian
+萬曉利	wan xiao li
+汪藏海	wang cang hai
+汪峯	wang feng
+汪明荃	wang ming quan
+汪佩蓉	wang pei rong
+汪蕊	wang rui
+汪正正	wang zheng zheng
+王柏森	wang bai sen
+王寶寶	wang bao bao
+王寶強	wang bao qiang
+王冰洋	wang bing yang
+王冰玉	wang bing yu
+王秉熹	wang bing xi
+王炳熹	wang bing xi
+王泊文	wang bo wen
+王彩樺	wang cai hua
+王晨光	wang chen guang
+王傳一	wang chuan yi
+王闖	wang chuang
+王從希	wang cong xi
+王翠玲	wang cui ling
+王道文	wang dao wen
+王迪	wang di
+王端端	wang duan duan
+王恩琦	wang en qi
+王凡瑞	wang fan rui
+王非非	wang fei fei
+王菲	wang fei
+王菲菲	wang fei fei
+王富華	wang fu hua
+王剛	wang gang
+王高興	wang gao xing
+王歌慧	wang ge hui
+王冠	wang guan
+王光良	wang guang liang
+王海玲	wang hai ling
+王海鷺	wang hai lu
+王海珍	wang hai zhen
+王浩信	wang hao xin
+王鶴錚	wang he zheng
+王宏恩	wang hong en
+王琥	wang hu
+王姬	wang ji
+王佳一	wang jia yi
+王家衛	wang jia wei
+王家珧	wang jia yao
+王嘉明	wang jia ming
+王建復	wang jian fu
+王建傑	wang jian jie
+王傑	wang jie
+王介安	wang jie an
+王京京	wang jing jing
+王菁華	wang jing hua
+王晶	wang jing
+王婧	wang jing
+王靜瑩	wang jing ying
+王珏	wang jue
+王君安	wang jun an
+王君馨	wang jun xin
+王軍霞	wang jun xia
+王鈞	wang jun
+王俊傑	wang jun jie
+王俊棠	wang jun tang
+王俊雄	wang jun xiong
+王凱蒂	wang kai di
+王凱駿	wang kai jun
+王藍茵	wang lan yin
+王瀾霏	wang lan fei
+王磊	wang lei
+王黎雯	wang li wen
+王力宏	wang li hong
+王力可	wang li ke
+王櫟鑫	wang yue xin
+王麗達	wang li da
+王麟	wang lin
+王羚柔	wang ling rou
+王領	wang ling
+王露凝	wang lu ning
+王洛賓	wang luo bin
+王珞丹	wang luo dan
+王美蓮	wang mei lian
+王夢麟	wang meng lin
+王明哲	wang ming zhe
+王默君	wang mo jun
+王鷗	wang ou
+王品	wang pin
+王啓文	wang qi wen
+王茜華	wang qian hua
+王強	wang qiang
+王青	wang qing
+王仁甫	wang ren fu
+王仁宏	wang ren hong
+王蓉	wang rong
+王瑞霞	wang rui xia
+王睿	wang rui
+王若涵	wang ruo han
+王若琳	wang ruo lin
+王若琪	wang ruo qi
+王珊珊	wang shan shan
+王少舫	wang shao fang
+王紹偉	wang shao wei
+王識賢	wang shi xian
+王淑玲	wang shu ling
+王樹熹	wang shu xi
+王思平	wang si ping
+王思思	wang si si
+王思懿	wang si yi
+王滔	wang tao
+王媞	wang ti
+王鐵峯	wang tie feng
+王同輝	wang tong hui
+王瞳	wang tong
+王崴	wang wai
+王菀之	wang wan zhi
+王威勝	wang wei sheng
+王維德	wang wei de
+王偉	wang wei
+王偉梁	wang wei liang
+王文林	wang wen lin
+王文宣	wang wen xuan
+王雯琴	wang wen qin
+王希怡	wang xi yi
+王錫玄	wang xi xuan
+王喜	wang xi
+王小愷	wang xiao kai
+王小利	wang xiao li
+王小帥	wang xiao shuai
+王小丫	wang xiao ya
+王曉南	wang xiao nan
+王嘯坤	wang xiao kun
+王心凌	wang xin ling
+王心如	wang xin ru
+王欣如	wang xin ru
+王欣婷	wang xin ting
+王欣逸	wang xin yi
+王新蓮	wang xin lian
+王馨可	wang xin ke
+王馨平	wang xin ping
+王秀琳	wang xiu lin
+王敘然	wang xu ran
+王學兵	wang xue bing
+王雪	wang xue
+王雪娥	wang xue e
+王雪晶	wang xue jing
+王雅捷	wang ya jie
+王雅文	wang ya wen
+王亞楠	wang ya nan
+王婭	wang ya
+王雁盟	wang yan meng
+王燕青	wang yan qing
+王豔	wang yan
+王一冰	wang yi bing
+王一淼	wang yi miao
+王一然	wang yi ran
+王依華	wang yi hua
+王以路	wang yi lu
+王奕智	wang yi zhi
+王益	wang yi
+王藝霖	wang yi lin
+王藝翔	wang yi xiang
+王繹龍	wang yi long
+王勇	wang yong
+王友良	wang you liang
+王榆鈞	wang yu jun
+王宇婕	wang yu jie
+王宇鵬	wang yu peng
+王羽澤	wang yu ze
+王雨	wang yu
+王玉章	wang yu zhang
+王袁	wang yuan
+王媛可	wang yuan ke
+王遠	wang yuan
+王箏	wang zheng
+王錚亮	wang zheng liang
+王芷蕾	wang zhi lei
+王志文	wang zhi wen
+王志心	wang zhi xin
+王中平	wang zhong ping
+王壯	wang zhuang
+王子	wang zi
+王子建	wang zi jian
+王子鳴	wang zi ming
+王紫璇	wang zi xuan
+王祖藍	wang zu lan
+王祖賢	wang zu xian
+旺財	wang cai
+旺福	wang fu
+威爾史密斯	wei er shi mi si
+威爾楊	wei er yang
+威廉達福	wei lian da fu
+威猛樂隊	wei meng yue dui
+微笑姐妹	wei xiao jie mei
+薇恩	wei en
+薇諾娜賴德	wei nuo na lai de
+韋弗	wei fu
+韋國元	wei guo yuan
+韋家雄	wei jia xiong
+韋嘉	wei jia
+韋敏	wei min
+韋綺姍	wei qi shan
+韋綺珊	wei qi shan
+韋唯	wei wei
+唯丞	wei cheng
+唯川純	wei chuan chun
+維多利亞	wei duo li ya
+維瓦爾迪安東尼奧	wei wa er di an dong ni ao
+尾島直哉	wei dao zhi zai
+尾崎豐	wei qi feng
+衛蘭	wei lan
+衛詩	wei shi
+衛薇兒	wei wei er
+魏斌	wei bin
+魏晨	wei chen
+魏大勳	wei da xun
+魏佳慶	wei jia qing
+魏建業	wei jian ye
+魏焌皓	wei qu hao
+魏駿傑	wei jun jie
+魏妮妮	wei ni ni
+魏如萱	wei ru xuan
+魏如昀	wei ru yun
+魏瑛俠	wei ying xia
+溫碧霞	wen bi xia
+溫翠萍	wen cui ping
+溫家恆	wen jia heng
+溫金龍	wen jin long
+溫嵐	wen lan
+溫力銘	wen li ming
+溫拿樂隊	wen na yue dui
+溫勝光	wen sheng guang
+溫雯	wen wen
+溫雲松	wen yun song
+溫兆倫	wen zhao lun
+文根英	wen gen ying
+文嘉煊	wen jia xuan
+文潔雲	wen jie yun
+文明真	wen ming zhen
+文佩玲	wen pei ling
+文頌嫺	wen song xian
+文熙俊	wen xi jun
+文筱芮	wen xiao rui
+文詠珊	wen yong shan
+文章	wen zhang
+文政赫	wen zheng he
+蚊子大象	wen zi da xiang
+聞婷	wen ting
+吻樂隊	wen yue dui
+翁虹	weng hong
+翁佳妮	weng jia ni
+翁立友	weng li you
+翁美玲	weng mei ling
+翁培倫	weng pei lun
+翁倩玉	weng qian yu
+翁宇君	weng yu jun
+巫迪文	wu di wen
+巫剛	wu gang
+巫慧敏	wu hui min
+巫奇	wu qi
+巫啓賢	wu qi xian
+巫一凡	wu yi fan
+烏瑪瑟曼	wu ma se man
+烏仁娜	wu ren na
+吾酷	wu ku
+吳安雅	wu an ya
+吳百倫	wu bai lun
+吳斌	wu bin
+吳辰君	wu chen jun
+吳澄	wu cheng
+吳大維	wu da wei
+吳德華	wu de hua
+吳恩琪	wu en qi
+吳梵	wu fan
+吳國敬	wu guo jing
+吳昊	wu hao
+吳浩康	wu hao kang
+吳歡	wu huan
+吳佳妮	wu jia ni
+吳佳芸	wu jia yun
+吳佳展	wu jia zhan
+吳建飛	wu jian fei
+吳建豪	wu jian hao
+吳京	wu jing
+吳君麗	wu jun li
+吳君如	wu jun ru
+吳軍	wu jun
+吳駿毅	wu jun yi
+吳克羣	wu ke qun
+吳蠻	wu man
+吳美珩	wu mei heng
+吳美衍	wu mei yan
+吳淼	wu miao
+吳名慧	wu ming hui
+吳佩慈	wu pei ci
+吳佩珊	wu pei shan
+吳姵文	wu pei wen
+吳朋奉	wu peng feng
+吳品醇	wu pin chun
+吳奇隆	wu qi long
+吳啓華	wu qi hua
+吳綺莉	wu qi li
+吳綺珊	wu qi shan
+吳芊芊	wu qian qian
+吳倩蓮	wu qian lian
+吳瓊	wu qiong
+吳日言	wu ri yan
+吳若甫	wu ruo fu
+吳若權	wu ruo quan
+吳世俊	wu shi jun
+吳淑敏	wu shu min
+吳樹德	wu shu de
+吳雙戰	wu shuang zhan
+吳聽徹	wu ting che
+吳彤	wu tong
+吳婉芳	wu wan fang
+吳薇	wu wei
+吳煒	wu wei
+吳小莉	wu xiao li
+吳曉娜	wu xiao na
+吳昕	wu xin
+吳幸美	wu xing mei
+吳秀波	wu xiu bo
+吳秀珠	wu xiu zhu
+吳雅夢	wu ya meng
+吳彥祖	wu yan zu
+吳雁澤	wu yan ze
+吳易澤	wu yi ze
+吳英仔	wu ying zai
+吳鶯音	wu ying yin
+吳映潔	wu ying jie
+吳悠	wu you
+吳宇凱	wu yu kai
+吳宇森	wu yu sen
+吳雨霏	wu yu fei
+吳越	wu yue
+吳雲飛	wu yun fei
+吳展濠	wu zhan hao
+吳兆弦	wu zhao xian
+吳鎮宇	wu zhen yu
+吳忠明	wu zhong ming
+吳鍾赫	wu zhong he
+吳卓玲	wu zhuo ling
+吳卓羲	wu zhuo xi
+吳宗憲	wu zong xian
+無級生	wu ji sheng
+無雙樂團	wu shuang yue tuan
+無印良品	wu yin liang pin
+五條人	wu tiao ren
+五月天	wu yue tian
+伍佰	wu bai
+伍家輝	wu jia hui
+伍仕賢	wu shi xian
+伍思凱	wu si kai
+伍天宇	wu tian yu
+伍詠薇	wu yong wei
+伍卓賢	wu zhuo xian
+武國忠	wu guo zhong
+武文斌	wu wen bin
+武藝	wu yi
+戊道子	wu dao zi
+物樂團	wu yue tuan
+夕樹舞子	xi shu wu zi
+西城男孩	xi cheng nan hai
+西城秀樹	xi cheng xiu shu
+西川貴教	xi chuan gui jiao
+西村優子	xi cun you zi
+西單女孩	xi dan nv hai
+西恩潘	xi en pan
+西皮士	xi pi shi
+西崎綠	xi qi lv
+西田幸治	xi tian xing zhi
+西席斯貝西克	xi xi si bei xi ke
+西野迦南	xi ye jia nan
+希拉里斯萬克	xi la li si wan ke
+希瑞克勞	xi rui ke lao
+希亞	xi ya
+奚紅	xi hong
+奚美娟	xi mei juan
+奚秀蘭	xi xiu lan
+熙道	xi dao
+嘻哈高校	xi ha gao xiao
+嘻哈甜心	xi ha tian xin
+嘻樂門	xi le men
+席爾	xi er
+席琳迪昂	xi lin di ang
+席琳迪翁	xi lin di weng
+席維斯史泰龍	xi wei si shi tai long
+習遠平	xi yuan ping
+喜多鷲修曼陀羅	xi duo jiu xiu man tuo luo
+喜多郎	xi duo lang
+璽恩	xi en
+細川百合子	xi chuan bai he zi
+細川文惠	xi chuan wen hui
+細亞俊秀	xi ya jun xiu
+夏川純	xia chuan chun
+夏川里美	xia chuan li mei
+夏丹	xia dan
+夏卡毛樂團	xia ka mao yue tuan
+夏綠蒂	xia lv di
+夏茗悠	xia ming you
+夏奇拉	xia qi la
+夏韶聲	xia shao sheng
+夏天的雪	xia tian de xue
+夏穎	xia ying
+夏宇童	xia yu tong
+夏雨	xia yu
+仙劍奇俠傳	xian jian qi xia zhuan
+仙尼亞唐恩	xian ni ya tang en
+弦子	xian zi
+冼鋒	xian feng
+相川美沙緒	xiang chuan mei sha xu
+相馬茜	xiang ma qian
+相崎琴音	xiang qi qin yin
+相田桃	xiang tian tao
+香坂百合	xiang ban bai he
+香岱兒	xiang dai er
+香港兒童合唱團	xiang gang er tong he chang tuan
+香港醒獅團	xiang gang xing shi tuan
+香清	xiang qing
+香山聖	xiang shan sheng
+香香	xiang xiang
+鄉裕美	xiang yu mei
+湘海	xiang hai
+向鼎	xiang ding
+向海嵐	xiang hai lan
+向蕙玲	xiang hui ling
+向井千里	xiang jing qian li
+向月	xiang yue
+肖邦	xiao bang
+肖恩康納利	xiao en kang na li
+肖光偉	xiao guang wei
+肖劍	xiao jian
+肖開提	xiao kai ti
+肖淑平	xiao shu ping
+肖小胖	xiao xiao pang
+肖雅嫺	xiao ya xian
+肖遙	xiao yao
+消失部落	xiao shi bu luo
+蕭承祥	xiao cheng xiang
+蕭福德	xiao fu de
+蕭賀碩	xiao he shuo
+蕭恆嘉	xiao heng jia
+蕭閎仁	xiao hong ren
+蕭煌奇	xiao huang qi
+蕭敬騰	xiao jing teng
+蕭孋珠	xiao li zhu
+蕭麗珠	xiao li zhu
+蕭亮	xiao liang
+蕭薔	xiao qiang
+蕭人鳳	xiao ren feng
+蕭潤邦	xiao run bang
+蕭淑慎	xiao shu shen
+蕭蕭	xiao xiao
+蕭瀟	xiao xiao
+蕭亞軒	xiao ya xuan
+蕭玉芬	xiao yu fen
+蕭正楠	xiao zheng nan
+小安	xiao an
+小八	xiao ba
+小巴	xiao ba
+小白熊電臺	xiao bai xiong dian tai
+小寶	xiao bao
+小比利	xiao bi li
+小彬彬	xiao bin bin
+小倉亞莉絲	xiao cang ya li si
+小曾	xiao zeng
+小池徹平	xiao chi che ping
+小池榮子	xiao chi rong zi
+小蟲	xiao chong
+小村	xiao cun
+小蕩婦	xiao dang fu
+小刀	xiao dao
+小刀樂團	xiao dao yue tuan
+小迪	xiao di
+小肥	xiao fei
+小峯峯	xiao feng feng
+小峯由衣	xiao feng you yi
+小剛	xiao gang
+小高	xiao gao
+小河	xiao he
+小河北	xiao he bei
+小黑柯受良	xiao hei ke shou liang
+小虎隊	xiao hu dui
+小護士	xiao hu shi
+小柯	xiao ke
+小辣椒	xiao la jiao
+小類與樂隊	xiao lei yu yue dui
+小李琳	xiao li lin
+小林桂	xiao lin gui
+小林惠美	xiao lin hui mei
+小林瞳	xiao lin tong
+小龍女	xiao long nv
+小麥	xiao mai
+小鳴	xiao ming
+小膩膩	xiao ni ni
+小女子十二樂坊	xiao nv zi shi er yue fang
+小泉彩	xiao quan cai
+小泉梨菜	xiao quan li cai
+小森美王	xiao sen mei wang
+小山	xiao shan
+小瀋陽	xiao shen yang
+小室友裏	xiao shi you li
+小室哲哉	xiao shi zhe zai
+小斯韻	xiao si yun
+小松彩夏	xiao song cai xia
+小松千春	xiao song qian chun
+小松拓也	xiao song tuo ye
+小松未步	xiao song wei bu
+小淘氣家族	xiao tao qi jia zu
+小田和正	xiao tian he zheng
+小田有紗	xiao tian you sha
+小丸子	xiao wan zi
+小爲	xiao wei
+小文	xiao wen
+小西康陽	xiao xi kang yang
+小西那奈	xiao xi na nai
+小希	xiao xi
+小向杏奈	xiao xiang xing nai
+小小彬	xiao xiao bin
+小雪	xiao xue
+小薰	xiao xun
+小野麗莎	xiao ye li sha
+小儀	xiao yi
+小宇	xiao yu
+小月	xiao yue
+小澤菜穗	xiao ze cai sui
+小澤奈美	xiao ze nai mei
+小澤圓	xiao ze yuan
+小紫荊兒童合唱團	xiao zi jing er tong he chang tuan
+筱崎美沙	xiao qi mei sha
+曉楓	xiao feng
+曉華	xiao hua
+曉雯	xiao wen
+曉曉	xiao xiao
+曉雅	xiao ya
+嘯喃	xiao nan
+蠍子樂隊	xie zi yue dui
+謝安琪	xie an qi
+謝採妘	xie cai yun
+謝承偉	xie cheng wei
+謝純鑫	xie chun xin
+謝丹	xie dan
+謝東	xie dong
+謝東娜	xie dong na
+謝飛	xie fei
+謝和絃	xie he xian
+謝宏	xie hong
+謝華	xie hua
+謝暉	xie hui
+謝金天	xie jin tian
+謝金燕	xie jin yan
+謝津	xie jin
+謝軍	xie jun
+謝朗庭	xie lang ting
+謝雷	xie lei
+謝麗金	xie li jin
+謝玲玲	xie ling ling
+謝娜	xie na
+謝巧丹	xie qiao dan
+謝順福	xie shun fu
+謝天華	xie tian hua
+謝天笑	xie tian xiao
+謝添	xie tian
+謝霆鋒	xie ting feng
+謝宛婷	xie wan ting
+謝宛諭	xie wan yu
+謝文雅	xie wen ya
+謝瑩瑩	xie ying ying
+謝穎穎	xie ying ying
+謝有才	xie you cai
+謝宇威	xie yu wei
+謝雨欣	xie yu xin
+謝政廷	xie zheng ting
+心然	xin ran
+心微	xin wei
+心有花	xin you hua
+辛柏青	xin bai qing
+辛寶達	xin bao da
+辛蒂露球	xin di lu qiu
+辛惠媛	xin hui yuan
+辛龍	xin long
+辛唐米娜	xin tang mi na
+辛小玲	xin xiao ling
+辛曉琪	xin xiao qi
+辛欣	xin xin
+辛子奇	xin zi qi
+新寶島康樂隊	xin bao dao kang yue dui
+新街口組合	xin jie kou zu he
+新褲子	xin ku zi
+新山愛裏	xin shan ai li
+新山千春	xin shan qian chun
+新射鵰英雄傳	xin she diao ying xiong zhuan
+新寺洞老虎	xin si dong lao hu
+新堂淳士	xin tang chun shi
+新香蕉俱樂部	xin xiang jiao ju le bu
+新香水樂隊	xin xiang shui yue dui
+新垣結衣	xin yuan jie yi
+馨予	xin yu
+信樂團	xin yue tuan
+星盒子	xing he zi
+星際水手樂隊	xing ji shui shou yue dui
+星崎未來	xing qi wei lai
+星野光	xing ye guang
+星野貴紀	xing ye gui ji
+星野流宇	xing ye liu yu
+星野亞希	xing ye ya xi
+星優乃	xing you nai
+邢鼕鼕	xing dong dong
+杏小百合	xing xiao bai he
+幸福大街	xing fu da jie
+幸田來未	xing tian lai wei
+幸田梨紗	xing tian li sha
+兄弟聯	xiong di lian
+熊寶貝樂團	xiong bao bei yue tuan
+熊木杏裏	xiong mu xing li
+熊乃瑾	xiong nai jin
+熊琪	xiong qi
+熊汝霖	xiong ru lin
+熊天平	xiong tian ping
+熊田夏樹	xiong tian xia shu
+熊文	xiong wen
+熊穎詩	xiong ying shi
+咻比嘟譁	xiu bi du hua
+修美娜	xiu mei na
+修慶	xiu qing
+秀愛組合	xiu ai zu he
+秀蘭鄧波兒	xiu lan deng bo er
+秀蘭瑪雅	xiu lan ma ya
+須賀	xu he
+須士川	xu shi chuan
+須藤溫子	xu teng wen zi
+徐蓓	xu bei
+徐衝	xu chong
+徐春妮	xu chun ni
+徐帆	xu fan
+徐飛	xu fei
+徐濠縈	xu hao ying
+徐顥菲	xu hao fei
+徐鶴寧	xu he ning
+徐洪武	xu hong wu
+徐懷鈺	xu huai yu
+徐繼宗	xu ji zong
+徐佳瑩	xu jia ying
+徐嘉良	xu jia liang
+徐健淇	xu jian qi
+徐劍	xu jian
+徐婕兒	xu jie er
+徐傑	xu jie
+徐傑亮	xu jie liang
+徐潔兒	xu jie er
+徐靖博	xu jing bo
+徐靜蕾	xu jing lei
+徐筠	xu jun
+徐俊榮	xu jun rong
+徐克	xu ke
+徐立	xu li
+徐萌	xu meng
+徐乃麟	xu nai lin
+徐崎峯	xu qi feng
+徐千雅	xu qian ya
+徐清原	xu qing yuan
+徐若	xu ruo
+徐若萱	xu ruo xuan
+徐若瑄	xu ruo xuan
+徐詩敏	xu shi min
+徐淑敏	xu shu min
+徐天培	xu tian pei
+徐偉賢	xu wei xian
+徐文卓	xu wen zhuo
+徐雯	xu wen
+徐熙娣	xu xi di
+徐熙媛	xu xi yuan
+徐賢	xu xian
+徐賢秀	xu xian xiu
+徐湘婷	xu xiang ting
+徐小鳳	xu xiao feng
+徐小明	xu xiao ming
+徐曉冬	xu xiao dong
+徐曉吉	xu xiao ji
+徐洋	xu yang
+徐一丹	xu yi dan
+徐英恩	xu ying en
+徐譽滕	xu yu teng
+徐哲緯	xu zhe wei
+徐崢	xu zheng
+徐芷頎	xu zhi qi
+徐志傑	xu zhi jie
+徐志強	xu zhi qiang
+徐智英	xu zhi ying
+徐仲薇	xu zhong wei
+徐子涵	xu zi han
+徐子淇	xu zi qi
+徐子珊	xu zi shan
+徐子崴	xu zi wei
+徐子源	xu zi yuan
+旭明	xu ming
+宣教前鋒樂團	xuan jiao qian feng yue tuan
+宣萱	xuan xuan
+萱寧	xuan ning
+玄彬	xuan bin
+玄武	xuan wu
+炫龍	xuan long
+絢香	xuan xiang
+薛楓	xue feng
+薛佳凝	xue jia ning
+薛家燕	xue jia yan
+薛凱琪	xue kai qi
+薛曉楓	xue xiao feng
+薛嶽	xue yue
+薛之謙	xue zhi qian
+薛忠銘	xue zhong ming
+雪村	xue cun
+雪兒	xue er
+雪狼	xue lang
+雪伶	xue ling
+雪天使	xue tian shi
+雪螢樂隊	xue ying yue dui
+雪宇	xue yu
+薰妮	xun ni
+薰櫻子	xun ying zi
+尋秦記	xun qin ji
+押尾桑	ya wei sang
+雅立	ya li
+雅尼	ya ni
+亞丁人	ya ding ren
+亞歷山大佩恩	ya li shan da pei en
+亞龍大	ya long da
+亞倫卡特	ya lun ka te
+亞明	ya ming
+亞瑟小子	ya se xiao zi
+亞特葛芬柯	ya te ge fen ke
+亞香緹	ya xiang ti
+亞洲愛樂	ya zhou ai yue
+淹尺乃南	yan chi nai nan
+嫣然	yan ran
+延宇	yan yu
+言承旭	yan cheng xu
+言興朋	yan xing peng
+閆安	yan an
+閆肅	yan su
+閆偉	yan wei
+閆旭	yan xu
+閻娜	yan na
+閻青妤	yan qing yu
+閻韋伶	yan wei ling
+閻學敏	yan xue min
+顏丙燕	yan bing yan
+顏楚杉	yan chu shan
+顏福偉	yan fu wei
+顏冠英	yan guan ying
+顏國樑	yan guo liang
+顏行書	yan xing shu
+顏爵	yan jue
+顏仟汶	yan qian wen
+顏鎣奇	yan ying qi
+顏志琳	yan zhi lin
+嚴丹丹	yan dan dan
+嚴鳳英	yan feng ying
+嚴淑明	yan shu ming
+嚴泰京	yan tai jing
+嚴泰雄	yan tai xiong
+嚴妍	yan yan
+嚴錚	yan zheng
+嚴正花	yan zheng hua
+巖井俊二	yan jing jun er
+巖瀨敬吾	yan lai jing wu
+巖人樂團	yan ren yue tuan
+巖佐真悠子	yan zuo zhen you zi
+眼鏡蛇	yan jing she
+眼球先生	yan qiu xian sheng
+演員李靜	yan yuan li jing
+晏菲	yan fei
+雁卿	yan qing
+燕妮	yan ni
+央金拉姆	yang jin la mu
+央金蘭澤	yang jin lan ze
+羊毛衫合唱團	yang mao shan he chang tuan
+陽帆	yang fan
+陽蕾	yang lei
+陽一	yang yi
+陽溢妹妹	yang yi mei mei
+揚帆	yang fan
+揚明	yang ming
+楊寶森	yang bao sen
+楊波	yang bo
+楊采妮	yang cai ni
+楊臣剛	yang chen gang
+楊晨	yang chen
+楊丞琳	yang cheng lin
+楊呈偉	yang cheng wei
+楊程鈞	yang cheng jun
+楊川平	yang chuan ping
+楊丹	yang dan
+楊東根	yang dong gen
+楊帆	yang fan
+楊芳儀	yang fang yi
+楊鈁涵	yang fang han
+楊恭如	yang gong ru
+楊光	yang guang
+楊海玲	yang hai ling
+楊浩龍	yang hao long
+楊恆均	yang heng jun
+楊繼繩	yang ji sheng
+楊佳	yang jia
+楊家成	yang jia cheng
+楊家將	yang jia jiang
+楊錦聰	yang jin cong
+楊進明	yang jin ming
+楊晶晶	yang jing jing
+楊景儀	yang jing yi
+楊峻榮	yang jun rong
+楊凱迪	yang kai di
+楊克強	yang ke qiang
+楊坤	yang kun
+楊瀾	yang lan
+楊立鈦	yang li tai
+楊麗曉	yang li xiao
+楊林	yang lin
+楊蔓	yang man
+楊冪	yang mi
+楊沐	yang mu
+楊乃文	yang nai wen
+楊培安	yang pei an
+楊沛宜	yang pei yi
+楊普評	yang pu ping
+楊淇	yang qi
+楊千	yang qian
+楊千嬅	yang qian hua
+楊千樺	yang qian hua
+楊青倩	yang qing qian
+楊慶煌	yang qing huang
+楊若兮	yang ruo xi
+楊思琪	yang si qi
+楊思琦	yang si qi
+楊天經	yang tian jing
+楊天寧	yang tian ning
+楊童舒	yang tong shu
+楊婉儀	yang wan yi
+楊偉漢	yang wei han
+楊魏玲花	yang wei ling hua
+楊小琳	yang xiao lin
+楊小樓	yang xiao lou
+楊小萍	yang xiao ping
+楊孝君	yang xiao jun
+楊欣	yang xin
+楊新鳴	yang xin ming
+楊秀惠	yang xiu hui
+楊雪	yang xue
+楊雪帆	yang xue fan
+楊雪霏	yang xue fei
+楊耀東	yang yao dong
+楊一	yang yi
+楊依蓓	yang yi bei
+楊怡	yang yi
+楊毅	yang yi
+楊英傑	yang ying jie
+楊英偉	yang ying wei
+楊穎	yang ying
+楊永信	yang yong xin
+楊雨婷	yang yu ting
+楊御	yang yu
+楊鈺瑩	yang yu ying
+楊樂樂	yang le le
+楊韻禾	yang yun he
+楊哲	yang zhe
+楊正恩	yang zheng en
+楊致煥	yang zhi huan
+楊子	yang zi
+楊子楱	yang zi cou
+楊子姍	yang zi shan
+楊梓	yang zi
+楊紫	yang zi
+楊紫瓊	yang zi qiong
+楊紫彤	yang zi tong
+楊宗緯	yang zong wei
+腰樂隊	yao yue dui
+姚貝娜	yao bei na
+姚采穎	yao cai ying
+姚國禎	yao guo zhen
+姚健	yao jian
+姚侃	yao kan
+姚莉	yao li
+姚櫓	yao lu
+姚玟隆	yao wen long
+姚敏	yao min
+姚鳴	yao ming
+姚芊羽	yao qian yu
+姚紹忠	yao shao zhong
+姚蘇蓉	yao su rong
+姚婷	yao ting
+姚婷芝	yao ting zhi
+姚文龍	yao wen long
+姚小龍	yao xiao long
+姚星彤	yao xing tong
+姚瑤	yao yao
+姚乙	yao yi
+姚政	yao zheng
+姚中華	yao zhong hua
+姚子羚	yao zi ling
+搖滾主耶穌	yao gun zhu ye su
+野村萬齋	ye cun wan zhai
+野孩子	ye hai zi
+野狐禪	ye hu chan
+野人花園	ye ren hua yuan
+野獸男孩	ye shou nan hai
+野仔	ye zai
+夜願	ye yuan
+葉璦菱	ye ai ling
+葉安婷	ye an ting
+葉貝文	ye bei wen
+葉蓓	ye bei
+葉成康	ye cheng kang
+葉翠翠	ye cui cui
+葉德嫺	ye de xian
+葉楓	ye feng
+葉歡	ye huan
+葉加瀨太郎	ye jia lai tai lang
+葉佳修	ye jia xiu
+葉俊岑	ye jun cen
+葉凱茵	ye kai yin
+葉麗儀	ye li yi
+葉美香	ye mei xiang
+葉明子	ye ming zi
+葉佩雯	ye pei wen
+葉啓田	ye qi tian
+葉倩文	ye qian wen
+葉全真	ye quan zhen
+葉山麗子	ye shan li zi
+葉盛蘭	ye sheng lan
+葉世榮	ye shi rong
+葉樹茵	ye shu yin
+葉婷芝	ye ting zhi
+葉童	ye tong
+葉維達	ye wei da
+葉瑋	ye wei
+葉瑋庭	ye wei ting
+葉文輝	ye wen hui
+葉無道	ye wu dao
+葉熙祺	ye xi qi
+葉錫安	ye xi an
+葉仙兒	ye xian er
+葉小青	ye xiao qing
+葉旋	ye xuan
+葉璇	ye xuan
+葉一茜	ye yi qian
+葉宇澄	ye yu cheng
+葉玉卿	ye yu qing
+葉蘊儀	ye yun yi
+葉振棠	ye zhen tang
+葉志強	ye zhi qiang
+葉子菁	ye zi jing
+葉子楣	ye zi mei
+一聽新歌	yi ting xin ge
+一萬個騙子	yi wan ge pian zi
+一樂	yi le
+伊東繪理	yi dong hui li
+伊東憐	yi dong lian
+伊恩麥凱倫	yi en mai kai lun
+伊蕾莎	yi lei sha
+伊麗莎白赫莉	yi li sha bai he li
+伊麗莎白泰勒	yi li sha bai tai le
+伊蓮佩吉	yi lian pei ji
+伊琳	yi lin
+伊妹兒	yi mei er
+伊能靜	yi neng jing
+伊桑霍克	yi sang huo ke
+伊藤	yi teng
+伊藤由奈	yi teng you nai
+伊娃卡斯迪	yi wa ka si di
+伊雪莉	yi xue li
+伊洋	yi yang
+伊揚	yi yang
+伊澤千夏	yi ze qian xia
+壱岐尾彩花	yi qi wei cai hua
+宜璇	yi xuan
+彝人	yi ren
+彝人制造	yi ren zhi zao
+亦凡	yi fan
+佚名	yi ming
+易桀齊	yi jie qi
+易秒英	yi miao ying
+奕丹	yi dan
+益西卓瑪	yi xi zhuo ma
+異端	yi duan
+意淋	yi lin
+翼勢力	yi shi li
+藝鷺	yi lu
+譯男	yi nan
+因果兄弟	yin guo xiong di
+音咲絢	yin xiao xuan
+音樂鐵人	yin yue tie ren
+殷浩	yin hao
+殷桃	yin tao
+殷秀梅	yin xiu mei
+殷悅	yin yue
+殷正洋	yin zheng yang
+殷志源	yin zhi yuan
+銀色灰塵	yin se hui chen
+銀霞	yin xia
+尹達勳	yin da xun
+尹鬥俊	yin dou jun
+尹光	yin guang
+尹赫	yin he
+尹健	yin jian
+尹力	yin li
+尹林光子	yin lin guang zi
+尹起源	yin qi yuan
+尹尚賢	yin shang xian
+尹勝雅	yin sheng ya
+尹時潤	yin shi run
+尹時允	yin shi yun
+尹姝貽	yin shu yi
+尹熙中	yin xi zhong
+尹相傑	yin xiang jie
+尹相鉉	yin xiang xuan
+尹馨	yin xin
+尹子茹	yin zi ru
+尹子維	yin zi wei
+隱者	yin zhe
+英格麗褒曼	ying ge li bao man
+英格瑪	ying ge ma
+英知文子	ying zhi wen zi
+櫻井敦司	ying jing dun si
+櫻井風花	ying jing feng hua
+櫻木凜	ying mu lin
+櫻樹露衣	ying shu lu yi
+櫻桃幫	ying tao bang
+櫻庭涼子	ying ting liang zi
+櫻庭裕一郎	ying ting yu yi lang
+櫻冢澈	ying zhong che
+櫻朱音	ying zhu yin
+穎兒	ying er
+映象唱片	ying xiang chang pian
+應採兒	ying cai er
+應昌佑	ying chang you
+應子棟	ying zi dong
+擁擠的房子	yong ji de fang zi
+永邦	yong bang
+永遠懷念塔可夫斯基	yong yuan huai nian ta ke fu si ji
+泳兒	yong er
+勇者無畏樂隊	yong zhe wu wei yue dui
+憂歡派對	you huan pai dui
+憂木瞳	you mu tong
+優客李林	you ke li lin
+優子惠飛	you zi hui fei
+尤浩然	you hao ran
+尤秋興	you qiu xing
+尤雅	you ya
+尤勇	you yong
+尤姿雅	you zi ya
+由浩熙	you hao xi
+遊喧	you xuan
+遊學志	you xue zhi
+遊助	you zhu
+游鴻明	you hong ming
+友坂理惠	you ban li hui
+友田真希	you tian zhen xi
+有耳非文	you er fei wen
+有岡大貴	you gang da gui
+有裏知花	you li zhi hua
+有棲川志乃	you qi chuan zhi nai
+幼齒少年家	you chi shao nian jia
+柚木提娜	you mu ti na
+柚月美穗	you yue mei sui
+誘導社	you dao she
+於蓓蓓	yu bei bei
+於鳳翔	yu feng xiang
+於冠華	yu guan hua
+於和偉	yu he wei
+於紅軍	yu hong jun
+於嘉萌	yu jia meng
+於健	yu jian
+於金源	yu jin yuan
+於立成	yu li cheng
+於莉泓	yu li hong
+於麗萍	yu li ping
+於連仲	yu lian zhong
+於莎莎	yu sha sha
+於文華	yu wen hua
+於新博	yu xin bo
+於洋	yu yang
+於櫻櫻	yu ying ying
+於月仙	yu yue xian
+于浩威	yu hao wei
+于娜	yu na
+于謙	yu qian
+于臺煙	yu tai yan
+于小偉	yu xiao wei
+余天	yu tian
+余文樂	yu wen le
+俞承浩	yu cheng hao
+俞飛鴻	yu fei hong
+俞灝明	yu hao ming
+俞佳	yu jia
+俞靜	yu jing
+俞可欣	yu ke xin
+俞隆華	yu long hua
+俞晴	yu qing
+俞思遠	yu si yuan
+俞振飛	yu zhen fei
+愉慧	yu hui
+虞雯	yu wen
+餘波	yu bo
+餘超穎	yu chao ying
+餘翠芝	yu cui zhi
+餘虹婷	yu hong ting
+餘紅豔	yu hong yan
+餘力機構	yu li ji gou
+餘慕蓮	yu mu lian
+餘少羣	yu shao qun
+餘憲忠	yu xian zhong
+宇多田光	yu duo tian guang
+宇菲	yu fei
+宇恆	yu heng
+宇恆蕃茄女孩	yu heng fan qie nv hai
+宇崎龍童	yu qi long tong
+宇田川綾子	yu tian chuan ling zi
+宇桐非	yu tong fei
+羽泉	yu quan
+羽田健太郎	yu tian jian tai lang
+羽田夕夏	yu tian xi xia
+雨宮琴音	yu gong qin yin
+雨天	yu tian
+雨婷	yu ting
+庾澄慶	yu cheng qing
+與非門	yu fei men
+玉木宏	yu mu hong
+玉置成實	yu zhi cheng shi
+玉置浩二	yu zhi hao er
+鬱冬	yu dong
+鬱芳	yu fang
+鬱可唯	yu ke wei
+元彬	yuan bin
+元村	yuan cun
+元氣	yuan qi
+元秋	yuan qiu
+元若藍	yuan ruo lan
+元衛覺醒	yuan wei jue xing
+元佑	yuan you
+袁兵	yuan bing
+袁彩雲	yuan cai yun
+袁成傑	yuan cheng jie
+袁鳳瑛	yuan feng ying
+袁嘉敏	yuan jia min
+袁嘉樂	yuan jia le
+袁潔瑩	yuan jie ying
+袁立	yuan li
+袁儷珊	yuan li shan
+袁泉	yuan quan
+袁莎	yuan sha
+袁世海	yuan shi hai
+袁惟仁	yuan wei ren
+袁文康	yuan wen kang
+袁小迪	yuan xiao di
+袁耀發	yuan yao fa
+袁野	yuan ye
+袁詠琳	yuan yong lin
+袁詠儀	yuan yong yi
+袁哲	yuan zhe
+袁智勇	yuan zhi yong
+袁子皓	yuan zi hao
+原更紗	yuan geng sha
+原瑾泓	yuan jin hong
+原千晶	yuan qian jing
+原史奈圖片	yuan shi nai tu pian
+原田櫻憐	yuan tian ying lian
+原味組合	yuan wei zu he
+原小雪	yuan xiao xue
+原野三重唱	yuan ye san chong chang
+原子鏸	yuan zi hui
+原子少女貓	yuan zi shao nv mao
+原梓霏	yuan zi fei
+遠方	yuan fang
+遠藤正明	yuan teng zheng ming
+苑瓊丹	yuan qiong dan
+約翰丹佛	yue han dan fo
+約翰列儂	yue han lie nong
+約翰梅爾	yue han mei er
+約翰瑞裏	yue han rui li
+約翰塞巴斯蒂安巴赫	yue han sai ba si di an ba he
+樂蓓	le bei
+樂基兒	le ji er
+樂瞳	le tong
+嶽虹	yue hong
+嶽梅	yue mei
+嶽夏	yue xia
+嶽躍	yue yue
+芸能人	yun neng ren
+雲菲菲	yun fei fei
+雲美鑫	yun mei xin
+雲鎂鑫	yun mei xin
+允兒	yun er
+砸南瓜樂隊	za nan gua yue dui
+再循環樂隊	zai xun huan yue dui
+暫住證	zan zhu zheng
+贊菲爾	zan fei er
+臧赫	zang he
+臧天朔	zang tian shuo
+臧逸文	zang yi wen
+澤爾丹	ze er dan
+澤尻繪理香	ze kao hui li xiang
+澤旺多吉	ze wang duo ji
+增山裕紀	zeng shan yu ji
+增田俊朗	zeng tian jun lang
+扎西頓珠	zha xi dun zhu
+扎西尼瑪	zha xi ni ma
+宅男塾	zhai nan shu
+翟惠民	zhai hui min
+翟夢	zhai meng
+翟羽佳	zhai yu jia
+詹採妮	zhan cai ni
+詹航	zhan hang
+詹曼鈴	zhan man ling
+詹姆斯布朗	zhan mu si bu lang
+詹姆斯泰勒	zhan mu si tai le
+詹妮弗安妮斯頓	zhan ni fu an ni si dun
+詹妮弗加納	zhan ni fu jia na
+詹瑞文	zhan rui wen
+詹小楠	zhan xiao nan
+詹雪琳	zhan xue lin
+詹雅雯	zhan ya wen
+詹雅雲	zhan ya yun
+展昭	zhan zhao
+章飛一絕	zhang fei yi jue
+章紅豔	zhang hong yan
+章鵬	zhang peng
+章雯淇	zhang wen qi
+章小蕙	zhang xiao hui
+章藝子	zhang yi zi
+章子怡	zhang zi yi
+張艾嘉	zhang ai jia
+張艾文	zhang ai wen
+張柏芝	zhang bai zhi
+張寶勝	zhang bao sheng
+張兵	zhang bing
+張伯宏	zhang bo hong
+張超	zhang chao
+張楚	zhang chu
+張楚格	zhang chu ge
+張達明	zhang da ming
+張大靜	zhang da jing
+張丹峯	zhang dan feng
+張丹露	zhang dan lu
+張德芬	zhang de fen
+張德豪	zhang de hao
+張德蘭	zhang de lan
+張迪	zhang di
+張地	zhang di
+張帝	zhang di
+張殿菲	zhang dian fei
+張冬玲	zhang dong ling
+張東健	zhang dong jian
+張棟樑	zhang dong liang
+張菲	zhang fei
+張峯奇	zhang feng qi
+張豐毅	zhang feng yi
+張鳳鳳	zhang feng feng
+張鎬哲	zhang hao zhe
+張根碩	zhang gen shuo
+張根錫	zhang gen xi
+張國立	zhang guo li
+張國強	zhang guo qiang
+張國榮	zhang guo rong
+張海	zhang hai
+張海峽	zhang hai xia
+張含韻	zhang han yun
+張寒	zhang han
+張翰	zhang han
+張皓	zhang hao
+張皓然	zhang hao ran
+張赫	zhang he
+張洪量	zhang hong liang
+張虎	zhang hu
+張惠春	zhang hui chun
+張惠妹	zhang hui mei
+張慧慈	zhang hui ci
+張慧儀	zhang hui yi
+張基琦	zhang ji qi
+張紀中	zhang ji zhong
+張繼	zhang ji
+張繼聰	zhang ji cong
+張佳佳	zhang jia jia
+張佳添	zhang jia tian
+張家輝	zhang jia hui
+張家瑋	zhang jia wei
+張嘉兒	zhang jia er
+張嘉倪	zhang jia ni
+張傑	zhang jie
+張錦東	zhang jin dong
+張錦浩	zhang jin hao
+張晉樵	zhang jin qiao
+張晶晶	zhang jing jing
+張婧	zhang jing
+張敬軒	zhang jing xuan
+張靜初	zhang jing chu
+張靜東	zhang jing dong
+張靜靜	zhang jing jing
+張覺隆	zhang jue long
+張鈞甯	zhang jun ning
+張俊浩	zhang jun hao
+張俊天	zhang jun tian
+張峻寧	zhang jun ning
+張鎧潼	zhang kai tong
+張可可	zhang ke ke
+張可頤	zhang ke yi
+張可芝	zhang ke zhi
+張克帆	zhang ke fan
+張瀾瀾	zhang lan lan
+張琍敏	zhang li min
+張黎黎	zhang li li
+張力仁	zhang li ren
+張力尹	zhang li yin
+張立基	zhang li ji
+張儷	zhang li
+張靚玫	zhang liang mei
+張靚穎	zhang liang ying
+張鱸	zhang lu
+張露	zhang lu
+張曼莉	zhang man li
+張曼玉	zhang man yu
+張梅	zhang mei
+張美娜	zhang mei na
+張萌萌	zhang meng meng
+張檬	zhang meng
+張咪	zhang mi
+張米亞	zhang mi ya
+張敏	zhang min
+張明敏	zhang ming min
+張銘泉	zhang ming quan
+張娜拉	zhang na la
+張娜娜	zhang na na
+張培莉	zhang pei li
+張佩金	zhang pei jin
+張鵬	zhang peng
+張啓輝	zhang qi hui
+張啓靚	zhang qi liang
+張綺瑤	zhang qi yao
+張謙卑	zhang qian bei
+張淺潛	zhang qian qian
+張茜	zhang qian
+張薔	zhang qiang
+張清芳	zhang qing fang
+張瓊	zhang qiong
+張冉	zhang ran
+張蓉蓉	zhang rong rong
+張瑞姬	zhang rui ji
+張睿恩	zhang rui en
+張睿家	zhang rui jia
+張睿銓	zhang rui quan
+張潤偉	zhang run wei
+張潤貞	zhang run zhen
+張桑悅	zhang sang yue
+張珊珊	zhang shan shan
+張善爲	zhang shan wei
+張韶涵	zhang shao han
+張少佐	zhang shao zuo
+張詩盈	zhang shi ying
+張世	zhang shi
+張世彬	zhang shi bin
+張淑娟	zhang shu juan
+張淑玲	zhang shu ling
+張舒雅	zhang shu ya
+張舒羽	zhang shu yu
+張四十三	zhang si shi san
+張濤	zhang tao
+張特	zhang te
+張鐵林	zhang tie lin
+張庭	zhang ting
+張庭發	zhang ting fa
+張婷	zhang ting
+張維良	zhang wei liang
+張偉平	zhang wei ping
+張偉文	zhang wei wen
+張瑋綸	zhang wei lun
+張衛健	zhang wei jian
+張文慈	zhang wen ci
+張文光	zhang wen guang
+張文森	zhang wen sen
+張文順	zhang wen shun
+張雯婷	zhang wen ting
+張悟本	zhang wu ben
+張溪芸	zhang xi yun
+張夏	zhang xia
+張湘怡	zhang xiang yi
+張小珏	zhang xiao jue
+張小英	zhang xiao ying
+張曉晨	zhang xiao chen
+張曉潔	zhang xiao jie
+張曉路	zhang xiao lu
+張心傑	zhang xin jie
+張心童	zhang xin tong
+張芯	zhang xin
+張芯瑜	zhang xin yu
+張歆藝	zhang xin yi
+張馨藝	zhang xin yi
+張馨予	zhang xin yu
+張信哲	zhang xin zhe
+張杏月	zhang xing yue
+張秀卿	zhang xiu qing
+張懸	zhang xuan
+張學友	zhang xue you
+張雪慧	zhang xue hui
+張雪芹	zhang xue qin
+張勳熙	zhang xun xi
+張雅未	zhang ya wei
+張雅遜	zhang ya xun
+張亞飛	zhang ya fei
+張延	zhang yan
+張焱	zhang yan
+張揚	zhang yang
+張瑤	zhang yao
+張也	zhang ye
+張苡溦	zhang yi mei
+張藝謀	zhang yi mou
+張茵	zhang yin
+張永久	zhang yong jiu
+張永智	zhang yong zhi
+張佑方	zhang you fang
+張佑赫	zhang you he
+張宇	zhang yu
+張羽偉	zhang yu wei
+張雨生	zhang yu sheng
+張語倢	zhang yu qie
+張玉華	zhang yu hua
+張鈺	zhang yu
+張鈺茜	zhang yu qian
+張元蒂	zhang yuan di
+張媛	zhang yuan
+張遠	zhang yuan
+張玥	zhang yue
+張芸京	zhang yun jing
+張雲兒	zhang yun er
+張在衡	zhang zai heng
+張兆輝	zhang zhao hui
+張真	zhang zhen
+張真菲	zhang zhen fei
+張真賀	zhang zhen he
+張振宇	zhang zhen yu
+張震	zhang zhen
+張震嶽	zhang zhen yue
+張正宗	zhang zheng zong
+張政	zhang zheng
+張芷榕	zhang zhi rong
+張志林	zhang zhi lin
+張志政	zhang zhi zheng
+張治安	zhang zhi an
+張智成	zhang zhi cheng
+張智華	zhang zhi hua
+張智霖	zhang zhi lin
+張智軒	zhang zhi xuan
+張誌家	zhang zhi jia
+張中立	zhang zhong li
+張琢	zhang zhuo
+張子楓	zhang zi feng
+張子萱	zhang zi xuan
+張紫妍	zhang zi yan
+張祖誠	zhang zu cheng
+蟑螂	zhang lang
+趙寶剛	zhao bao gang
+趙本山	zhao ben shan
+趙長軍	zhao chang jun
+趙晨	zhao chen
+趙成勳	zhao cheng xun
+趙傳	zhao chuan
+趙丹	zhao dan
+趙恩	zhao en
+趙芬妮	zhao fen ni
+趙冠宇	zhao guan yu
+趙華	zhao hua
+趙靜怡	zhao jing yi
+趙奎燦	zhao kui can
+趙坤宇	zhao kun yu
+趙蕾	zhao lei
+趙麗穎	zhao li ying
+趙亮	zhao liang
+趙靚	zhao liang
+趙琳	zhao lin
+趙嶺	zhao ling
+趙美彤	zhao mei tong
+趙默	zhao mo
+趙權	zhao quan
+趙仁成	zhao ren cheng
+趙姝	zhao shu
+趙松庭	zhao song ting
+趙頌茹	zhao song ru
+趙薇	zhao wei
+趙文慧	zhao wen hui
+趙文卓	zhao wen zhuo
+趙學而	zhao xue er
+趙雅芝	zhao ya zhi
+趙焱	zhao yan
+趙一博	zhao yi bo
+趙英俊	zhao ying jun
+趙英龍	zhao ying long
+趙英其	zhao ying qi
+趙永洪	zhao yong hong
+趙詠華	zhao yong hua
+趙有真	zhao you zhen
+趙雨航	zhao yu hang
+趙浴辰	zhao yu chen
+趙媛媛	zhao yuan yuan
+趙彰赫	zhao zhang he
+趙貞恩	zhao zhen en
+趙正平	zhao zheng ping
+趙之璧	zhao zhi bi
+趙治德	zhao zhi de
+趙忠祥	zhao zhong xiang
+趙壯赫	zhao zhuang he
+趙自強	zhao zi qiang
+趙作海	zhao zuo hai
+折笠愛	zhe li ai
+這位太太	zhe wei tai tai
+珍夢海	zhen meng hai
+珍納	zhen na
+珍妮佛洛許	zhen ni fo luo xu
+珍妮弗康奈利	zhen ni fu kang nai li
+珍妮弗洛佩茲	zhen ni fu luo pei zi
+珍妮芙洛佩茲	zhen ni fu luo pei zi
+珍妮傑克遜	zhen ni jie ke xun
+珍尼弗溫拿斯	zhen ni fu wen na si
+珍尼特傑克遜	zhen ni te jie ke xun
+珍珠果醬樂隊	zhen zhu guo jiang yue dui
+珍珠姐姐	zhen zhu jie jie
+真鍋薰	zhen guo xun
+真情馬克合唱團	zhen qing ma ke he chang tuan
+真山	zhen shan
+真野惠裏菜	zhen ye hui li cai
+真衣	zhen yi
+甄楚倩	zhen chu qian
+甄妮	zhen ni
+甄秀珍	zhen xiu zhen
+甄子丹	zhen zi dan
+甄子維	zhen zi wei
+鄭寶源	zheng bao yuan
+鄭必愛	zheng bi ai
+鄭弼教	zheng bi jiao
+鄭博夫	zheng bo fu
+鄭多彬	zheng duo bin
+鄭海龍	zheng hai long
+鄭晗葉	zheng han ye
+鄭漢城	zheng han cheng
+鄭昊	zheng hao
+鄭華娟	zheng hua juan
+鄭家星	zheng jia xing
+鄭嘉穎	zheng jia ying
+鄭建鵬	zheng jian peng
+鄭進一	zheng jin yi
+鄭敬基	zheng jing ji
+鄭鈞	zheng jun
+鄭麗君	zheng li jun
+鄭倫境	zheng lun jing
+鄭楠	zheng nan
+鄭佩佩	zheng pei pei
+鄭瓊之	zheng qiong zhi
+鄭仁	zheng ren
+鄭仁浩	zheng ren hao
+鄭日英	zheng ri ying
+鄭融	zheng rong
+鄭柔美	zheng rou mei
+鄭少秋	zheng shao qiu
+鄭晟	zheng sheng
+鄭爽	zheng shuang
+鄭素敏	zheng su min
+鄭偉康	zheng wei kang
+鄭希怡	zheng xi yi
+鄭賢民	zheng xian min
+鄭瀟	zheng xiao
+鄭筱蓉	zheng xiao rong
+鄭曉東	zheng xiao dong
+鄭曉玲	zheng xiao ling
+鄭欣宜	zheng xin yi
+鄭新瑋	zheng xin wei
+鄭秀文	zheng xiu wen
+鄭琇月	zheng xiu yue
+鄭緒嵐	zheng xu lan
+鄭雪兒	zheng xue er
+鄭雅雲	zheng ya yun
+鄭延俊	zheng yan jun
+鄭豔麗	zheng yan li
+鄭伊健	zheng yi jian
+鄭怡	zheng yi
+鄭義	zheng yi
+鄭永芝	zheng yong zhi
+鄭宇文	zheng yu wen
+鄭裕玲	zheng yu ling
+鄭裕鈴	zheng yu ling
+鄭元暢	zheng yuan chang
+鄭源	zheng yuan
+鄭載日	zheng zai ri
+鄭載旭	zheng zai xu
+鄭在亨	zheng zai heng
+鄭在娟	zheng zai juan
+鄭在旭	zheng zai xu
+鄭哲	zheng zhe
+鄭知明	zheng zhi ming
+鄭智燦	zheng zhi can
+鄭智化	zheng zhi hua
+鄭中基	zheng zhong ji
+鄭珠恩	zheng zhu en
+鄭子誠	zheng zi cheng
+鄭梓浩	zheng zi hao
+芝加哥	zhi jia ge
+芝加哥樂隊	zhi jia ge yue dui
+芝麻龍眼	zhi ma long yan
+織田純一郎	zhi tian chun yi lang
+織田裕二	zhi tian yu er
+指南針	zhi nan zhen
+指人兒	zhi ren er
+至上勵合	zhi shang li he
+至上勵和	zhi shang li he
+志村玲子	zhi cun ling zi
+治療樂隊	zhi liao yue dui
+致列	zhi lie
+智善	zhi shan
+中川翔子	zhong chuan xiang zi
+中村倫也	zhong cun lun ye
+中村雅俊	zhong cun ya jun
+中村優	zhong cun you
+中村知世	zhong cun zhi shi
+中島愛	zhong dao ai
+中島美嘉	zhong dao mei jia
+中島史惠	zhong dao shi hui
+中國辣妹	zhong guo la mei
+中國娃娃	zhong guo wa wa
+中國響姬	zhong guo xiang ji
+中堅份子	zhong jian fen zi
+中森玲子	zhong sen ling zi
+中山美穗	zhong shan mei sui
+中山優馬	zhong shan you ma
+中田結衣	zhong tian jie yi
+中尾諭介	zhong wei yu jie
+中西圭三	zhong xi gui san
+中孝介	zhong xiao jie
+中央樂團合唱團	zhong yang yue tuan he chang tuan
+終極三國	zhong ji san guo
+鍾漢良	zhong han liang
+鍾繼華	zhong ji hua
+鍾嘉欣	zhong jia xin
+鍾潔希	zhong jie xi
+鍾立風	zhong li feng
+鍾麗淇	zhong li qi
+鍾麗緹	zhong li ti
+鍾梅	zhong mei
+鍾明峻	zhong ming jun
+鍾溥敏	zhong pu min
+鍾盛忠	zhong sheng zhong
+鍾舒漫	zhong shu man
+鍾泰	zhong tai
+鍾童茜	zhong tong qian
+鍾汶	zhong wen
+鍾欣桐	zhong xin tong
+鍾萱	zhong xuan
+鍾毅	zhong yi
+鍾兆康	zhong zhao kang
+鍾真	zhong zhen
+鍾甄	zhong zhen
+鍾鎮濤	zhong zhen tao
+鐘楚紅	zhong chu hong
+冢本友希	zhong ben you xi
+塚本友希	zhong ben you xi
+仲間由紀惠	zhong jian you ji hui
+仲千菜美	zhong qian cai mei
+仲維軍	zhong wei jun
+周柏豪	zhou bai hao
+周筆暢	zhou bi chang
+周冰倩	zhou bing qian
+周采詩	zhou cai shi
+周辰俙	zhou chen xi
+周成龍	zhou cheng long
+周楚霏	zhou chu fei
+周傳雄	zhou chuan xiong
+周聰	zhou cong
+周丹	zhou dan
+周笛	zhou di
+周定緯	zhou ding wei
+周冬雨	zhou dong yu
+周冠宇	zhou guan yu
+周國賢	zhou guo xian
+周海媚	zhou hai mei
+周華健	zhou hua jian
+周慧敏	zhou hui min
+周蕙	zhou hui
+周家蔚	zhou jia wei
+周杰	zhou jie
+周杰倫	zhou jie lun
+周爵	zhou jue
+周俊偉	zhou jun wei
+周蕾	zhou lei
+周立銘	zhou li ming
+周麗淇	zhou li qi
+周麗琪	zhou li qi
+周鹿佳	zhou lu jia
+周美欣	zhou mei xin
+周鵬	zhou peng
+周奇奇	zhou qi qi
+周啓生	zhou qi sheng
+周韌	zhou ren
+周潤發	zhou run fa
+周山	zhou shan
+周濤	zhou tao
+周鐵男	zhou tie nan
+周桐同	zhou tong tong
+周曈曈	zhou tong tong
+周偉童	zhou wei tong
+周汶綺	zhou wen qi
+周小璇	zhou xiao xuan
+周曉涵	zhou xiao han
+周曉曉	zhou xiao xiao
+周星馳	zhou xing chi
+周秀娜	zhou xiu na
+周旭風	zhou xu feng
+周璇	zhou xuan
+周迅	zhou xun
+周彥宏	zhou yan hong
+周豔泓	zhou yan hong
+周影	zhou ying
+周永恆	zhou yong heng
+周渝民	zhou yu min
+周漁	zhou yu
+周雨植	zhou yu zhi
+周雲蓬	zhou yun peng
+周韻	zhou yun
+周志宏	zhou zhi hong
+周治平	zhou zhi ping
+周子寒	zhou zi han
+周子零	zhou zi ling
+周子琪	zhou zi qi
+週一圍	zhou yi wei
+朱安禹	zhu an yu
+朱丹	zhu dan
+朱迪丹奇	zhu di dan qi
+朱國豪	zhu guo hao
+朱樺	zhu hua
+朱慧敏	zhu hui min
+朱江	zhu jiang
+朱軍	zhu jun
+朱凱婷	zhu kai ting
+朱俐穎	zhu li ying
+朱莉沃爾特斯	zhu li wo er te si
+朱莉亞羅伯茨	zhu li ya luo bo ci
+朱麗葉比諾什	zhu li ye bi nuo shi
+朱凌凌	zhu ling ling
+朱咪咪	zhu mi mi
+朱明瑛	zhu ming ying
+朱娜	zhu na
+朱妮	zhu ni
+朱七	zhu qi
+朱倩兒	zhu qian er
+朱鐵	zhu tie
+朱衛茵	zhu wei yin
+朱文	zhu wen
+朱文昌	zhu wen chang
+朱曉漁	zhu xiao yu
+朱孝天	zhu xiao tian
+朱璇	zhu xuan
+朱薰	zhu xun
+朱雅瓊	zhu ya qiong
+朱茵	zhu yin
+朱元	zhu yuan
+朱媛媛	zhu yuan yuan
+朱源輝	zhu yuan hui
+朱哲琴	zhu zhe qin
+朱楨	zhu zhen
+朱珠	zhu zhu
+朱子巖	zhu zi yan
+朱紫嬈	zhu zi rao
+朱宗慶打擊樂團	zhu zong qing da ji yue tuan
+茱兒巴里摩爾	zhu er ba li mo er
+茱莉戴克斯特	zhu li dai ke si te
+茱莉倫敦	zhu li lun dun
+豬頭皮	zhu tou pi
+竹野內豐	zhu ye nei feng
+主音樂團	zhu yin yue tuan
+住谷念美	zhu gu nian mei
+祝釩剛	zhu fan gang
+祝鏘博	zhu qiang bo
+莊振凱	zhuang zhen kai
+椎名林檎	zhui ming lin qin
+卓定濤	zhuo ding tao
+卓靈	zhuo ling
+卓文萱	zhuo wen xuan
+卓亞君	zhuo ya jun
+卓依婷	zhuo yi ting
+卓義峯	zhuo yi feng
+卓在勳	zhuo zai xun
+子碩	zi shuo
+子熒	zi ying
+子曰	zi yue
+梓旭	zi xu
+紫君	zi jun
+紫龍	zi long
+自然捲	zi ran juan
+自然主義合唱團	zi ran zhu yi he chang tuan
+自由發揮	zi you fa hui
+自由勇	zi you yong
+恣慰	zi wei
+宗輝	zong hui
+縱貫線	zong guan xian
+縱貫線樂隊	zong guan xian yue dui
+鄒靜	zou jing
+鄒開雲	zou kai yun
+鄒振先	zou zhen xian
+鄒子倍	zou zi bei
+祖峯	zu feng
+祖海	zu hai
+尊華	zun hua
+尊龍	zun long
+左光平	zuo guang ping
+左汀汀	zuo ting ting
+左熙寧	zuo xi ning
+左小青	zuo xiao qing
+左小祖咒	zuo xiao zu zhou
+左巖	zuo yan
+佐山愛	zuo shan ai
+佐藤江梨子	zuo teng jiang li zi
+佐藤藍子	zuo teng lan zi
+佐藤美紀	zuo teng mei ji
+佐田雅志	zuo tian ya zhi
+佐野元春	zuo ye yuan chun
