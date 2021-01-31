@@ -14,7 +14,7 @@
 
 ---
 name: "luna_pinyin.shenzhen_chengshi_xinxi"
-version: "2.0"
+version: "2.0.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
