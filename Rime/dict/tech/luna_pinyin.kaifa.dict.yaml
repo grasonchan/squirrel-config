@@ -1,0 +1,451 @@
+# Rime dict
+# encoding: utf-8
+#
+# 開發大神專用詞庫
+# 詞條來源：搜狗輸入法詞庫
+# 創建者：搜狗拼音輸入法
+# 更新：2020-02-25
+# 來源：https://pinyin.sogou.com/dict/detail/index/75228
+#
+# author: Graon Chan
+# GitHub: https://github.com/grasonchan/squirrel-config
+# **不去除** 與 Rime 預設詞彙表【八股文】重複的詞彙
+# 2021-02-01
+
+---
+name: "luna_pinyin.kaifa"
+version: "3.0.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+按引用傳遞	an yin yong chuan di
+按值傳遞	an zhi chuan di
+安裝調試	an zhuang tiao shi
+包含文件	bao han wen jian
+報警復位	bao jing fu wei
+本地存放地址	ben di cun fang di zhi
+本地化	ben di hua
+變量	bian liang
+變量表	bian liang biao
+編碼	bian ma
+編譯	bian yi
+編譯器	bian yi qi
+標識符	biao zhi fu
+標準配置	biao zhun pei zhi
+併發數	bing fa shu
+捕獲異常	bu huo yi chang
+不可分割的	bu ke fen ge de
+參見	can jian
+參數	can shu
+參數信息	can shu xin xi
+操作符	cao zuo fu
+操作系統	cao zuo xi tong
+查錯	cha cuo
+查看	cha kan
+插入位置	cha ru wei zhi
+常量	chang liang
+長整數	chang zheng shu
+超級木馬	chao ji mu ma
+超文本傳輸協議	chao wen ben chuan shu xie yi
+程序版本號	cheng xu ban ben hao
+程序備註	cheng xu bei zhu
+程序池	cheng xu chi
+程序段	cheng xu duan
+程序集	cheng xu ji
+程序集變量	cheng xu ji bian liang
+程序類型	cheng xu lei xing
+程序名稱	cheng xu ming cheng
+程序異常	cheng xu yi chang
+成員	cheng yuan
+成員方法	cheng yuan fang fa
+成員函數	cheng yuan han shu
+成員屬性	cheng yuan shu xing
+重新關聯名稱	chong xin guan lian ming cheng
+重載	chong zai
+抽象	chou xiang
+抽象方法	chou xiang fang fa
+抽象體	chou xiang ti
+抽象物	chou xiang wu
+抽象性	chou xiang xing
+初始化	chu shi hua
+傳給函式的值	chuan gei han shi de zhi
+傳值參數	chuan zhi can shu
+創建對象	chuang jian dui xiang
+窗口標題	chuang kou biao ti
+窗口透明載入	chuang kou tou ming zai ru
+窗口狀態控制	chuang kou zhuang tai kong zhi
+次數	ci shu
+存儲技術	cun chu ji shu
+存取	cun qu
+存取函式	cun qu han shi
+存取級別	cun qu ji bie
+大數據	da shu ju
+待編碼數據	dai bian ma shu ju
+帶寬	dai kuan
+代碼	dai ma
+單例模式	dan li mo shi
+單行註釋	dan xing zhu shi
+單元測試	dan yuan ce shi
+當前進程句柄	dang qian jin cheng ju bing
+低配置	di pei zhi
+地址	di zhi
+地址總線	di zhi zong xian
+調用表	diao yong biao
+定向營銷	ding xiang ying xiao
+定址空間	ding zhi kong jian
+丟包	diu bao
+動多態	dong duo tai
+動靜多態	dong jing duo tai
+讀內存文本	du nei cun wen ben
+讀內存整數	du nei cun zheng shu
+讀文本型內存	du wen ben xing nei cun
+讀整數內存	du zheng shu nei cun
+讀整數型內存	du zheng shu xing nei cun
+斷言	duan yan
+短整數	duan zheng shu
+隊列	dui lie
+多功能條	duo gong neng tiao
+多行註釋	duo hang zhu shi
+多媒體技術應用	duo mei ti ji shu ying yong
+多態	duo tai
+多維數組	duo wei shu zu
+額外信息	e wai xin xi
+惡意攻擊	e yi gong ji
+二叉鏈表	er cha lian biao
+二進制代碼	er jin zhi dai ma
+二維數組	er wei shu zu
+返回值	fan hui zhi
+仿函數	fang han shu
+防火牆	fang huo qiang
+訪問	fang wen
+訪問函數	fang wen han shu
+訪問級別	fang wen ji bie
+訪問臨界區	fang wen lin jie qu
+訪問器	fang wen qi
+非線性鏈表	fei xian xing lian biao
+分佈式計算	fen bu shi ji suan
+分佈式因特網應用程序	fen bu shi yin te wang ying yong cheng xu
+分割字節集	fen ge zi jie ji
+分配	fen pei
+分配器	fen pei qi
+封裝	feng zhuang
+父類	fu lei
+服務器	fu wu qi
+賦值	fu zhi
+賦值操作符	fu zhi cao zuo fu
+改變目錄	gai bian mu lu
+改變驅動器	gai bian qu dong qi
+概要分析	gai yao fen xi
+高級選擇夾	gao ji xuan ze jia
+更新機制	geng xin ji zhi
+更新配置文件地址	geng xin pei zhi wen jian di zhi
+更新文件下載目錄	geng xin wen jian xia zai mu lu
+工廠模式	gong chang mo shi
+公共語言運行庫	gong gong yu yan yun xing ku
+工具類	gong ju lei
+公開測試	gong kai ce shi
+共用體	gong yong ti
+構造方法	gou zao fang fa
+構造函數	gou zao han shu
+構造體	gou zao ti
+關閉進程句柄	guan bi jin cheng ju bing
+觀察者模式	guan cha zhe mo shi
+關聯	guan lian
+關聯式容器	guan lian shi rong qi
+關聯項	guan lian xiang
+函數	han shu
+函數式	han shu shi
+緩衝區	huan chong qu
+彙編	hui bian
+彙編語言	hui bian yu yan
+回溯相容	hui su xiang rong
+回調	hui tiao
+回原點	hui yuan dian
+活化	huo hua
+繼承父類成員	ji cheng fu lei cheng yuan
+集成開發環境	ji cheng kai fa huan jing
+基礎類別	ji chu lei bie
+基礎型別	ji chu xing bie
+計次	ji ci
+集合類	ji he lei
+激活	ji huo
+基類	ji lei
+機器碼	ji qi ma
+計數	ji shu
+技術可行性分析	ji shu ke xing xing fen xi
+技術支持	ji shu zhi chi
+架構	jia gou
+加密次數	jia mi ci shu
+加密結果	jia mi jie guo
+加密文本	jia mi wen ben
+剪輯歷史	jian ji li shi
+監視表	jian shi biao
+箭頭操作符	jian tou cao zuo fu
+腳本	jiao ben
+腳本語言	jiao ben yu yan
+交叉測試	jiao cha ce shi
+校驗	jiao yan
+結構化編程	jie gou hua bian cheng
+接口	jie kou
+接口程序集	jie kou cheng xu ji
+解釋程序	jie shi cheng xu
+解鎖文件	jie suo wen jian
+進程句柄	jin cheng ju bing
+進程名	jin cheng ming
+靜多態	jing duo tai
+精簡指令集	jing jian zhi ling ji
+靜態方法	jing tai fang fa
+句柄	ju bing
+局部變量	ju bu bian liang
+聚合	ju he
+開發環境	kai fa huan jing
+可互操作性	ke hu cao zuo xing
+可靠性	ke kao xing
+可理解性	ke li jie xing
+可維護性	ke wei hu xing
+可行性	ke xing xing
+可行性分析	ke xing xing fen xi
+可修改性	ke xiu gai xing
+可移植性	ke yi zhi xing
+可執行代碼	ke zhi xing dai ma
+可追蹤性	ke zhui zong xing
+空間資源	kong jian zi yuan
+類變量	lei bian liang
+類接口	lei jie kou
+類庫	lei ku
+類體	lei ti
+類裝載器	lei zhuang zai qi
+鏈表	lian biao
+連接池	lian jie chi
+臨時子程序	lin shi zi cheng xu
+令牌環	ling pai huan
+輪詢	lun xun
+邏輯運算符	luo ji yun suan fu
+邏輯值	luo ji zhi
+冒泡	mao pao
+枚舉	mei ju
+枚舉進程	mei ju jin cheng
+門戶網站	men hu wang zhan
+面向對象	mian xiang dui xiang
+模塊化	mo kuai hua
+默認按鈕	mo ren an niu
+模板庫	mu ban ku
+木馬	mu ma
+內部測試	nei bu ce shi
+內部測試的組織實施	nei bu ce shi de zu zhi shi shi
+內核對象	nei he dui xiang
+排錯	pai cuo
+排期	pai qi
+排序	pai xu
+配接器	pei jie qi
+配置	pei zhi
+配置器	pei zhi qi
+頻繁分配釋放資源	pin fan fen pei shi fang zi yuan
+頻寬	pin kuan
+啓動窗口創建完畢	qi dong chuang kou chuang jian wan bi
+啓動事件	qi dong shi jian
+啓動子程序	qi dong zi cheng xu
+嵌套	qian tao
+強行聊天被選擇	qiang xing liao tian bei xuan ze
+清除圖標	qing chu tu biao
+清空內存	qing kong nei cun
+取磁盤卷標	qu ci pan juan biao
+取磁盤剩餘空間	qu ci pan sheng yu kong jian
+取磁盤總空間	qu ci pan zong kong jian
+取錯誤	qu cuo wu
+取地址操作符	qu di zhi cao zuo fu
+取接口	qu jie kou
+取邏輯值	qu luo ji zhi
+取數值	qu shu zhi
+取用	qu yong
+取址運算子	qu zhi yun suan zi
+全編譯	quan bian yi
+全局變量	quan ju bian liang
+人工智慧	ren gong zhi hui
+人工智能	ren gong zhi neng
+人工智能與識別	ren gong zhi neng yu shi bie
+人機交互	ren ji jiao hu
+軟件測試技術	ruan jian ce shi ji shu
+軟件架構	ruan jian jia gou
+軟件開發工具包	ruan jian kai fa gong ju bao
+軟件設計方法	ruan jian she ji fang fa
+軟件生命週期	ruan jian sheng ming zhou qi
+軟件註冊	ruan jian zhu ce
+三維數組	san wei shu zu
+篩法	shai fa
+刪除數據	shan chu shu ju
+刪除自身	shan chu zi shen
+設計模式	she ji mo shi
+設值	she zhi
+設置程序圖標	she zhi cheng xu tu biao
+生成	sheng cheng
+生成隨機顏色	sheng cheng sui ji yan se
+生成圖片	sheng cheng tu pian
+生成運行	sheng cheng yun xing
+識別文本	shi bie wen ben
+實參	shi can
+釋放資源	shi fang zi yuan
+事件代理	shi jian dai li
+實例	shi li
+實例變量	shi li bian liang
+實例方法	shi li fang fa
+實例化	shi li hua
+十六進制地址	shi liu jin zhi di zhi
+適配器	shi pei qi
+適配器模式	shi pei qi mo shi
+適用性	shi yong xing
+實質參數	shi zhi can shu
+手動控制模式	shou dong kong zhi mo shi
+鼠標鎖定	shu biao suo ding
+輸出設備	shu chu she bei
+輸出字節文本	shu chu zi jie wen ben
+數據	shu ju
+數據割接	shu ju ge jie
+數據集	shu ju ji
+數據結構	shu ju jie gou
+數據庫	shu ju ku
+數據庫管理	shu ju ku guan li
+數據庫技術研究	shu ju ku ji shu yan jiu
+數據庫系統	shu ju ku xi tong
+數據類型	shu ju lei xing
+數據總線	shu ju zong xian
+屬性	shu xing
+數值	shu zhi
+數組	shu zu
+雙精度小數	shuang jing du xiao shu
+順序存儲的有序表	shun xu cun chu de you xu biao
+死循環	si xun huan
+私鑰文本	si yao wen ben
+搜尋	sou xun
+算法	suan fa
+算術操作符	suan shu cao zuo fu
+算術運算符	suan shu yun suan fu
+索引	suo yin
+鎖住文件	suo zhu wen jian
+特性音訊	te xing yin xun
+提升進程權限	ti sheng jin cheng quan xian
+體系結構	ti xi jie gou
+條件運算符	tiao jian yun suan fu
+調試	tiao shi
+調試參數行	tiao shi can shu xing
+調試和測試	tiao shi he ce shi
+同步方法	tong bu fang fa
+通常	tong chang
+統一建模語言	tong yi jian mo yu yan
+通用指令代碼	tong yong zhi ling dai ma
+透明標籤	tou ming biao qian
+透明窗口	tou ming chuang kou
+透明窗口的句柄	tou ming chuang kou de ju bing
+透明度	tou ming du
+圖形設備	tu xing she bei
+推薦配置	tui jian pei zhi
+託管代碼	tuo guan dai ma
+網卡信息	wang ka xin xi
+僞變量	wei bian liang
+微軟基礎類庫	wei ruan ji chu lei ku
+位址	wei zhi
+位址空間	wei zhi kong jian
+文本	wen ben
+文件尺寸	wen jian chi cun
+文件地址	wen jian di zhi
+問題定義	wen ti ding yi
+無參構造函數	wu can gou zao han shu
+無限多開被選擇	wu xian duo kai bei xuan ze
+析構函數	xi gou han shu
+系統崩潰	xi tong beng kui
+系統調用	xi tong diao yong
+系統分析	xi tong fen xi
+系統架構	xi tong jia gou
+系統設計	xi tong she ji
+下標	xia biao
+下載文件	xia zai wen jian
+線程調度	xian cheng diao du
+現代操作系統	xian dai cao zuo xi tong
+顯式轉換	xian shi zhuan huan
+線性鏈表	xian xing lian biao
+項目推廣	xiang mu tui guang
+詳細設計	xiang xi she ji
+向下兼容	xiang xia jian rong
+消息池	xiao xi chi
+消息機制	xiao xi ji zhi
+寫文本型內存	xie wen ben xing nei cun
+協議棧	xie yi zhan
+寫整數內存	xie zheng shu nei cun
+寫整數型內存	xie zheng shu xing nei cun
+寫字節集內存	xie zi jie ji nei cun
+信息框提示	xin xi kuang ti shi
+形參	xing can
+虛擬機	xu ni ji
+需求調研	xu qiu diao yan
+需求分析	xu qiu fen xi
+循環類	xun huan lei
+壓力測試	ya li ce shi
+延遲	yan chi
+研究領域	yan jiu ling yu
+驗收與運行	yan shou yu yun xing
+演算法	yan suan fa
+一對多	yi dui duo
+一維數組	yi wei shu zu
+引數	yin shu
+引用名	yin yong ming
+硬件體系結構	ying jian ti xi jie gou
+硬件休克	ying jian xiu ke
+硬盤信息	ying pan xin xi
+硬盤序號	ying pan xu hao
+應用	ying yong
+應用程式	ying yong cheng shi
+應用程式框架	ying yong cheng shi kuang jia
+應用程序	ying yong cheng xu
+應用程序服務器	ying yong cheng xu fu wu qi
+應用程序接口	ying yong cheng xu jie kou
+應用程序框架	ying yong cheng xu kuang jia
+應用框架	ying yong kuang jia
+用戶培訓	yong hu pei xun
+用戶輸入的註冊碼	yong hu shu ru de zhu ce ma
+優先級	you xian ji
+有效性	you xiao xing
+預減	yu jian
+語句	yu ju
+源程序	yuan cheng xu
+源程序安全	yuan cheng xu an quan
+元素	yuan su
+越界	yue jie
+雲計算技術	yun ji suan ji shu
+運算子	yun suan zi
+運行	yun xing
+棧法	zhan fa
+棧區	zhan qu
+陣列	zhen lie
+正式精簡版	zheng shi jing jian ban
+正式完整版	zheng shi wan zheng ban
+指定	zhi ding
+指派	zhi pai
+指針	zhi zhen
+指針到字節集	zhi zhen dao zi jie ji
+註冊碼	zhu ce ma
+助記符	zhu ji fu
+裝配件	zhuang pei jian
+裝飾模式	zhuang shi mo shi
+狀態條	zhuang tai tiao
+自變量	zi bian liang
+子程序	zi cheng xu
+子程序參數	zi cheng xu can shu
+子程序指針	zi cheng xu zhi zhen
+自動控制模式	zi dong kong zhi mo shi
+自動運行啓動	zi dong yun xing qi dong
+自動運行停止	zi dong yun xing ting zhi
+字段	zi duan
+字符串	zi fu chuan
+字節	zi jie
+字節集	zi jie ji
+字節碼	zi jie ma
+子類	zi lei
+資源保留	zi yuan bao liu
+資源不釋放	zi yuan bu shi fang
+資源額度不足	zi yuan e du bu zu
+總體描述	zong ti miao shu
+組合語言	zu he yu yan
+組件對象模式	zu jian dui xiang mo shi
+組件對象模型	zu jian dui xiang mo xing
+作用域	zuo yong yu
