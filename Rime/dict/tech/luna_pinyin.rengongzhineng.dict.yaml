@@ -1,0 +1,352 @@
+# Rime dict
+# encoding: utf-8
+#
+# 人工智能專業術語
+# 詞條來源：搜狗輸入法詞庫
+# 創建者：搜狗拼音輸入法
+# 更新：2017-04-06
+# 來源：https://pinyin.sogou.com/dict/detail/index/72476
+#
+# author: Graon Chan
+# GitHub: https://github.com/grasonchan/squirrel-config
+# **不去除** 與 Rime 預設詞彙表【八股文】重複的詞彙
+# 2021-02-01
+
+---
+name: "luna_pinyin.rengongzhineng"
+version: "1.0.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+鞍點	an dian
+半監督學習	ban jian du xue xi
+揹包問題	bei bao wen ti
+貝葉斯網絡	bei ye si wang luo
+比例選擇模型	bi li xuan ze mo xing
+邊重組交叉	bian chong zu jiao cha
+邊界變異	bian jie bian yi
+變異	bian yi
+變異概率	bian yi gai lv
+變異頻率	bian yi pin lv
+變異算子	bian yi suan zi
+標記化	biao ji hua
+表徵	biao zheng
+表徵學習	biao zheng xue xi
+標準型並行方法	biao zhun xing bing xing fang fa
+並行性	bing xing xing
+並行遺傳算法	bing xing yi chuan suan fa
+玻爾茲曼機	bo er zi man ji
+部分匹配交叉	bu fen pi pei jiao cha
+部分映射交叉	bu fen ying she jiao cha
+殘差網絡	can cha wang luo
+殘差映射	can cha ying she
+參數	can shu
+測試函數	ce shi han shu
+長短期記憶	chang duan qi ji yi
+超參數	chao can shu
+超立方體	chao li fang ti
+超限學習機	chao xian xue xi ji
+成本函數	cheng ben han shu
+乘冪尺度變換	cheng mi chi du bian huan
+池化	chi hua
+初始羣體	chu shi qun ti
+純合子	chun he zi
+詞塊	ci kuai
+詞嵌入	ci qian ru
+詞性標註	ci xing biao zhu
+詞義消歧	ci yi xiao qi
+粗粒度並行遺傳算法	cu li du bing xing yi chuan suan fa
+大數據	da shu ju
+代溝	dai gou
+單倍體	dan bei ti
+單點交叉	dan dian jiao cha
+單峯值函數	dan feng zhi han shu
+單指令流多數據流	dan zhi ling liu duo shu ju liu
+倒位概率	dao wei gai lv
+倒位算子	dao wei suan zi
+島嶼模型	dao yu mo xing
+等位基因	deng wei ji yin
+遞歸神經網絡	di gui shen jing wang luo
+動量	dong liang
+動態參數編碼	dong tai can shu bian ma
+動態融合	dong tai rong he
+獨立成分分析	du li cheng fen fen xi
+賭盤選擇	du pan xuan ze
+端到端	duan dao duan
+對抗網絡	dui kang wang luo
+對數似然	dui shu si ran
+多倍體	duo bei ti
+多參數編碼	duo can shu bian ma
+多層感知器	duo ceng gan zhi qi
+多點交叉	duo dian jiao cha
+多峯值函數	duo feng zhi han shu
+多模態函數	duo mo tai han shu
+多目標最優化	duo mu biao zui you hua
+多文檔摘要	duo wen dang zhai yao
+多元線性迴歸	duo yuan xian xing hui gui
+多指令流多數據流	duo zhi ling liu duo shu ju liu
+二進制編碼基因	er jin zhi bian ma ji yin
+罰函數排列	fa han shu pai lie
+泛化	fan hua
+反向傳播	fan xiang chuan bo
+方差困境	fang cha kun jing
+仿射層	fang she ceng
+非飽和博弈	fei bao he bo yi
+非負矩陣分解	fei fu ju zhen fen jie
+非均勻變異	fei jun yun bian yi
+非凸優化	fei tu you hua
+分佈隨機近鄰嵌入	fen bu sui ji jin lin qian ru
+分解型並行算法	fen jie xing bing xing suan fa
+分類器系統	fen lei qi xi tong
+分批標準化	fen pi biao zhun hua
+馮諾伊曼架構	feng nuo yi man jia gou
+浮點數編碼	fu dian shu bian ma
+浮點數編碼基因	fu dian shu bian ma ji yin
+負對數似然	fu dui shu si ran
+符號編碼基因	fu hao bian ma ji yin
+概率算法	gai lv suan fa
+概率算子	gai lv suan zi
+概率圖模型	gai lv tu mo xing
+感知器	gan zhi qi
+高斯變異	gao si bian yi
+高斯混合模型	gao si hun he mo xing
+格雷碼	ge lei ma
+個體	ge ti
+個體編碼	ge ti bian ma
+共適應	gong shi ying
+共現	gong xian
+共享函數	gong xiang han shu
+谷歌神經機器翻譯	gu ge shen jing ji qi fan yi
+關聯分析	guan lian fen xi
+規則引擎	gui ze yin qing
+國際機器學習大會	guo ji ji qi xue xi da hui
+海明距離	hai ming ju li
+函數最優化	han shu zui you hua
+核糖核酸穩健性	he tang he suan wen jian xing
+迴歸	hui gui
+會話代理	hui hua dai li
+混合計算	hun he ji suan
+混合遺傳算法	hun he yi chuan suan fa
+基本變異	ji ben bian yi
+基本遺傳算法	ji ben yi chuan suan fa
+即插即用生成網絡	ji cha ji yong sheng cheng wang luo
+激活函數	ji huo han shu
+積木塊假設	ji mu kuai jia she
+機器人	ji qi ren
+機器學習	ji qi xue xi
+計算成本	ji suan cheng ben
+計算機視覺	ji suan ji shi jue
+極性檢測	ji xing jian ce
+基因	ji yin
+基因塊假設	ji yin kuai jia she
+基因型	ji yin xing
+基因隱性	ji yin yin xing
+基因組	ji yin zu
+基因座	ji yin zuo
+價函數	jia han shu
+監督學習	jian du xue xi
+剪枝	jian zhi
+降維算法	jiang wei suan fa
+交叉	jiao cha
+交叉概率	jiao cha gai lv
+交叉熵	jiao cha shang
+交叉算子	jiao cha suan zi
+截斷尺度變換	jie duan chi du bian huan
+解碼	jie ma
+解析樹	jie xi shu
+進化	jin hua
+進化策略	jin hua ce lue
+進化規劃	jin hua gui hua
+進化計算	jin hua ji suan
+進化算法	jin hua suan fa
+近似	jin si
+徑向基函數	jing xiang ji han shu
+巨並行遺傳算法	ju bing xing yi chuan suan fa
+局部搜索	ju bu sou suo
+卷積神經網絡	juan ji shen jing wang luo
+決策邊界	jue ce bian jie
+決策樹	jue ce shu
+均勻變異	jun yun bian yi
+均勻交叉	jun yun jiao cha
+均值聚類	jun zhi ju lei
+可微分神經計算機	ke wei fen shen jing ji suan ji
+離策略	li ce lue
+離線性能	li xian xing neng
+粒子羣優化算法	li zi qun you hua suan fa
+量子化神經網絡	liang zi hua shen jing wang luo
+量子計算	liang zi ji suan
+量子計算機	liang zi ji suan ji
+鄰居模型	lin ju mo xing
+凌亂遺傳算法	ling luan yi chuan suan fa
+旅行商問題	lv xing shang wen ti
+馬爾可夫鏈	ma er ke fu lian
+枚舉搜索算法	mei ju sou suo suan fa
+描述不足	miao shu bu zu
+描述過剩	miao shu guo sheng
+命名實體識別	ming ming shi ti shi bie
+模擬退火算法	mo ni tui huo suan fa
+模式定理	mo shi ding li
+模式定義長度	mo shi ding yi chang du
+模式階	mo shi jie
+模態最優化	mo tai zui you hua
+目標函數	mu biao han shu
+納什均衡	na shi jun heng
+爬山搜索算法	pa shan sou suo suan fa
+排擠	pai ji
+判別模型	pan bie mo xing
+判別器	pan bie qi
+配對	pei dui
+配對規則	pei dui gui ze
+偏差	pian cha
+偏置	pian zhi
+拼接算子	pin jie suan zi
+平均池化	ping jun chi hua
+平均梯度	ping jun ti du
+譜聚類	pu ju lei
+樸素貝葉斯分類器	pu su bei ye si fen lei qi
+啓發式算法	qi fa shi suan fa
+期望值選擇模型	qi wang zhi xuan ze mo xing
+期望最大化	qi wang zui da hua
+奇異值分解	qi yi zhi fen jie
+前饋神經網絡	qian kui shen jing wang luo
+嵌入	qian ru
+遷移學習	qian yi xue xi
+潛在語義分析	qian zai yu yi fen xi
+強化學習	qiang hua xue xi
+切斷算子	qie duan suan zi
+情感分析	qing gan fen xi
+情緒分析	qing xu fen xi
+全局搜索	quan ju sou suo
+全局優化	quan ju you hua
+權重	quan zhong
+確定式採樣選擇	que ding shi cai yang xuan ze
+闕值	que zhi
+羣體	qun ti
+羣體大小	qun ti da xiao
+羣體多樣性	qun ti duo yang xing
+羣體平均適應度	qun ti ping jun shi ying du
+染色體	ran se ti
+人工神經網絡	ren gong shen jing wang luo
+人工生命	ren gong sheng ming
+人工智能	ren gong zhi neng
+人工智能研究所	ren gong zhi neng yan jiu suo
+散度	san du
+深度卷積生成對抗網絡	shen du juan ji sheng cheng dui kang wang luo
+深度神經網絡	shen du shen jing wang luo
+深度信念網絡	shen du xin nian wang luo
+深度學習	shen du xue xi
+神經機器翻譯	shen jing ji qi fan yi
+神經圖靈機	shen jing tu ling ji
+生成對抗網絡	sheng cheng dui kang wang luo
+生成模型	sheng cheng mo xing
+生成器	sheng cheng qi
+時間步驟	shi jian bu zhou
+適應度	shi ying du
+適應度尺度變換	shi ying du chi du bian huan
+適應度函數	shi ying du han shu
+適應度景象	shi ying du jing xiang
+收斂	shou lian
+受限玻爾茲曼機	shou xian bo er zi man ji
+輸出	shu chu
+樹庫	shu ku
+輸入	shu ru
+雙倍體	shuang bei ti
+雙點交叉	shuang dian jiao cha
+雙向長短期記憶	shuang xiang chang duan qi ji yi
+順序交叉	shun xu jiao cha
+算術交叉	suan shu jiao cha
+隨機聯賽選擇模型	sui ji lian sai xuan ze mo xing
+隨機森林算法	sui ji sen lin suan fa
+隨機搜索算法	sui ji sou suo suan fa
+隨機算法	sui ji suan fa
+隨機梯度下降	sui ji ti du xia jiang
+隨機遊走排序	sui ji you zou pai xu
+損失	sun shi
+踏腳石模型	ta jiao shi mo xing
+貪婪算法	tan lan suan fa
+特徵工程	te zheng gong cheng
+特徵學習	te zheng xue xi
+梯度爆炸問題	ti du bao zha wen ti
+梯度下降	ti du xia jiang
+梯度消失問題	ti du xiao shi wen ti
+條件隨機場	tiao jian sui ji chang
+條件隨機域	tiao jian sui ji yu
+通過時間的反向傳播	tong guo shi jian de fan xiang chuan bo
+同義詞集	tong yi ci ji
+通用人工智能	tong yong ren gong zhi neng
+圖靈機	tu ling ji
+圖論	tu lun
+凸性	tu xing
+圖形處理單元	tu xing chu li dan yuan
+圖形處理器	tu xing chu li qi
+脫氧核糖核酸	tuo yang he tang he suan
+萬普尼克澤範蘭傑斯理論	wan pu ni ke ze fan lan jie si li lun
+文化算法	wen hua suan fa
+穩健性	wen jian xing
+無回放隨機選擇	wu hui fang sui ji xuan ze
+無回放餘數隨機	wu hui fang yu shu sui ji
+無監督學習	wu jian du xue xi
+細粒度並行遺傳算法	xi li du bing xing yi chuan suan fa
+線性尺度變換	xian xing chi du bian huan
+線性迴歸	xian xing hui gui
+顯性基因	xian xing ji yin
+線性修正單元	xian xing xiu zheng dan yuan
+線性修正函數	xian xing xiu zheng han shu
+小生境	xiao sheng jing
+選擇	xuan ze
+選擇模型	xuan ze mo xing
+選擇算子	xuan ze suan zi
+選擇重排序算子	xuan ze zhong pai xu suan zi
+循環交叉	xun huan jiao cha
+循環神經網絡	xun huan shen jing wang luo
+遺傳	yi chuan
+遺傳編程	yi chuan bian cheng
+遺傳算法	yi chuan suan fa
+遺傳算法欺騙問題	yi chuan suan fa qi pian wen ti
+遺傳算子	yi chuan suan zi
+遺傳學	yi chuan xue
+遺傳隱匿	yi chuan yin ni
+隱藏層	yin cang ceng
+隱狄利克雷分佈	yin di li ke lei fen bu
+隱動態模型	yin dong tai mo xing
+隱含並行性	yin han bing xing xing
+隱含狄利克雷分佈	yin han di li ke lei fen bu
+隱馬爾可夫模型	yin ma er ke fu mo xing
+因子分解	yin zi fen jie
+預選擇	yu xuan ze
+語言現象	yu yan xian xiang
+元遺傳算法	yuan yi chuan suan fa
+雜合子	za he zi
+在策略	zai ce lue
+在線性能	zai xian xing neng
+早期收斂	zao qi shou lian
+噪音對比估計	zao yin dui bi gu ji
+張量	zhang liang
+張量處理單元	zhang liang chu li dan yuan
+支持向量機	zhi chi xiang liang ji
+知識表徵	zhi shi biao zheng
+知識庫	zhi shi ku
+致死基因	zhi si ji yin
+植物授粉模型	zhi wu shou fen mo xing
+中央處理器	zhong yang chu li qi
+終止條件	zhong zhi tiao jian
+主成分分析	zhu cheng fen fen xi
+注意機制	zhu yi ji zhi
+裝箱問題	zhuang xiang wen ti
+自編碼器	zi bian ma qi
+子代羣體	zi dai qun ti
+自動語音識別	zi dong yu yin shi bie
+自動摘要	zi dong zhai yao
+自然語言處理	zi ran yu yan chu li
+自然語言生成	zi ran yu yan sheng cheng
+自適應變異	zi shi ying bian yi
+自適應交叉	zi shi ying jiao cha
+自組織映射	zi zu zhi ying she
+最大池化	zui da chi hua
+最大似然	zui da si ran
+最近鄰算法	zui jin lin suan fa
+最小二乘法	zui xiao er cheng fa
+最小欺騙問題	zui xiao qi pian wen ti
+最小最大博弈	zui xiao zui da bo yi
+最優化	zui you hua
