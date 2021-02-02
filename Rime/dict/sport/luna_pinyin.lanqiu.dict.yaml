@@ -1,0 +1,2258 @@
+# Rime dict
+# encoding: utf-8
+#
+# 籃球
+# 詞條來源：搜狗輸入法詞庫
+# 創建者：搜狗拼音輸入法
+# 更新：2010-12-02
+# 來源：https://pinyin.sogou.com/dict/detail/index/15191
+#
+# author: Graon Chan
+# GitHub: https://github.com/grasonchan/squirrel-config
+# **不去除** 與 Rime 預設詞彙表【八股文】重複的詞彙
+# 2021-02-02
+
+---
+name: "luna_pinyin.lanqiu"
+version: "5.0.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿多納爾	a duo na er
+阿多納爾福伊爾	a duo na er fu yi er
+阿爾霍弗德	a er huo fu de
+阿爾蒙德	a er meng de
+阿爾斯通	a er si tong
+阿爾索頓	a er suo dun
+阿法拉羅	a fa la luo
+阿科球館	a ke qiu guan
+阿萊克斯雅克特	a lai ke si ya ke te
+阿蘭安德森	a lan an de sen
+阿蘭多塔克爾	a lan duo ta ke er
+阿蘭享德森	a lan xiang de sen
+阿蘭休斯頓	a lan xiu si dun
+阿朗佐莫寧	a lang zuo mo ning
+阿勞約	a lao yue
+阿里納斯	a li na si
+阿里扎	a li zha
+阿隆阿法拉羅	a long a fa la luo
+阿隆布魯克斯	a long bu lu ke si
+阿隆格雷	a long ge lei
+阿龍麥基	a long mai ji
+阿隆威廉姆斯	a long wei lian mu si
+阿龍威廉姆斯	a long wei lian mu si
+阿倫	a lun
+阿倫艾佛森	a lun ai fo sen
+阿倫艾弗森	a lun ai fu sen
+阿羅約	a luo yue
+阿馬爾斯塔德邁爾	a ma er si ta de mai er
+阿馬雷	a ma lei
+阿瑪雷	a ma lei
+阿馬雷斯塔德邁爾	a ma lei si ta de mai er
+阿瑪雷斯塔德邁爾	a ma lei si ta de mai er
+阿米爾約翰遜	a mi er yue han xun
+阿莫爾	a mo er
+阿斯索夫特	a si suo fu te
+阿泰	a tai
+阿泰斯特	a tai si te
+阿特金斯	a te jin si
+阿韋利諾空軍隊	a wei li nuo kong jun dui
+阿維斯特瑞	a wei si te rui
+阿西勞	a xi lao
+阿祖布克	a zu bu ke
+阿佐馬什	a zuo ma shen
+艾達裏安	ai da li an
+艾達裏安格里芬	ai da li an ge li fen
+愛德華茲	ai de hua zi
+艾迪巴斯頓	ai di ba si dun
+埃迪格里芬	ai di ge li fen
+埃迪豪斯	ai di hao si
+埃迪吉爾	ai di ji er
+埃迪庫裏	ai di ku li
+埃迪瓊斯	ai di qiong si
+埃杜阿多	ai du a duo
+埃杜阿多納胡拉	ai du a duo na hu la
+埃爾頓布蘭德	ai er dun bu lan de
+埃爾頓布朗	ai er dun bu lang
+艾爾哈靈頓	ai er ha ling dun
+艾爾霍福德	ai er huo fu de
+艾爾傑弗遜	ai er jie fu xun
+埃爾金貝勒	ai er jin bei le
+埃爾門羅	ai er men luo
+埃爾森	ai er sen
+艾爾索頓	ai er suo dun
+埃爾文海耶斯	ai er wen hai ye si
+艾爾沃特森	ai er wo te sen
+艾佛森	ai fo sen
+艾弗森	ai fu sen
+艾拉紐貝	ai la niu bei
+埃裏克丹皮爾	ai li ke dan pi er
+埃裏克戈登	ai li ke ge deng
+埃裏克皮亞考斯基	ai li ke pi ya kao si ji
+埃裏克威廉姆斯	ai li ke wei lian mu si
+埃利斯	ai li si
+艾倫雷	ai lun lei
+埃梅卡奧卡福	ai mei ka ao ka fu
+埃米卡	ai mi ka
+埃米卡奧卡福	ai mi ka ao ka fu
+艾米烏度卡	ai mi wu du ka
+愛沙尼亞卡勒夫	ai sha ni ya ka le fu
+愛斯基摩	ai si ji mo
+愛斯基摩人隊	ai si ji mo ren dui
+埃文斯	ai wen si
+埃文約翰遜	ai wen yue han xun
+安德里斯	an de li si
+安德里斯比德林斯	an de li si bi de lin si
+安德里亞巴格納尼	an de li ya ba ge na ni
+安德里尤斯克維基斯	an de li you si ke wei ji si
+安德烈巴雷特	an de lie ba lei te
+安德烈巴尼亞尼	an de lie ba ni ya ni
+安德烈布朗	an de lie bu lang
+安德烈基裏連科	an de lie ji li lian ke
+安德烈米勒	an de lie mi le
+安德烈伊戈達拉	an de lie yi ge da la
+安德烈伊格達拉	an de lie yi ge da la
+安德烈伊古奧達拉	an de lie yi gu ao da la
+安德魯拜納姆	an de lu bai na mu
+安德魯博格特	an de lu bo ge te
+安德魯博古特	an de lu bo gu te
+安德魯博拉奇	an de lu bo la qi
+安德魯歐文斯	an de lu ou wen si
+安德魯喬丹	an de lu qiao dan
+安德森瓦萊喬	an de sen wa lai qiao
+安迪斯諾西奧尼	an di si nuo xi ao ni
+安東尼	an dong ni
+安東尼奧丹尼爾斯	an dong ni ao dan ni er si
+安東尼奧麥克戴斯	an dong ni ao mai ke dai si
+安東尼卡特	an dong ni ka te
+安東尼帕克	an dong ni pa ke
+安東尼沃克	an dong ni wo ke
+安東尼約翰遜	an dong ni yue han xun
+安芬尼	an fen ni
+安芬尼哈達威	an fen ni ha da wei
+安特衛普巨人	an te wei pu ju ren
+安託艾涅	an tuo ai nie
+安託艾涅懷特	an tuo ai nie huai te
+安託萬賈米森	an tuo wan jia mi sen
+安託萬沃克	an tuo wan wo ke
+安翔	an xiang
+昂戈麥斯	ang ge mai si
+奧本山球場	ao ben shan qiu chang
+奧博託	ao bo tuo
+奧布萊恩杯	ao bu lai en bei
+奧布賴恩特	ao bu lai en te
+奧得捷	ao de jie
+奧登	ao deng
+奧多姆	ao duo mu
+奧爾德里奇	ao er de li qi
+奧爾登博格	ao er deng bo ge
+奧古斯丁	ao gu si ding
+奧古斯汀	ao gu si ting
+奧卡福	ao ka fu
+奧克蘭球館	ao ke lan qiu guan
+奧庫	ao ku
+奧拉朱旺	ao la zhu wang
+奧萊克西	ao lai ke xi
+奧萊克西佩切洛夫	ao lai ke xi pei qie luo fu
+奧蘭多魔術	ao lan duo mo shu
+奧裏恩	ao li en
+奧裏恩格林	ao li en ge lin
+奧林貝納通	ao lin bei na tong
+奧洛沃坎迪	ao luo wo kan di
+奧尼爾	ao ni er
+奧塞拉	ao sai la
+奧塞拉哈靈頓	ao sai la ha ling dun
+奧神	ao shen
+奧斯卡羅伯遜	ao si ka luo bo xun
+奧斯坦德泰林達斯	ao si tan de tai lin da si
+奧斯汀克羅希爾	ao si ting ke luo xi er
+奧特勞	ao te lao
+奧特洛	ao te luo
+奧特羅	ao te luo
+奧瓦倫斯航空	ao wa lun si hang kong
+巴巴卡卡馬拉	ba ba ka ka ma la
+巴博薩	ba bo sa
+巴蒂爾	ba di er
+把對方球員擋住	ba dui fang qiu yuan dang zhu
+巴恩斯	ba en si
+巴爾的摩子彈	ba er de mo zi dan
+巴格納尼	ba ge na ni
+巴克利	ba ke li
+巴克納	ba ke na
+巴里	ba li
+巴倫塞斯托萊昂	ba lun sai si tuo lai ang
+巴倫西亞帕梅薩	ba lun xi ya pa mei sa
+巴內斯	ba nei si
+巴尼亞尼	ba ni ya ni
+巴瑞爾	ba rui er
+巴斯	ba si
+巴特爾	ba te er
+巴特勒	ba te le
+八一富邦	ba yi fu bang
+八一火箭	ba yi huo jian
+八一火箭隊	ba yi huo jian dui
+八一雙鹿電池	ba yi shuang lu dian chi
+八一雙鹿電池隊	ba yi shuang lu dian chi dui
+巴智超	ba zhi chao
+白帆	bai fan
+拜倫戴維斯	bai lun dai wei si
+拜姆	bai mu
+拜納姆	bai na mu
+百事中心	bai shi zhong xin
+百事中心球館	bai shi zhong xin qiu guan
+班貝格布羅斯	ban bei ge bu luo si
+板凳隊員	ban deng dui yuan
+板凳球員	ban deng qiu yuan
+班克斯	ban ke si
+邦奇維爾士	bang qi wei er shi
+邦齊威爾斯	bang qi wei er si
+邦奇威爾斯	bang qi wei er si
+榜眼秀	bang yan xiu
+保奧希斯	bao ao xi si
+鮑比布朗	bao bi bu lang
+鮑比傑克遜	bao bi jie ke xun
+鮑比瓊斯	bao bi qiong si
+鮑比西蒙斯	bao bi xi meng si
+鮑勃庫錫	bao bo ku xi
+鮑勃佩蒂特	bao bo pei di te
+包夾	bao jia
+保加利亞盧考伊學院	bao jia li ya lu kao yi xue yuan
+鮑里斯迪奧	bao li si di ao
+保羅	bao luo
+保羅戴維斯	bao luo dai wei si
+保羅加索爾	bao luo jia suo er
+保羅米爾薩普	bao luo mi er sa pu
+保羅皮爾斯	bao luo pi er si
+鮑威	bao wei
+鮑文	bao wen
+包許	bao xu
+貝爾	bei er
+貝爾格萊德游擊隊	bei er ge lai de you ji dui
+背後換手運球	bei hou huan shou yun qiu
+背後運球	bei hou yun qiu
+北京奧神	bei jing ao shen
+北京金隅	bei jing jin yu
+北京金隅隊	bei jing jin yu dui
+北京首鋼	bei jing shou gang
+北京鴨隊	bei jing ya dui
+背靠背	bei kao bei
+貝勒	bei le
+貝里內利	bei li nei li
+背身單打	bei shen dan da
+背身灌籃	bei shen guan lan
+本高登	ben gao deng
+本戈登	ben ge deng
+本華萊士	ben hua lai shi
+畢比	bi bi
+比德林斯	bi de lin si
+畢爾巴厄	bi er ba e
+比爾沃爾頓	bi er wo er dun
+比爾沃克	bi er wo ke
+比利時查雷羅	bi li shi cha lei luo
+比利托馬斯	bi li tuo ma si
+比盧普斯	bi lu pu si
+比諾尤德里	bi nuo you de li
+比賽的第二節	bi sai de di er jie
+比賽的第三節	bi sai de di san jie
+比賽的第四節	bi sai de di si jie
+比賽的第一節	bi sai de di yi jie
+比賽篇	bi sai pian
+比賽用時鐘	bi sai yong shi zhong
+比耶拉安吉利哥	bi ye la an ji li ge
+邊強	bian qiang
+標靶中心	biao ba zhong xin
+標靶中心球館	biao ba zhong xin qiu guan
+表演時刻	biao yan shi ke
+博奧特羅	bo ao te luo
+波恩電信	bo en dian xin
+博甘斯	bo gan si
+博格特	bo ge te
+波拉德	bo la de
+博拉奇	bo la qi
+波蘭安維爾	bo lan an wei er
+波蘭斯拉斯克	bo lan si la si ke
+波蘭索波特	bo lan suo bo te
+波蘭圖羅夫	bo lan tu luo fu
+博列森	bo lie sen
+柏林晨曲	bo lin chen qu
+博洛尼亞維迪維奇	bo luo ni ya wei di wei qi
+博洛尼亞烏比姆	bo luo ni ya wu bi mu
+伯納德羅賓遜	bo na de luo bin xun
+博尼費斯涅頓	bo ni fei si nie dun
+伯什	bo shen
+波什	bo shen
+波士頓凱爾特人	bo shi dun kai er te ren
+波士頓凱爾特人隊	bo shi dun kai er te ren dui
+波斯簡	bo si jian
+波斯簡諾克巴	bo si jian nuo ke ba
+波斯尼亞波斯納	bo si ni ya bo si na
+波塔潘科	bo ta pan ke
+波特蘭開拓者	bo te lan kai tuo zhe
+波特洛	bo te luo
+勃文	bo wen
+波西	bo xi
+博伊金斯	bo yi jin si
+博伊斯迪奧	bo yi si di ao
+布達諾斯特	bu da nuo si te
+補防	bu fang
+布拉德利中心	bu la de li zhong xin
+布拉德米勒	bu la de mi le
+布萊恩格蘭特	bu lai en ge lan te
+布萊恩卡迪納爾	bu lai en ka di na er
+布萊恩庫克	bu lai en ku ke
+布萊恩斯金納	bu lai en si jin na
+布萊恩斯卡拉布賴恩	bu lai en si ka la bu lai en
+布萊恩特	bu lai en te
+不萊梅港北極熊	bu lai mei gang bei ji xiong
+布萊文奈特	bu lai wen nai te
+補籃	bu lan
+布蘭德	bu lan de
+布蘭登巴斯	bu lan deng ba si
+布蘭登海伍德	bu lan deng hai wu de
+布蘭登賴特	bu lan deng lai te
+布蘭頓巴斯	bu lan dun ba si
+布蘭頓華萊士	bu lan dun hua lai shi
+布蘭頓拉什	bu lan dun la shi
+布蘭頓羅伊	bu lan dun luo yi
+布朗	bu lang
+布雷克	bu lei ke
+佈雷澤克	bu lei ze ke
+布里斯懷特	bu li si huai te
+布魯克洛佩茲	bu lu ke luo pei zi
+布魯克斯	bu lu ke si
+布魯斯鮑文	bu lu si bao wen
+布倫丹	bu lun dan
+布倫丹海伍德	bu lun dan hai wu de
+布倫森	bu lun sen
+布倫特巴里	bu lun te ba li
+補位	bu wei
+步行者	bu xing zhe
+步行者隊	bu xing zhe dui
+布澤	bu ze
+布澤爾	bu ze er
+擦板球	ca ban qiu
+擦板投籃	ca ban tou lan
+蔡亮	cai liang
+菜鳥球員	cai niao qiu yuan
+曹飛	cao fei
+曹振華	cao zhen hua
+策應	ce ying
+岑克	cen ke
+岑克哈耶斯	cen ke ha ye si
+查爾裏	cha er li
+查爾里維拉紐瓦	cha er li wei la niu wa
+查爾斯巴克利	cha er si ba ke li
+查基阿特金斯	cha ji a te jin si
+查卡利迪斯	cha ka li di si
+查克海耶斯	cha ke hai ye si
+查理貝爾	cha li bei er
+柴德里斯	chai de li si
+長傳	chang chuan
+場地裝備	chang di zhuang bei
+常規賽	chang gui sai
+場均得分	chang jun de fen
+場均蓋帽	chang jun gai mao
+場均搶斷	chang jun qiang duan
+場均數據	chang jun shu ju
+昌西比盧普斯	chang xi bi lu pu si
+長暫停	chang zan ting
+抄截	chao jie
+超音速	chao yin su
+陳大偉	chen da wei
+陳江華	chen jiang hua
+陳開	chen kai
+陳可	chen ke
+陳磊	chen lei
+陳曉東	chen xiao dong
+陳鑫	chen xin
+陳照升	chen zhao sheng
+陳哲龍	chen zhe long
+城市廣場球館	cheng shi guang chang qiu guan
+持球	chi qiu
+仇華	chou hua
+仇素兵	chou su bing
+觸及籃框	chu ji lan kuang
+出界	chu jie
+出拳打架	chu quan da jia
+傳切	chuan qie
+傳切戰術	chuan qie zhan shu
+傳球	chuan qiu
+從兩邊底線往籃下	cong liang bian di xian wang lan xia
+從志新	cong zhi xin
+寸守偉	cun shou wei
+錯位防守	cuo wei fang shou
+打板入筐	da ban ru kuang
+打板投籃	da ban tou lan
+大成生化	da cheng sheng hua
+達迪瓊斯	da di qiong si
+打拐子	da guai zi
+大號兩雙	da hao liang shuang
+大華隊	da hua dui
+達科米里西奇	da ke mi li xi qi
+達科米利西奇	da ke mi li xi qi
+達奎安庫克	da kui an ku ke
+達拉斯小牛	da la si xiao niu
+達雷爾	da lei er
+達雷爾阿姆斯特朗	da lei er a mu si te lang
+大力灌籃	da li guan lan
+達裏克馬丁	da li ke ma ding
+達柳斯邁爾斯	da liu si mai er si
+大陸航空球場	da lu hang kong qiu chang
+大陸籃球協會	da lu lan qiu xie hui
+達蒙瓊斯	da meng qiong si
+達蒙斯塔德邁爾	da meng si ta de mai er
+大前鋒	da qian feng
+大球戰術	da qiu zhan shu
+達瑞爾斯	da rui er si
+達瑞爾斯邁爾斯	da rui er si mai er si
+達瑞爾沃特金斯	da rui er wo te jin si
+達瑞斯桑賈拉	da rui si sang jia la
+打三分	da san fen
+打手犯規	da shou fan gui
+打四分	da si fen
+大衛哈里森	da wei ha li sen
+大衛李	da wei li
+大衛羅賓遜	da wei luo bin xun
+大衛諾爾	da wei nuo er
+大衛韋斯利	da wei wei si li
+大衛韋斯特	da wei wei si te
+大西洋區	da xi yang qu
+大西洋賽區	da xi yang sai qu
+大學生運動協會	da xue sheng yun dong xie hui
+大學運動協會	da xue yun dong xie hui
+戴德爾艾魯加姆鵬加	dai de er ai lu jia mu peng jia
+戴爾戴維斯	dai er dai wei si
+戴夫考恩斯	dai fu kao en si
+戴奎恩	dai kui en
+戴奎恩庫克	dai kui en ku ke
+戴勒姆波特	dai le mu bo te
+戴米恩威爾金斯	dai mi en wei er jin si
+帶球上籃	dai qiu shang lan
+帶球撞人	dai qiu zhuang ren
+帶球撞人犯規	dai qiu zhuang ren fan gui
+帶球走步	dai qiu zou bu
+戴斯蒙德梅森	dai si meng de mei sen
+戴維斯	dai wei si
+代勇	dai yong
+丹博施埃菲爾塔	dan bo shi ai fei er ta
+單喫	dan chi
+單喫對方防守球員	dan chi dui fang fang shou qiu yuan
+單打	dan da
+單擋掩護	dan dang yan hu
+丹迪考	dan di kao
+丹佛掘金	dan fo jue jin
+丹加祖裏奇	dan jia zu li qi
+丹尼爾布朗	dan ni er bu lang
+丹尼爾吉布森	dan ni er ji bu sen
+丹尼爾斯	dan ni er si
+丹尼爾伊文	dan ni er yi wen
+丹尼福特森	dan ni fu te sen
+丹尼格蘭格	dan ni ge lan ge
+丹尼格蘭傑	dan ni ge lan jie
+丹皮爾	dan pi er
+單濤	dan tao
+丹特瓊斯	dan te qiong si
+擋拆	dang chai
+擋切戰術	dang qie zhan shu
+德爾菲諾	de er fei nuo
+德爾克	de er ke
+德爾塔中心	de er ta zhong xin
+德爾塔中心球館	de er ta zhong xin qiu guan
+得分	de fen
+得分後衛	de fen hou wei
+得分王	de fen wang
+德國奧爾登博格	de guo ao er deng bo ge
+德國班貝格布羅斯	de guo ban bei ge bu luo si
+德國波恩電信	de guo bo en dian xin
+德國柏林晨曲	de guo bo lin chen qu
+德國不萊梅港北極熊	de guo bu lai mei gang bei ji xiong
+德國不倫瑞克	de guo bu lun rui ke
+德國哥廷根	de guo ge ting gen
+德國吉森阿維託斯	de guo ji sen a wei tuo si
+德國甲級聯賽	de guo jia ji lian sai
+德國科隆九九人	de guo ke long jiu jiu ren
+德國籃球甲級聯賽	de guo lan qiu jia ji lian sai
+德國勒沃庫森	de guo le wo ku sen
+德國路德維希堡	de guo lu de wei xi bao
+德國帕德博恩	de guo pa de bo en
+德國烏爾姆一八四六	de guo wu er mu yi ba si liu
+德國亞特蘭龍	de guo ya te lan long
+德國耶拿科學城	de guo ye na ke xue cheng
+德懷恩瓊斯	de huai en qiong si
+德懷恩韋德	de huai en wei de
+德懷特霍華德	de huai te huo hua de
+德克諾維茨基	de ke nuo wei ci ji
+德克諾維斯基	de ke nuo wei si ji
+德朗特	de lang te
+德朗特韋斯特	de lang te wei si te
+德勒黑	de le hei
+德里克	de li ke
+德里克安德森	de li ke an de sen
+德里克費舍爾	de li ke fei she er
+德里克馬丁	de li ke ma ding
+德隆威廉姆斯	de long wei lian mu si
+德魯古登	de lu gu deng
+德瑪爾約翰遜	de ma er yue han xun
+德馬庫斯尼爾森	de ma ku si ni er sen
+德瑪斯特	de ma si te
+德薩蓋納	de sa gai na
+德薩蓋納迪奧普	de sa gai na di ao pu
+德斯蒙德	de si meng de
+德斯蒙德梅森	de si meng de mei sen
+德維恩瓊斯	de wei en qiong si
+德文布朗	de wen bu lang
+德文格林	de wen ge lin
+德文哈里斯	de wen ha li si
+德文喬治	de wen qiao zhi
+德文韋德	de wen wei de
+德肖恩史蒂文森	de xiao en shi di wen sen
+鄧肯	deng ken
+鄧力	deng li
+鄧利維	deng li wei
+迪阿瓦拉	di a wa la
+迪安納	di an na
+迪奧古	di ao gu
+迪奧普	di ao pu
+地板球	di ban qiu
+蒂賓根沃爾茨老虎	di bin gen wo er ci lao hu
+第二年球員	di er nian qiu yuan
+第二陣容	di er zhen rong
+迪考	di kao
+迪肯貝	di ken bei
+迪肯貝穆託姆博	di ken bei mu tuo mu bo
+第六人	di liu ren
+狄龍威廉姆斯	di long wei lian mu si
+蒂姆鄧肯	di mu deng ken
+蒂姆托馬斯	di mu tuo ma si
+底特律活塞	di te lv huo sai
+底特律獵鷹	di te lv lie ying
+底特律獵鷹隊	di te lv lie ying dui
+迪文布朗	di wen bu lang
+迪文格林	di wen ge lin
+迪文喬治	di wen qiao zhi
+底線	di xian
+底線切入	di xian qie ru
+底線區域	di xian qu yu
+迪肖恩史蒂文森	di xiao en shi di wen sen
+邸曉偉	di xiao wei
+第一聯盟中心	di yi lian meng zhong xin
+第一陣容	di yi zhen rong
+定點投籃	ding dian tou lan
+丁錦輝	ding jin hui
+盯人防守	ding ren fang shou
+東部聯盟	dong bu lian meng
+東方大鯊魚	dong fang da sha yu
+東莞烈豹	dong guan lie bao
+東莞烈豹隊	dong guan lie bao dui
+東莞馬可波羅	dong guan ma ke bo luo
+東莞新世紀	dong guan xin shi ji
+東莞新世紀隊	dong guan xin shi ji dui
+東莞銀行	dong guan yin hang
+董瀚麟	dong han lin
+東南區	dong nan qu
+東南賽區	dong nan sai qu
+東盛	dong sheng
+東特格林	dong te ge lin
+動作篇	dong zuo pian
+鬥牛	dou niu
+杜德利	du de li
+杜鋒	du feng
+杜洪	du hong
+杜江	du jiang
+杜蘭特	du lan te
+杜諾泰勒	du nuo tai le
+杜普里	du pu li
+杜萬泰特	du wan tai te
+段成龍	duan cheng long
+段江鵬	duan jiang peng
+短暫停	duan zan ting
+多雷爾	duo lei er
+多雷爾賴特	duo lei er lai te
+多列亞克	duo lie ya ke
+多倫多愛斯基摩人	duo lun duo ai si ji mo ren
+多倫多愛斯基摩人隊	duo lun duo ai si ji mo ren dui
+多倫多猛龍	duo lun duo meng long
+多米尼克麥克奎爾	duo mi ni ke mai ke kui er
+多尼帕克	duo ni pa ke
+俄超	e chao
+厄爾巴龍	e er ba long
+厄爾博伊金斯	e er bo yi jin si
+厄爾沃特森	e er wo te sen
+俄克拉荷馬雷霆	e ke la he ma lei ting
+俄羅斯超級聯賽	e luo si chao ji lian sai
+俄羅斯籃球超級聯賽	e luo si lan qiu chao ji lian sai
+俄羅斯希姆基	e luo si xi mu ji
+惡性犯規	e xing fan gui
+惡意犯規	e yi fan gui
+二號位置球員	er hao wei zhi qiu yuan
+二三聯防	er san lian fang
+二十秒鐘的暫停	er shi miao zhong de zan ting
+二十四秒內必須投籃	er shi si miao nei bi xu tou lan
+二運	er yun
+二中鋒	er zhong feng
+法布里西奧奧博託	fa bu li xi ao ao bo tuo
+法布瑞斯爾	fa bu rui si er
+法布瑞斯爾奧博託	fa bu rui si er ao bo tuo
+法爾頓	fa er dun
+法國阿斯維爾	fa guo a si wei er
+法國奧爾良	fa guo ao er liang
+法國保奧希斯	fa guo bao ao xi si
+法國第戎	fa guo di rong
+法國格雷文萊恩斯	fa guo ge lei wen lai en si
+法國甲級聯賽	fa guo jia ji lian sai
+法國克萊蒙	fa guo ke lai meng
+法國籃球甲級聯賽	fa guo lan qiu jia ji lian sai
+法國勒阿弗爾	fa guo le a fu er
+法國勒芒	fa guo le mang
+法國羅昂	fa guo luo ang
+法國南錫	fa guo nan xi
+法國紹萊	fa guo shao lai
+法國斯特拉斯堡	fa guo si te la si bao
+法國索恩河畔沙隆	fa guo suo en he pan sha long
+法國維希	fa guo wei xi
+法國耶爾土倫	fa guo ye er tu lun
+法蘭克福歐寶客機	fa lan ke fu ou bao ke ji
+法利克斯	fa li ke si
+發球	fa qiu
+罰球	fa qiu
+罰球進攻籃板球	fa qiu jin gong lan ban qiu
+罰球命中率	fa qiu ming zhong lv
+罰球圈	fa qiu quan
+發球入場	fa qiu ru chang
+發球五秒違例	fa qiu wu miao wei li
+罰球線	fa qiu xian
+範埃克塞爾	fan ai ke sai er
+範斌	fan bin
+犯規	fan gui
+犯規動作	fan gui dong zuo
+犯規滿	fan gui man
+犯規滿離場	fan gui man li chang
+犯規戰術	fan gui zhan shu
+範霍恩	fan huo en
+反籃	fan lan
+犯滿離場	fan man li chang
+反手上籃	fan shou shang lan
+反手走籃	fan shou zou lan
+反彈球	fan tan qiu
+翻腕	fan wan
+範兆宇	fan zhao yu
+房輝	fang hui
+防守第二陣容	fang shou di er zhen rong
+防守第一陣容	fang shou di yi zhen rong
+防守犯規	fang shou fan gui
+防守方干擾投籃得分	fang shou fang gan rao tou lan de fen
+防守干擾	fang shou gan rao
+防守籃板	fang shou lan ban
+防守籃板球	fang shou lan ban qiu
+防守球員	fang shou qiu yuan
+防守三秒	fang shou san miao
+防守三秒違例	fang shou san miao wei li
+防守違例	fang shou wei li
+費城七六人	fei cheng qi liu ren
+費城七六人隊	fei cheng qi liu ren dui
+費城七十六人	fei cheng qi shi liu ren
+費城七十六人隊	fei cheng qi shi liu ren dui
+費城人	fei cheng ren
+費城武士	fei cheng wu shi
+費城武士隊	fei cheng wu shi dui
+飛利浦斯	fei li pu si
+飛利浦斯球場	fei li pu si qiu chang
+費內巴切烏爾克	fei nei ba qie wu er ke
+菲尼克斯太陽	fei ni ke si tai yang
+費舍爾	fei she er
+費申科	fei shen ke
+飛身扣籃	fei shen kou lan
+費澤爾	fei ze er
+費茲卡斯	fei zi ka si
+芬利	fen li
+分區冠軍	fen qu guan jun
+分區決賽	fen qu jue sai
+豐磊	feng lei
+蜂鳴器	feng ming qi
+馮祺	feng qi
+豐田中心	feng tian zhong xin
+豐田中心球館	feng tian zhong xin qiu guan
+鋒衛搖擺人	feng wei yao bai ren
+鋒線	feng xian
+富邦	fu bang
+弗恩拉布拉達	fu en la bu la da
+福建鱘	fu jian xun
+福建鱘隊	fu jian xun dui
+福建潯興	fu jian xun xing
+弗拉姆	fu la mu
+弗朗西斯	fu lang xi si
+弗朗西斯科埃爾森	fu lang xi si ke ai er sen
+弗朗西斯科賈奇	fu lang xi si ke jia qi
+弗朗西斯科加西亞	fu lang xi si ke jia xi ya
+弗雷德瓊斯	fu lei de qiong si
+福利特中心	fu li te zhong xin
+福利特中心球館	fu li te zhong xin qiu guan
+付慶飛	fu qing fei
+弗瑞斯貝	fu rui si bei
+福特	fu te
+福特森	fu te sen
+弗耶	fu ye
+福伊爾	fu yi er
+蓋火鍋	gai huo guo
+蓋火鍋兒	gai huo guo er
+蓋帽	gai mao
+蓋帽王	gai mao wang
+蓋伊	gai yi
+幹拔	gan ba
+干擾球	gan rao qiu
+干擾投籃得分	gan rao tou lan de fen
+岡德	gang de
+岡德體育館	gang de ti yu guan
+戈登	ge deng
+戈登吉里塞克	ge deng ji li sai ke
+格拉漢姆	ge la han mu
+格蘭爾德	ge lan er de
+格蘭爾德格林	ge lan er de ge lin
+格蘭格	ge lan ge
+格蘭傑	ge lan jie
+格蘭特希爾	ge lan te xi er
+格雷戈奧登	ge lei ge ao deng
+格雷格奧登	ge lei ge ao deng
+格雷格巴克納	ge lei ge ba ke na
+格雷文萊恩斯	ge lei wen lai en si
+格林	ge lin
+格倫戴維斯	ge lun dai wei si
+戈麥斯	ge mai si
+格蒙登斯沃恩斯	ge meng deng si wo en si
+個人犯規	ge ren fan gui
+戈塔特	ge ta te
+各種統計術語	ge zhong tong ji shu yu
+各種投籃方式	ge zhong tou lan fang shi
+更衣室	geng yi shi
+宮魯鳴	gong lu ming
+公牛	gong niu
+龔松林	gong song lin
+鞏曉彬	gong xiao bin
+鉤射投籃	gou she tou lan
+勾手	gou shou
+古登	gu deng
+谷立業	gu li ye
+灌籃	guan lan
+廣東宏遠	guang dong hong yuan
+廣東宏遠隊	guang dong hong yuan dui
+廣東華南虎	guang dong hua nan hu
+廣東華南虎隊	guang dong hua nan hu dui
+廣匯飛虎	guang hui fei hu
+廣廈隊	guang sha dui
+廣廈建設隊	guang sha jian she dui
+貴軍	gui jun
+規則篇	gui ze pian
+國際籃球聯合會	guo ji lan qiu lian he hui
+國家籃球聯盟	guo jia lan qiu lian meng
+國家籃球協會	guo jia lan qiu xie hui
+郭磊	guo lei
+郭士強	guo shi qiang
+國王	guo wang
+哈達迪	ha da di
+哈達威	ha da wei
+哈弗里斯	ha fu li si
+哈基姆奧拉朱旺	ha ji mu ao la zhu wang
+哈基姆瓦里克	ha ji mu wa li ke
+哈里斯	ha li si
+哈靈頓	ha ling dun
+哈盧卡斯	ha lu ka si
+哈普爾加里勒昂	ha pu er jia li le ang
+哈普林	ha pu lin
+哈普靈	ha pu ling
+哈塞爾	ha sai er
+哈斯勒姆	ha si le mu
+哈瓦里斯	ha wa li si
+哈瓦里斯克里特頓	ha wa li si ke li te dun
+哈耶斯	ha ye si
+海德	hai de
+海默法爾姆	hai mo fa er mu
+海伍德	hai wu de
+海耶斯	hai ye si
+韓德君	han de jun
+韓磊	han lei
+漢密爾頓	han mi er dun
+韓碩	han shuo
+漢斯隊	han si dui
+漢澤瓦斯特	han ze wa si te
+何奔	he ben
+赫伯特希爾	he bo te xi er
+赫爾維拉米扎納	he er wei la mi zha na
+荷蘭丹博施埃菲爾塔	he lan dan bo shi ai fei er ta
+荷蘭漢澤瓦斯特	he lan han ze wa si te
+赫羅納阿卡斯瓦伊	he luo na a ka si wa yi
+何塞卡爾德隆	he sai ka er de long
+何升鎮	he sheng zhen
+核心球員	he xin qiu yuan
+亨特	heng te
+宏遠	hong yuan
+轟炸機	hong zha ji
+轟炸機隊	hong zha ji dui
+後備隊員	hou bei dui yuan
+候冰	hou bing
+後部陣容	hou bu zhen rong
+後場	hou chang
+後衛組	hou wei zu
+後仰式跳投	hou yang shi tiao tou
+後仰跳投	hou yang tiao tou
+後仰投籃	hou yang tou lan
+胡安	hu an
+胡安迪克森	hu an di ke sen
+胡安卡洛斯納瓦羅	hu an ka luo si na wa luo
+弧頂	hu ding
+胡光	hu guang
+胡克	hu ke
+湖人	hu ren
+胡衛東	hu wei dong
+胡雪峯	hu xue feng
+華萊士	hua lai shi
+華盛頓國會	hua sheng dun guo hui
+華盛頓國會隊	hua sheng dun guo hui dui
+華盛頓華盛頓國會	hua sheng dun hua sheng dun guo hui
+華盛頓華盛頓國會隊	hua sheng dun hua sheng dun guo hui dui
+華盛頓奇才	hua sheng dun qi cai
+華盛頓子彈	hua sheng dun zi dan
+懷特	huai te
+換人	huan ren
+換手上籃	huan shou shang lan
+換手運球	huan shou yun qiu
+晃動	huang dong
+黃蜂	huang feng
+灰熊	hui xiong
+匯中隊	hui zhong dui
+霍弗德	huo fu de
+霍福德	huo fu de
+霍華德	huo hua de
+霍吉	huo ji
+火箭	huo jian
+霍里	huo li
+霍林斯	huo lin si
+活塞	huo sai
+吉布森	ji bu sen
+積臣	ji chen
+基德	ji de
+吉登斯	ji deng si
+吉爾伯特阿里納斯	ji er bo te a li na si
+吉爾福德熱火	ji er fu de re huo
+吉爾斯	ji er si
+記分臺	ji fen tai
+季後賽	ji hou sai
+吉拉巴勒	ji la ba le
+季樂	ji le
+基利科沃爾	ji li ke wo er
+基裏連科	ji li lian ke
+基裏洛費申科	ji li luo fei shen ke
+吉里塞克	ji li sai ke
+吉林搏嘯	ji lin bo xiao
+吉林東北虎	ji lin dong bei hu
+吉林東北虎隊	ji lin dong bei hu dui
+吉林通鋼	ji lin tong gang
+吉林通鋼隊	ji lin tong gang dui
+記錄臺	ji lu tai
+吉姆傑克遜	ji mu jie ke xun
+吉諾比利	ji nuo bi li
+季前賽	ji qian sai
+季賽	ji sai
+吉森阿維託斯	ji sen a wei tuo si
+技術犯規	ji shu fan gui
+技術統計	ji shu tong ji
+基斯博甘斯	ji si bo gan si
+基斯範霍恩	ji si fan huo en
+急停跳投	ji ting tiao tou
+基翁杜林	ji weng du lin
+吉喆	ji zhe
+賈巴爾	jia ba er
+賈巴尤薩	jia ba you sa
+加比普瑞特	jia bi pu rui te
+嘉伯	jia bo
+嘉伯莫內特	jia bo mo nei te
+假動作	jia dong zuo
+賈裏德杜德利	jia li de du de li
+加里蒂	jia li di
+加里佩頓	jia li pei dun
+賈裏奇	jia li qi
+賈倫科林斯	jia lun ke lin si
+賈馬爾	jia ma er
+賈馬爾克勞福德	jia ma er ke lao fu de
+賈馬爾馬格洛伊爾	jia ma er ma ge luo yi er
+賈馬爾桑普森	jia ma er sang pu sen
+賈馬爾汀斯利	jia ma er ting si li
+賈馬里奧	jia ma li ao
+賈馬里奧穆恩	jia ma li ao mu en
+賈米森	jia mi sen
+加拿大航空中心	jia na da hang kong zhong xin
+加拿大航空中心球場	jia na da hang kong zhong xin qiu chang
+伽奈特	jia nai te
+賈楠	jia nan
+加內特	jia nei te
+加內特湯普森	jia nei te tang pu sen
+賈瑞德傑弗里斯	jia rui de jie fu li si
+賈森哈特	jia sen ha te
+賈森基德	jia sen ji de
+賈森卡波諾	jia sen ka bo nuo
+賈森科林斯	jia sen ke lin si
+賈森理查德森	jia sen li cha de sen
+賈森馬克希爾	jia sen ma ke xi er
+賈森史密斯	jia sen shi mi si
+賈森特里	jia sen te li
+賈森威廉姆斯	jia sen wei lian mu si
+加時賽	jia shi sai
+賈斯科維休斯	jia si ke wei xiu si
+賈斯汀布朗	jia si ting bu lang
+賈斯汀裏德	jia si ting li de
+賈斯汀威廉姆斯	jia si ting wei lian mu si
+加索爾	jia suo er
+賈維斯海耶斯	jia wei si hai ye si
+加祖裏奇	jia zu li qi
+簡尼諾帕科	jian ni nuo pa ke
+江蘇大華隊	jiang su da hua dui
+江蘇德瑪斯特	jiang su de ma si te
+江蘇龍	jiang su long
+江蘇龍隊	jiang su long dui
+江蘇南鋼	jiang su nan gang
+蔣興權	jiang xing quan
+傑夫福斯特	jie fu fu si te
+傑弗福斯特	jie fu fu si te
+傑夫格林	jie fu ge lin
+傑夫麥金尼斯	jie fu mai jin ni si
+傑弗森	jie fu sen
+傑弗遜	jie fu xun
+傑克	jie ke
+傑克巴特勒	jie ke ba te le
+傑克查卡利迪斯	jie ke cha ka li di si
+捷克尼姆波克	jie ke ni mu bo ke
+傑克沃斯庫爾	jie ke wo si ku er
+傑克遜	jie ke xun
+傑拉德格林	jie la de ge lin
+傑拉德華萊士	jie la de hua lai shi
+傑拉爾德華萊士	jie la er de hua lai shi
+傑裏盧卡斯	jie li lu ka si
+傑里斯塔克豪斯	jie li si ta ke hao si
+杰倫羅斯	jie lun luo si
+傑羅姆詹姆斯	jie luo mu zhan mu si
+傑馬里奧	jie ma li ao
+傑馬里奧戴維森	jie ma li ao dai wei sen
+傑梅因奧尼爾	jie mei yin ao ni er
+傑米爾	jie mi er
+傑米爾尼爾森	jie mi er ni er sen
+傑姆森	jie mu sen
+傑瑞特傑克	jie rui te jie ke
+傑森哈特	jie sen ha te
+傑森基德	jie sen ji de
+傑森卡波諾	jie sen ka bo nuo
+傑森科林斯	jie sen ke lin si
+傑森理查德森	jie sen li cha de sen
+傑森麥克希爾	jie sen mai ke xi er
+傑森桑普森	jie sen sang pu sen
+傑森特里	jie sen te li
+接應	jie ying
+進攻八秒秒違例	jin gong ba miao miao wei li
+進攻超時	jin gong chao shi
+進攻二十四秒違例	jin gong er shi si miao wei li
+進攻犯規	jin gong fan gui
+進攻方干擾投籃得分	jin gong fang gan rao tou lan de fen
+進攻籃板	jin gong lan ban
+進攻籃板球	jin gong lan ban qiu
+進攻球員	jin gong qiu yuan
+進攻三秒	jin gong san miao
+進攻違例	jin gong wei li
+金立鵬	jin li peng
+晉龍	jin long
+禁區	jin qu
+禁賽	jin sai
+金隅	jin yu
+金隅隊	jin yu dui
+金州勇士	jin zhou yong shi
+金字塔球場	jin zi ta qiu chang
+精神領袖	jing shen ling xiu
+鞠鵬	ju peng
+掘金	jue jin
+絕殺	jue sha
+爵士	jue shi
+卡巴卡帕	ka ba ka pa
+卡波諾	ka bo nuo
+卡迪納爾	ka di na er
+卡蒂諾莫布里	ka di nuo mo bu li
+卡爾伯特切尼	ka er bo te qie ni
+卡爾迪倫	ka er di lun
+卡爾蘭德里	ka er lan de li
+卡爾朗德里	ka er lang de li
+卡爾馬龍	ka er ma long
+卡爾文布斯	ka er wen bu si
+卡爾文邁爾斯	ka er wen mai er si
+卡勒夫	ka le fu
+卡里姆拉什	ka li mu la shi
+卡隆巴特勒	ka long ba te le
+卡龍巴特勒	ka long ba te le
+卡洛斯阿羅約	ka luo si a luo yue
+卡洛斯布澤爾	ka luo si bu ze er
+卡洛斯德爾菲諾	ka luo si de er fei nuo
+卡曼	ka man
+卡梅隆安東尼	ka mei long an dong ni
+卡那裏亞	ka na li ya
+卡塞爾	ka sai er
+卡特	ka te
+卡位	ka wei
+凱爾科沃爾	kai er ke wo er
+凱爾羅裏	kai er luo li
+凱爾洛瑞	kai er luo rui
+凱爾特人	kai er te ren
+凱利威特尼	kai li wei te ni
+凱賽爾江	kai sai er jiang
+凱斯克勞斯	kai si ke lao si
+凱斯邁克里奧德	kai si mai ke li ao de
+開拓者	kai tuo zhe
+凱文奧利	kai wen ao li
+凱文博列森	kai wen bo lie sen
+凱文杜蘭特	kai wen du lan te
+凱文加內特	kai wen jia nei te
+凱文卡託	kai wen ka tuo
+凱文樂福	kai wen le fu
+凱文馬丁	kai wen ma ding
+凱文麥克海爾	kai wen mai ke hai er
+坎比	kan bi
+考比卡爾	kao bi ka er
+考那斯薩爾吉利斯	kao na si sa er ji li si
+科比	ke bi
+科比布萊恩特	ke bi bu lai en te
+客場比賽	ke chang bi sai
+客隊	ke dui
+科爾克斯耐德	ke er ke si nai de
+克爾斯蒂奇	ke er si di qi
+柯克辛裏奇	ke ke xin li qi
+科克辛裏奇	ke ke xin li qi
+克拉克斯頓	ke la ke si dun
+克萊格史密斯	ke lai ge shi mi si
+克勞福德	ke lao fu de
+克雷格史密斯	ke lei ge shi mi si
+科里布魯爾	ke li bu lu er
+克利夫蘭叛逆者	ke li fu lan pan ni zhe
+克利夫蘭叛逆者隊	ke li fu lan pan ni zhe dui
+克里夫蘭騎士	ke li fu lan qi shi
+克里夫蘭騎士隊	ke li fu lan qi shi dui
+克利福羅賓遜	ke li fu luo bin xun
+科裏馬蓋蒂	ke li ma gai di
+科裏森	ke li sen
+克里斯安德森	ke li si an de sen
+克里斯保羅	ke li si bao luo
+克里斯伯什	ke li si bo shen
+克里斯波什	ke li si bo shen
+克里斯波特	ke li si bo te
+克里斯道格拉斯羅伯茨	ke li si dao ge la si luo bo ci
+克里斯杜洪	ke li si du hong
+克里斯哈弗里斯	ke li si ha fu li si
+克里斯卡曼	ke li si ka man
+克里斯理查德	ke li si li cha de
+克里斯米姆	ke li si mi mu
+克里斯穆林	ke li si mu lin
+克里斯塔夫特	ke li si ta fu te
+克里斯韋伯	ke li si wei bo
+克里斯韋爾考克斯	ke li si wei er kao ke si
+科利斯威廉姆森	ke li si wei lian mu sen
+克里特頓	ke li te dun
+克里威廉姆斯	ke li wei lian mu si
+科隆九九人	ke long jiu jiu ren
+科隆九十九人	ke long jiu shi jiu ren
+克倫納	ke lun na
+克倫納阿祖布克	ke lun na a zu bu ke
+克羅地亞扎達爾	ke luo di ya zha da er
+科羅勒夫	ke luo le fu
+克羅希爾	ke luo xi er
+科斯塔佩羅維奇	ke si ta pei luo wei qi
+科特尼	ke te ni
+科特尼希姆斯	ke te ni xi mu si
+柯特托馬斯	ke te tuo ma si
+科特托馬斯	ke te tuo ma si
+科沃爾	ke wo er
+科西雅各布森	ke xi ya ge bu sen
+肯德里克	ken de li ke
+肯德里克帕金斯	ken de li ke pa jin si
+肯尼托馬斯	ken ni tuo ma si
+肯塞	ken sai
+肯揚杜林	ken yang du lin
+肯揚馬丁	ken yang ma ding
+肯約翰遜	ken yue han xun
+空切	kong qie
+控球后衛	kong qiu hou wei
+空心	kong xin
+空心球	kong xin qiu
+空心球入籃	kong xin qiu ru lan
+空中灌籃	kong zhong guan lan
+空中配合	kong zhong pei he
+扣籃	kou lan
+扣籃大賽	kou lan da sai
+扣籃王	kou lan wang
+誇梅布朗	kua mei bu lang
+胯下運球	kua xia yun qiu
+快船	kuai chuan
+快攻	kuai gong
+快攻時長傳	kuai gong shi chang chuan
+快艇	kuai ting
+快要犯滿離場	kuai yao fan man li chang
+匡魯彬	kuang lu bin
+狂猛灌籃	kuang meng guan lan
+奎恩特伍茲	kui en te wu zi
+奎因	kui yin
+昆廷理查德森	kun ting li cha de sen
+昆廷羅斯	kun ting luo si
+昆西道比	kun xi dao bi
+拉德馬諾維奇	la de ma nuo wei qi
+拉多斯拉夫	la duo si la fu
+拉菲爾阿爾斯通	la fei er a er si tong
+拉菲爾阿勞約	la fei er a lao yue
+拉夫阿爾斯通	la fu a er si tong
+拉弗倫茨	la fu lun ci
+拉桿	la gan
+拉桿式投籃	la gan shi tou lan
+拉桿投籃	la gan tou lan
+拉加貝爾	la jia bei er
+拉簡	la jian
+拉簡朗多	la jian lang duo
+拉開單打	la kai dan da
+拉里伯德	la li bo de
+拉里休斯	la li xiu si
+拉倫斯羅伯特斯	la lun si luo bo te si
+拉馬爾	la ma er
+拉馬爾奧多姆	la ma er ao duo mu
+拉瑪爾奧多姆	la ma er ao duo mu
+拉馬庫斯	la ma ku si
+拉馬庫斯阿爾德里奇	la ma ku si a er de li qi
+拉蒙德穆雷	la meng de mu lei
+拉蒙塞申斯	la meng sai shen si
+拉米扎納	la mi zha na
+拉塞爾韋斯特布魯克	la sai er wei si te bu lu ke
+拉沙德劉易斯	la sha de liu yi si
+拉沙德麥坎茨	la sha de mai kan ci
+拉什	la shi
+拉手犯規	la shou fan gui
+拉蘇巴特勒	la su ba te le
+拉特里夫	la te li fu
+拉特利夫	la te li fu
+拉脫維亞里加	la tuo wei ya li jia
+拉脫維亞文斯比爾斯	la tuo wei ya wen si bi er si
+拉希德	la xi de
+拉希德華萊士	la xi de hua lai shi
+拉希德麥肯茨	la xi de mai ken ci
+拉希姆	la xi mu
+拉休巴特勒	la xiu ba te le
+萊昂德羅巴博薩	lai ang de luo ba bo sa
+萊恩波維	lai en bo wei
+賴特	lai te
+籃板	lan ban
+籃板球	lan ban qiu
+蘭德里	lan de li
+懶得理	lan de li
+蘭迪弗耶	lan di fu ye
+蘭多夫	lan duo fu
+蘭多夫莫里斯	lan duo fu mo li si
+籃架	lan jia
+籃筐	lan kuang
+籃球聯盟	lan qiu lian meng
+籃球聯賽	lan qiu lian sai
+籃球術語	lan qiu shu yu
+籃球運動管理中心	lan qiu yun dong guan li zhong xin
+籃圈	lan quan
+籃外空心球	lan wai kong xin qiu
+籃網	lan wang
+籃下	lan xia
+籃下卡位	lan xia ka wei
+籃下三秒鐘	lan xia san miao zhong
+朗德里	lang de li
+朗多	lang duo
+老鳥	lao niao
+老鳥球員	lao niao qiu yuan
+老鷹	lao ying
+勒布朗詹姆斯	le bu lang zhan mu si
+雷阿倫	lei a lun
+雷布拉卡	lei bu la ka
+雷迪克	lei di ke
+雷吉埃文斯	lei ji ai wen si
+雷蒙德法爾頓	lei meng de fa er dun
+雷蒙德費爾頓	lei meng de fei er dun
+雷納德巴克曼	lei na de ba ke man
+雷納德克爾斯蒂奇	lei na de ke er si di qi
+雷霆	lei ting
+裏安安德森	li an an de sen
+裏安戈麥斯	li an ge mai si
+裏安霍林斯	li an huo lin si
+李本森	li ben sen
+裏查德弗拉姆	li cha de fu la mu
+理查德漢密爾頓	li cha de han mi er dun
+理查德傑弗森	li cha de jie fu sen
+理查德森	li cha de sen
+裏德	li de
+裏德諾	li de nuo
+立定投籃	li ding tou lan
+裏夫拉弗倫茨	li fu la fu lun ci
+李岡風	li gang feng
+李根	li gen
+李光	li guang
+李航	li hang
+李厚銀	li hou yin
+裏基戴維斯	li ji dai wei si
+李建周	li jian zhou
+李敬宇	li jing yu
+李俊	li jun
+李克	li ke
+李可	li ke
+裏克巴里	li ke ba li
+裏克布倫森	li ke bu lun sen
+李林	li lin
+李萌	li meng
+李明剛	li ming gang
+李納斯科雷薩	li na si ke lei sa
+李楠	li nan
+李勝俊	li sheng jun
+里斯亞歷山大	li si ya li shan da
+李濤	li tao
+立陶宛維爾紐斯	li tao wan wei er niu si
+立陶宛希奧利埃	li tao wan xi ao li ai
+裏替索爾索尼卡	li ti suo er suo ni ka
+利文斯頓	li wen si dun
+李翔	li xiang
+李曉旭	li xiao xu
+李亞光	li ya guang
+李一丁	li yi ding
+連敗	lian bai
+連敗場數	lian bai chang shu
+連敗紀錄	lian bai ji lu
+聯合中心	lian he zhong xin
+聯合中心球館	lian he zhong xin qiu guan
+連勝	lian sheng
+連勝場數	lian sheng chang shu
+連勝紀錄	lian sheng ji lu
+連續不勝場數	lian xu bu sheng chang shu
+連續不勝記錄	lian xu bu sheng ji lu
+兩次運球	liang ci yun qiu
+梁飛	liang fei
+兩分球	liang fen qiu
+兩人包夾	liang ren bao jia
+兩雙	liang shuang
+梁偉	liang wei
+遼寧獵人	liao ning lie ren
+遼寧獵人隊	liao ning lie ren dui
+遼寧盼盼	liao ning pan pan
+遼寧盼盼隊	liao ning pan pan dui
+獵鷹隊	lie ying dui
+林晨耀	lin chen yao
+林德羅	lin de luo
+林德羅巴博薩	lin de luo ba bo sa
+林頓約翰遜三世	lin dun yue han xun san shi
+林賽亨特	lin sai heng te
+林書豪	lin shu hao
+領到一張準畢業證書	ling dao yi zhang zhun bi ye zheng shu
+領接球	ling jie qiu
+領先球隊	ling xian qiu dui
+領袖球員	ling xiu qiu yuan
+柳別爾齊勝利者	liu bie er qi sheng li zhe
+溜底線	liu di xian
+劉昊	liu hao
+劉久龍	liu jiu long
+劉明濤	liu ming tao
+柳鵬	liu peng
+劉煒	liu wei
+柳偉	liu wei
+劉維偉	liu wei wei
+劉相韜	liu xiang tao
+劉曉宇	liu xiao yu
+劉亞暉	liu ya hui
+劉堯	liu yao
+劉易斯	liu yi si
+劉玉棟	liu yu dong
+劉子秋	liu zi qiu
+婁延東	lou yan dong
+魯本帕特森	lu ben pa te sen
+盧布爾雅納	lu bu er ya na
+魯迪費爾南德斯	lu di fei er nan de si
+魯迪蓋	lu di gai
+魯迪蓋伊	lu di gai yi
+盧卡斯三世	lu ka si san shi
+盧考伊學院	lu kao yi xue yuan
+盧克傑克遜	lu ke jie ke xun
+魯克裏德諾	lu ke li de nuo
+盧可明	lu ke ming
+盧克沃頓	lu ke wo dun
+盧瑟	lu se
+盧瑟海德	lu se hai de
+盧偉	lu wei
+路遙	lu yao
+路易斯斯科拉	lu yi si si ke la
+路易斯威廉姆斯	lu yi si wei lian mu si
+輪轉換位	lun zhuan huan wei
+羅比喬伊諾	luo bi qiao yi nuo
+羅賓洛佩茲	luo bin luo pei zi
+羅賓遜	luo bin xun
+羅伯特霍里	luo bo te huo li
+羅伯特帕裏什	luo bo te pa li shen
+羅伯特森	luo bo te sen
+羅伯特斯	luo bo te si
+羅伯特斯威福特	luo bo te si wei fu te
+羅德里格斯	luo de li ge si
+羅德尼懷特	luo de ni huai te
+羅德尼卡內	luo de ni ka nei
+羅德尼卡尼	luo de ni ka ni
+羅德尼斯塔基	luo de ni si ta ji
+羅恩阿泰斯特	luo en a tai si te
+羅爾鄧	luo er deng
+羅格馬森	luo ge ma sen
+羅傑梅森	luo jie mei sen
+羅克烏基奇	luo ke wu ji qi
+洛倫岑	luo lun cen
+洛倫岑賴特	luo lun cen lai te
+洛倫伍茲	luo lun wu zi
+羅馬羅托馬蒂卡	luo ma luo tuo ma di ka
+羅馬尼亞阿斯索夫特	luo ma ni ya a si suo fu te
+羅納德杜普雷	luo na de du pu lei
+羅納德杜普里	luo na de du pu li
+羅納德穆雷	luo na de mu lei
+羅尼布魯爾	luo ni bu lu er
+羅尼普萊斯	luo ni pu lai si
+羅尼圖里亞夫	luo ni tu li ya fu
+洛杉磯湖人	luo shan ji hu ren
+洛杉磯快船	luo shan ji kuai chuan
+洛杉磯快船隊	luo shan ji kuai chuan dui
+羅斯	luo si
+羅旭東	luo xu dong
+羅伊	luo yi
+羅伊埃維	luo yi ai wei
+羅伊爾伊沃伊	luo yi er yi wo yi
+羅伊希伯特	luo yi xi bo te
+羅智	luo zhi
+呂曉明	lv xiao ming
+呂岩	lv yan
+馬布裏	ma bu li
+馬刺	ma ci
+馬德里埃斯圖典特斯	ma de li ai si tu dian te si
+馬蒂科林斯	ma di ke lin si
+馬丁	ma ding
+馬爾庫斯威廉姆斯	ma er ku si wei lian mu si
+馬爾文威廉姆斯	ma er wen wei lian mu si
+馬爾辛	ma er xin
+馬爾辛戈塔特	ma er xin ge ta te
+馬蓋蒂	ma gai di
+馬格洛伊爾	ma ge luo yi er
+馬健	ma jian
+馬克貝里內利	ma ke bei li nei li
+馬科貝里內利	ma ke bei li nei li
+馬可波羅	ma ke bo luo
+馬克布朗特	ma ke bu lang te
+馬科賈裏奇	ma ke jia li qi
+馬克加索爾	ma ke jia suo er
+馬克馬德森	ma ke ma de sen
+馬克麥德森	ma ke mai de sen
+馬克希爾	ma ke xi er
+馬庫斯班克斯	ma ku si ban ke si
+馬庫斯費澤爾	ma ku si fei ze er
+馬庫斯坎比	ma ku si kan bi
+馬庫斯威廉姆斯	ma ku si wei lian mu si
+馬庫斯文尼西斯	ma ku si wen ni xi si
+馬奎斯丹尼爾斯	ma kui si dan ni er si
+馬里昂	ma li ang
+馬里奧韋斯特	ma li ao wei si te
+馬里克阿倫	ma li ke a lun
+馬里克羅斯	ma li ke luo si
+馬努吉諾比利	ma nu ji nuo bi li
+馬紹爾	ma shao er
+馬特巴恩斯	ma te ba en si
+馬特巴內斯	ma te ba nei si
+馬特邦納	ma te bang na
+馬特博納爾	ma te bo na er
+馬特爾韋伯斯特	ma te er wei bo si te
+馬特哈普林	ma te ha pu lin
+馬特哈普靈	ma te ha pu ling
+馬特卡洛	ma te ka luo
+馬特卡羅爾	ma te ka luo er
+馬文威廉姆斯	ma wen wei lian mu si
+馬西奧巴斯頓	ma xi ao ba si dun
+馬西耶蘭佩	ma xi ye lan pei
+邁阿密熱	mai a mi re
+邁阿密熱火	mai a mi re huo
+麥蒂	mai di
+麥迪遜廣場	mai di xun guang chang
+麥迪遜廣場花園	mai di xun guang chang hua yuan
+邁爾斯	mai er si
+麥格雷迪	mai ge lei di
+麥葛瑞迪	mai ge rui di
+麥金尼斯	mai jin ni si
+麥卡布蘭迪	mai ka bu lan di
+邁卡蒂	mai ka di
+邁克畢比	mai ke bi bi
+麥克畢比	mai ke bi bi
+麥克戴斯	mai ke dai si
+邁克鄧利維	mai ke deng li wei
+麥克鄧利維	mai ke deng li wei
+邁克爾奧洛沃坎迪	mai ke er ao luo wo kan di
+邁克爾比斯利	mai ke er bi si li
+邁克爾多列亞克	mai ke er duo lie ya ke
+邁克爾芬利	mai ke er fen li
+邁克爾吉拉巴勒	mai ke er ji la ba le
+邁克爾裏德	mai ke er li de
+邁克爾皮特魯斯	mai ke er pi te lu si
+邁克爾喬丹	mai ke er qiao dan
+邁克爾斯維特尼	mai ke er si wei te ni
+麥克格雷迪	mai ke ge lei di
+邁克哈里斯	mai ke ha li si
+麥克海爾	mai ke hai er
+邁克康利	mai ke kang li
+麥克康利	mai ke kang li
+麥克奎爾	mai ke kui er
+邁克里奧德	mai ke li ao de
+邁克魯芬	mai ke lu fen
+麥克羅伯茨	mai ke luo bo ci
+邁克米勒	mai ke mi le
+麥克米勒	mai ke mi le
+邁克泰勒	mai ke tai le
+麥克圖科	mai ke tu ke
+邁克威爾金斯	mai ke wei er jin si
+麥克維爾克斯	mai ke wei er ke si
+邁克詹姆斯	mai ke zhan mu si
+麥克詹姆斯	mai ke zhan mu si
+麥肯茨	mai ken ci
+曼雷沙	man lei sha
+曼努吉諾比利	man nu ji nuo bi li
+梅奧	mei ao
+沒道德	mei dao de
+梅爾文埃裏	mei er wen ai li
+梅爾文埃利	mei er wen ai li
+玫瑰花園球館	mei gui hua yuan qiu guan
+美國大陸籃球協會	mei guo da lu lan qiu xie hui
+美國大學生運動協會	mei guo da xue sheng yun dong xie hui
+美國大學運動協會	mei guo da xue yun dong xie hui
+美國高中籃球聯賽	mei guo gao zhong lan qiu lian sai
+美國國家籃球聯盟	mei guo guo jia lan qiu lian meng
+美國國家籃球協會	mei guo guo jia lan qiu xie hui
+美國航空中心	mei guo hang kong zhong xin
+美國航空中心球場	mei guo hang kong zhong xin qiu chang
+美國籃球協會	mei guo lan qiu xie hui
+美國業餘籃球聯盟	mei guo ye yu lan qiu lian meng
+美國職籃聯盟	mei guo zhi lan lian meng
+美國職業籃球聯盟	mei guo zhi ye lan qiu lian meng
+美航球館	mei hang qiu guan
+梅米特	mei mi te
+梅米特奧庫	mei mi te ao ku
+梅諾卡	mei nuo ka
+梅森	mei sen
+美西球館	mei xi qiu guan
+美洲籃球聯合會	mei zhou lan qiu lian he hui
+美洲聯盟杯	mei zhou lian meng bei
+美洲聯賽	mei zhou lian sai
+美洲男籃錦標賽	mei zhou nan lan jin biao sai
+門維	men wei
+孟達	meng da
+孟鐸	meng duo
+孟菲斯灰熊	meng fei si hui xiong
+孟菲斯灰熊隊	meng fei si hui xiong dui
+猛龍	meng long
+蒙塔埃利斯	meng ta ai li si
+孟塔伊利斯	meng ta yi li si
+蒙特格拉納羅	meng te ge la na luo
+米爾薩普	mi er sa pu
+米爾特帕勒西奧	mi er te pa le xi ao
+密爾沃基雄鹿	mi er wo ji xiong lu
+米基	mi ji
+米基莫爾	mi ji mo er
+米蘭阿瑪尼	mi lan a ma ni
+米勒	mi le
+米里西奇	mi li xi qi
+米利西奇	mi li xi qi
+米姆	mi mu
+明尼蘇達湖人	ming ni su da hu ren
+明尼蘇達森林狼	ming ni su da sen lin lang
+明尼蘇達森林狼隊	ming ni su da sen lin lang dui
+名人堂	ming ren tang
+命中率	ming zhong lv
+繆壽守	miu shou shou
+莫布里	mo bu li
+莫科	mo ke
+莫里森	mo li sen
+莫里斯阿爾蒙德	mo li si a er meng de
+莫里斯艾格爾	mo li si ai ge er
+莫里斯艾文斯	mo li si ai wen si
+莫里斯埃文斯	mo li si ai wen si
+莫里斯皮特森	mo li si pi te sen
+莫里斯泰勒	mo li si tai le
+莫里斯威廉姆斯	mo li si wei lian mu si
+莫內特	mo nei te
+莫寧	mo ning
+莫瑞斯威廉姆斯	mo rui si wei lian mu si
+魔術	mo shu
+魔術師約翰遜	mo shu shi yue han xun
+摩西馬龍	mo xi ma long
+姆本加	mu ben jia
+穆恩	mu en
+穆爾西亞	mu er xi ya
+木拉提阿地裏江	mu la ti a di li jiang
+穆雷	mu lei
+牡鹿	mu lu
+姆鵬加	mu peng jia
+穆斯塔法沙庫爾	mu si ta fa sha ku er
+穆鐵柱	mu tie zhu
+穆託姆博	mu tuo mu bo
+那不勒斯卡皮薩	na bu le si ka pi sa
+納胡拉	na hu la
+納克巴	na ke ba
+納什	na shi
+納瓦羅	na wa luo
+納茲爾莫罕默德	na zi er mo han mo de
+南鋼	nan gang
+男籃世錦賽	nan lan shi jin sai
+內內	nei nei
+內斯特洛維奇	nei si te luo wei qi
+內特	nei te
+內特羅賓遜	nei te luo bin xun
+內外結合	nei wai jie he
+內線	nei xian
+尼爾森	ni er sen
+尼古拉斯巴圖姆	ni gu la si ba tu mu
+尼克範埃克塞爾	ni ke fan ai ke sai er
+尼克費茲卡斯	ni ke fei zi ka si
+尼克科裏森	ni ke ke li sen
+尼克斯	ni ke si
+尼克揚	ni ke yang
+尼姆波克	ni mu bo ke
+涅頓	nie dun
+紐貝爾	niu bei er
+紐約尼克斯	niu yue ni ke si
+諾阿	nuo a
+諾爾法利克斯	nuo er fa li ke si
+諾維茨基	nuo wei ci ji
+諾西奧尼	nuo xi ao ni
+女籃世錦賽	nv lan shi jin sai
+歐文斯	ou wen si
+歐洲籃球聯合會	ou zhou lan qiu lian he hui
+歐洲聯賽	ou zhou lian sai
+歐洲男籃錦標賽	ou zhou nan lan jin biao sai
+帕楚里亞	pa chu li ya
+帕楚利亞	pa chu li ya
+帕德博恩	pa de bo en
+帕夫洛維奇	pa fu luo wei qi
+帕金斯	pa jin si
+帕克	pa ke
+帕勒西奧	pa le xi ao
+帕特伯克	pa te bo ke
+帕特加里蒂	pa te jia li di
+帕特里克奧布萊恩特	pa te li ke ao bu lai en te
+帕特里克奧布賴恩特	pa te li ke ao bu lai en te
+帕特里克尤因	pa te li ke you yin
+帕特森	pa te sen
+潘江	pan jiang
+潘內利尼奧斯	pan nei li ni ao si
+潘尼奧尼奧斯	pan ni ao ni ao si
+叛逆者隊	pan ni zhe dui
+盼盼	pan pan
+盼盼隊	pan pan dui
+跑轟	pao hong
+炮轟旋風	pao hong xuan feng
+佩頓	pei dun
+佩賈斯托賈科維奇	pei jia si tuo jia ke wei qi
+佩洛維奇	pei luo wei qi
+佩羅維奇	pei luo wei qi
+佩普索烏	pei pu suo wu
+佩切洛夫	pei qie luo fu
+佩特羅	pei te luo
+彭飛	peng fei
+皮爾斯	pi er si
+皮蓬	pi peng
+皮特	pi te
+皮特魯斯	pi te lu si
+皮特森	pi te sen
+皮亞考斯基	pi ya kao si ji
+匹茲保鐵人	pi zi bao tie ren
+匹茲保鐵人隊	pi zi bao tie ren dui
+普萊斯	pu lai si
+普雷斯特	pu lei si te
+普里茨比拉	pu li ci bi la
+普里莫茲	pu li mo zi
+普里莫茲佈雷澤克	pu li mo zi bu lei ze ke
+普林斯	pu lin si
+普林斯頓打發	pu lin si dun da fa
+普林斯頓體系	pu lin si dun ti xi
+普魯伊特	pu lu yi te
+普羅維登斯蒸氣	pu luo wei deng si zheng qi
+普羅維登斯蒸氣隊	pu luo wei deng si zheng qi dui
+葡萄牙奧瓦倫斯航空	pu tao ya ao wa lun si hang kong
+普茲比拉	pu zi bi la
+奇才	qi cai
+奇克薩姆布	qi ke sa mu bu
+七六人	qi liu ren
+七六人隊	qi liu ren dui
+騎士	qi shi
+七十六人	qi shi liu ren
+七十六人隊	qi shi liu ren dui
+前場	qian chang
+錢澄海	qian cheng hai
+錢德勒	qian de le
+錢寧弗萊	qian ning fu lai
+搶斷	qiang duan
+搶斷王	qiang duan wang
+強力灌籃	qiang li guan lan
+強力中鋒	qiang li zhong feng
+喬安東尼	qiao an dong ni
+喬丹	qiao dan
+喬丹法瑪爾	qiao dan fa ma er
+喬爾安東尼	qiao er an dong ni
+喬爾普里茨比拉	qiao er pu li ci bi la
+喬金	qiao jin
+喬金諾阿	qiao jin nuo a
+喬克勞福德	qiao ke lao fu de
+喬什柴德里斯	qiao shen chai de li si
+喬什霍華德	qiao shen huo hua de
+喬什麥克羅伯茨	qiao shen mai ke luo bo ci
+喬什史密斯	qiao shen shi mi si
+喬史密斯	qiao shi mi si
+喬斯巴瑞爾	qiao si ba rui er
+喬亞歷山大	qiao ya li shan da
+喬伊多西	qiao yi duo xi
+喬伊格拉漢姆	qiao yi ge la han mu
+喬伊諾	qiao yi nuo
+喬約翰遜	qiao yue han xun
+喬治	qiao zhi
+喬治格溫	qiao zhi ge wen
+喬治賈巴尤薩	qiao zhi jia ba you sa
+喬治邁肯	qiao zhi mai ken
+喬治希爾	qiao zhi xi er
+切入	qie ru
+秦鵬	qin peng
+青島雙星	qing dao shuang xing
+瓊斯	qiong si
+球必須觸及籃框	qiu bi xu chu ji lan kuang
+邱彪	qiu biao
+球出界	qiu chu jie
+球出界線	qiu chu jie xian
+球隊犯規	qiu dui fan gui
+球隊吉祥物	qiu dui ji xiang wu
+球隊經理	qiu dui jing li
+球隊球員	qiu dui qiu yuan
+球隊訓練員	qiu dui xun lian yuan
+曲紹斌	qu shao bin
+區域防守	qu yu fang shou
+區域聯防	qu yu lian fang
+驅逐出場	qu zhu chu chang
+全場比賽	quan chang bi sai
+全場緊逼	quan chang jin bi
+全美第一隊	quan mei di yi dui
+全美籃協會	quan mei lan xie hui
+全明星賽	quan ming xing sai
+全時暫停	quan shi zan ting
+全體後備球員	quan ti hou bei qiu yuan
+全體替換球員	quan ti ti huan qiu yuan
+全體先發球員	quan ti xian fa qiu yuan
+全體支持球員	quan ti zhi chi qiu yuan
+熱火	re huo
+人盯人防守	ren ding ren fang shou
+榮鋼	rong gang
+瑞安勃文	rui an bo wen
+瑞樂馬紹爾	rui le ma shao er
+瑞士奧林貝納通	rui shi ao lin bei na tong
+薩博塞福羅薩	sa bo sai fu luo sa
+薩爾蒙斯	sa er meng si
+薩格勒布希波納	sa ge le bu xi bo na
+薩克拉門託國王	sa ke la men tuo guo wang
+薩克拉門託國王隊	sa ke la men tuo guo wang dui
+薩馬基	sa ma ji
+薩繆爾戴勒姆波特	sa miu er dai le mu bo te
+薩姆布	sa mu bu
+薩姆卡塞爾	sa mu ka sai er
+薩姆瓊斯	sa mu qiong si
+薩沙烏賈基茨	sa sha wu jia ji ci
+塞巴斯蒂安特爾費爾	sai ba si di an te er fei er
+賽程	sai cheng
+塞德里克西蒙斯	sai de li ke xi meng si
+塞爾吉奧羅德里格斯	sai er ji ao luo de li ge si
+塞爾提克	sai er ti ke
+塞爾維亞海默法爾姆	sai er wei ya hai mo fa er mu
+塞爾維亞澤雷齊尼克	sai er wei ya ze lei qi ni ke
+塞爾希尼	sai er xi ni
+塞福羅薩	sai fu luo sa
+塞內	sai nei
+塞薩洛尼卡阿里斯	sai sa luo ni ka a li si
+塞申斯	sai shen si
+三步上籃	san bu shang lan
+三不沾	san bu zhan
+三分大賽	san fen da sai
+三分球	san fen qiu
+三分球命中率	san fen qiu ming zhong lv
+三分射手	san fen she shou
+三分線	san fen xian
+三號位置球員	san hao wei zhi qiu yuan
+三角進攻	san jiao jin gong
+三角戰術	san jiao zhan shu
+三秒區	san miao qu
+三秒違例	san miao wei li
+三人包夾	san ren bao jia
+三雙	san shuang
+桑賈拉	sang jia la
+桑普森	sang pu sen
+森林狼	sen lin lang
+森史密斯	sen shi mi si
+沙恩巴蒂爾	sha en ba di er
+沙福裏克蘭多夫	sha fu li ke lan duo fu
+沙奎爾	sha kui er
+沙奎爾奧尼爾	sha kui er ao ni er
+沙裏姆	sha li mu
+沙裏姆斯塔德邁爾	sha li mu si ta de mai er
+山東黃金	shan dong huang jin
+山頓安德森	shan dun an de sen
+山貓	shan mao
+陝西東盛	shan xi dong sheng
+陝西漢斯	shan xi han si
+陝西漢斯隊	shan xi han si dui
+陝西麒麟	shan xi qi lin
+陝西麒麟隊	shan xi qi lin dui
+陝西亞旅聯盟	shan xi ya lv lian meng
+山西中宇	shan xi zhong yu
+山西中宇隊	shan xi zhong yu dui
+上半場	shang ban chang
+上海大鯊魚	shang hai da sha yu
+上海東方	shang hai dong fang
+上海匯中隊	shang hai hui zhong dui
+上海西洋	shang hai xi yang
+上籃	shang lan
+紹萊	shao lai
+邵天罡	shao tian gang
+聖安東尼奧馬刺	sheng an dong ni ao ma ci
+聖安東尼奧馬刺隊	sheng an dong ni ao ma ci dui
+勝場場數	sheng chang chang shu
+聖路易斯轟炸機	sheng lu yi si hong zha ji
+聖路易斯轟炸機隊	sheng lu yi si hong zha ji dui
+施冰兵	shi bing bing
+史蒂芬布雷克	shi di fen bu lei ke
+史蒂芬傑克遜	shi di fen jie ke xun
+史蒂夫布萊克	shi di fu bu lai ke
+史蒂夫弗朗西斯	shi di fu fu lang xi si
+史蒂夫亨特	shi di fu heng te
+史蒂夫納什	shi di fu na shi
+史蒂夫諾瓦克	shi di fu nuo wa ke
+史蒂文亨特	shi di wen heng te
+史蒂文森	shi di wen sen
+時間只剩下	shi jian zhi sheng xia
+時間終了	shi jian zhong liao
+史密斯	shi mi si
+失誤	shi wu
+時限鍾	shi xian zhong
+首鋼	shou gang
+首輪比賽	shou lun bi sai
+雙方均持球不放	shuang fang jun chi qiu bu fang
+雙方爭奪籃板球	shuang fang zheng duo lan ban qiu
+雙鹿電池	shuang lu dian chi
+雙鹿電池隊	shuang lu dian chi dui
+雙星	shuang xing
+水屋中心	shui wu zhong xin
+水屋中心體育館	shui wu zhong xin ti yu guan
+順位	shun wei
+斯班瑟	si ban se
+斯班瑟豪耶斯	si ban se hao ye si
+斯賓塞霍伊斯	si bin sai huo yi si
+斯蒂法尼拉斯姆	si di fa ni la si mu
+斯蒂芬格拉漢姆	si di fen ge la han mu
+斯蒂芬傑克遜	si di fen jie ke xun
+斯蒂芬馬布裏	si di fen ma bu li
+斯蒂夫諾瓦克	si di fu nuo wa ke
+四號位置球員	si hao wei zhi qiu yuan
+斯基納	si ji na
+斯卡法蒂	si ka fa di
+斯卡拉布賴恩	si ka la bu lai en
+斯卡沃里尼	si ka wo li ni
+斯科拉	si ke la
+斯科特波拉德	si ke te bo la de
+斯拉斯克	si la si ke
+斯馬什	si ma shen
+斯馬什帕克	si ma shen pa ke
+斯彌恩	si mi en
+斯奈德	si nai de
+斯諾	si nuo
+斯皮蒂	si pi di
+斯皮蒂克拉克斯頓	si pi di ke la ke si dun
+死球	si qiu
+四雙	si shuang
+斯塔德邁爾	si ta de mai er
+斯塔基	si ta ji
+斯塔克豪斯	si ta ke hao si
+斯臺普斯	si tai pu si
+斯臺普斯球館	si tai pu si qiu guan
+斯坦德邁爾	si tan de mai er
+斯特雷	si te lei
+斯特羅貝里	si te luo bei li
+斯特羅邁爾	si te luo mai er
+斯特羅邁爾斯威夫特	si te luo mai er si wei fu te
+斯托賈科維奇	si tuo jia ke wei qi
+斯托克頓	si tuo ke dun
+斯威夫特	si wei fu te
+斯威福特	si wei fu te
+斯維特尼	si wei te ni
+斯澤比亞克	si ze bi ya ke
+宋康明	song kang ming
+宋濤	song tao
+蘇偉	su wei
+隋建國	sui jian guo
+睢冉	sui ran
+隋曉龍	sui xiao long
+孫春磊	sun chun lei
+孫鳳武	sun feng wu
+孫杰	sun jie
+孫天農	sun tian nong
+孫悅	sun yue
+孫忠誠	sun zhong cheng
+索頓	suo dun
+索恩河畔沙隆	suo en he pan sha long
+所羅門瓊斯	suo luo men qiong si
+索洛蒙瓊斯	suo luo meng qiong si
+索蒙斯	suo meng si
+塔杜斯	ta du si
+塔杜斯揚	ta du si yang
+塔克	ta ke
+塔史密斯	ta shi mi si
+泰拉莫納維格	tai la mo na wei ge
+泰勒	tai le
+泰龍魯	tai long lu
+太平洋區	tai ping yang qu
+泰瑞斯	tai rui si
+泰瑞斯托馬斯	tai rui si tuo ma si
+泰森錢德勒	tai sen qian de le
+泰夏安	tai xia an
+泰夏安普林斯	tai xia an pu lin si
+太陽	tai yang
+探花秀	tan hua xiu
+唐海	tang hai
+湯米史密斯	tang mi shi mi si
+唐尼爾	tang ni er
+唐尼爾馬紹爾	tang ni er ma shao er
+唐耶爾馬紹爾	tang ye er ma shao er
+唐正東	tang zheng dong
+陶瑞恩	tao rui en
+陶瑞恩格林	tao rui en ge lin
+陶濤	tao tao
+特爾費爾	te er fei er
+特克格魯	te ke ge lu
+特科格魯	te ke ge lu
+特拉維斯	te la wei si
+特拉維斯奧特勞	te la wei si ao te lao
+特拉維斯迪安納	te la wei si di an na
+特蘭頓	te lan dun
+特蘭頓哈塞爾	te lan dun ha sai er
+特雷維索貝納通	te lei wei suo bei na tong
+特雷沃	te lei wo
+特雷沃阿里扎	te lei wo a li zha
+特雷西麥格雷迪	te lei xi mai ge lei di
+特雷西麥克格雷迪	te lei xi mai ke ge lei di
+特里	te li
+特里爾霍爾佐格電信	te li er huo er zuo ge dian xin
+特倫頓哈塞爾	te lun dun ha sai er
+特倫斯肯塞	te lun si ken sai
+特羅伊哈德森	te luo yi ha de sen
+特羅伊墨菲	te luo yi mo fei
+替補球員	ti bu qiu yuan
+替換球員	ti huan qiu yuan
+體能教練	ti neng jiao lian
+田超	tian chao
+天溝	tian gou
+天津榮鋼	tian jin rong gang
+跳球	tiao qiu
+跳投	tiao tou
+停賽	ting sai
+汀斯利	ting si li
+停止出賽	ting zhi chu sai
+通鋼	tong gang
+通鋼隊	tong gang dui
+投籃得分	tou lan de fen
+投籃外空心球	tou lan wai kong xin qiu
+投球命中	tou qiu ming zhong
+投球命中率	tou qiu ming zhong lv
+投手	tou shou
+土耳其貝西克塔斯	tu er qi bei xi ke ta si
+土耳其電信	tu er qi dian xin
+突分	tu fen
+圖里亞夫	tu li ya fu
+圖羅夫	tu luo fu
+突破	tu po
+退役球員	tui yi qiu yuan
+托馬斯	tuo ma si
+托馬斯加德納	tuo ma si jia de na
+托米奇	tuo mi qi
+託尼阿倫	tuo ni a lun
+託尼巴蒂	tuo ni ba di
+託尼德爾克	tuo ni de er ke
+託尼帕克	tuo ni pa ke
+託球入籃	tuo qiu ru lan
+託球上籃	tuo qiu shang lan
+瓦夫	wa fu
+瓦萊喬	wa lai qiao
+瓦雷澤	wa lei ze
+瓦里克	wa li ke
+瓦倫西亞帕梅薩	wa lun xi ya pa mei sa
+瓦斯里斯	wa si li si
+瓦斯里斯斯潘諾里斯	wa si li si si pan nuo li si
+外線	wai xian
+萬馬	wan ma
+萬馬電纜隊	wan ma dian lan dui
+王斌	wang bin
+王博	wang bo
+王大勇	wang da yong
+王飛	wang fei
+王浩	wang hao
+王磊	wang lei
+王立彬	wang li bin
+王立剛	wang li gang
+王世龍	wang shi long
+王仕鵬	wang shi peng
+王信凱	wang xin kai
+汪義航	wang yi hang
+王勇	wang yong
+王徵	wang zheng
+王治郅	wang zhi zhi
+王中光	wang zhong guang
+韋伯	wei bo
+韋伯斯特	wei bo si te
+韋德	wei de
+維多利亞陶	wei duo li ya tao
+維爾拜姆	wei er bai mu
+威爾拜納姆	wei er bai na mu
+威爾弗瑞斯貝	wei er fu rui si bei
+威爾金斯	wei er jin si
+韋爾考克斯	wei er kao ke si
+威爾考克斯	wei er kao ke si
+威爾森錢德勒	wei er sen qian de le
+威爾斯	wei er si
+威爾特張伯倫	wei er te zhang bo lun
+威爾遜錢德勒	wei er xun qian de le
+偉光	wei guang
+維克頓瓦夫	wei ke dun wa fu
+維克多卡亞帕	wei ke duo ka ya pa
+維拉紐瓦	wei la niu wa
+維蘭紐瓦	wei lan niu wa
+違例	wei li
+威利格林	wei li ge lin
+威利斯里德	wei li si li de
+威廉姆斯	wei lian mu si
+魏明亮	wei ming liang
+維尼斯彌恩	wei ni si mi en
+韋斯利	wei si li
+韋斯特	wei si te
+維塔利波塔潘科	wei ta li bo ta pan ke
+文貝克	wen bei ke
+文尼西斯	wen ni xi si
+文斯比爾斯	wen si bi er si
+文斯卡特	wen si ka te
+沃頓	wo dun
+沃恩	wo en
+沃爾特弗雷澤	wo er te fu lei ze
+沃爾特赫爾曼	wo er te he er man
+沃爾特邁卡蒂	wo er te mai ka di
+沃弗爾	wo fu er
+沃克	wo ke
+沃利斯澤比亞克	wo li si ze bi ya ke
+沃什萊納德	wo shi lai na de
+沃斯庫爾	wo si ku er
+沃特金斯	wo te jin si
+沃特森	wo te sen
+沃西	wo xi
+烏迪內斯奈德羅	wu di nei si nai de luo
+烏度卡	wu du ka
+烏杜尼斯	wu du ni si
+烏杜尼斯哈斯勒姆	wu du ni si ha si le mu
+烏爾姆一八四六	wu er mu yi ba si liu
+五號位置球員	wu hao wei zhi qiu yuan
+烏基奇	wu ji qi
+武賈切奇	wu jia qie qi
+吳軻	wu ke
+烏克蘭阿佐馬什	wu ke lan a zuo ma shen
+吳理義	wu li yi
+吳龍	wu long
+吳乃羣	wu nai qun
+吳楠	wu nan
+吳謙	wu qian
+無球犯規	wu qiu fan gui
+無球跑動	wu qiu pao dong
+吳頌偉	wu song wei
+吳洋	wu yang
+伍茲	wu zi
+希奧利埃	xi ao li ai
+西班牙巴塞羅納	xi ban ya ba sai luo na
+西班牙畢爾巴厄	xi ban ya bi er ba e
+西班牙費爾南多	xi ban ya fei er nan duo
+西班牙弗恩拉布拉達	xi ban ya fu en la bu la da
+西班牙格拉納達	xi ban ya ge la na da
+西班牙皇家馬德里	xi ban ya huang jia ma de li
+西班牙卡那裏亞	xi ban ya ka na li ya
+西班牙馬拉加	xi ban ya ma la jia
+西班牙曼雷沙	xi ban ya man lei sha
+西班牙梅諾卡	xi ban ya mei nuo ka
+西班牙穆爾西亞	xi ban ya mu er xi ya
+西班牙瓦拉多利德	xi ban ya wa la duo li de
+西班牙維多利亞陶	xi ban ya wei duo li ya tao
+西班牙尤文圖特	xi ban ya you wen tu te
+西北賽區	xi bei sai qu
+西部聯盟	xi bu lian meng
+希達耶特	xi da ye te
+希達耶特特科格魯	xi da ye te te ke ge lu
+西恩馬克斯	xi en ma ke si
+希恩馬克思	xi en ma ke si
+西恩威廉姆斯	xi en wei lian mu si
+希恩威廉姆斯	xi en wei lian mu si
+希爾	xi er
+希爾頓阿姆斯特朗	xi er dun a mu si te lang
+希克森	xi ke sen
+希臘潘內利尼奧斯	xi la pan nei li ni ao si
+希臘潘尼奧尼奧斯	xi la pan ni ao ni ao si
+西蒙斯	xi meng si
+希姆基	xi mu ji
+希姆斯	xi mu si
+西南區	xi nan qu
+西南賽區	xi nan sai qu
+西雅圖超音速	xi ya tu chao yin su
+西雅圖超音速隊	xi ya tu chao yin su dui
+西耶納蒙特帕希	xi ye na meng te pa xi
+下半場	xia ban chang
+夏洛特山貓	xia luo te shan mao
+夏洛特體育館	xia luo te ti yu guan
+先發球員	xian fa qiu yuan
+先發陣容	xian fa zhen rong
+享德森	xiang de sen
+香農布朗	xiang nong bu lang
+小奧尼爾	xiao ao ni er
+肖恩巴蒂爾	xiao en ba di er
+肖恩利文斯頓	xiao en li wen si dun
+肖恩馬里昂	xiao en ma li ang
+肖恩威廉姆斯	xiao en wei lian mu si
+小牛	xiao niu
+小前鋒	xiao qian feng
+小球戰術	xiao qiu zhan shu
+謝爾頓威廉姆斯	xie er dun wei lian mu si
+協防	xie fang
+解立彬	xie li bin
+謝里夫阿卜杜拉希姆	xie li fu a bu du la xi mu
+新奧爾良黃蜂	xin ao er liang huang feng
+新奧爾良黃蜂隊	xin ao er liang huang feng dui
+新奧爾良球館	xin ao er liang qiu guan
+辛格爾頓	xin ge er dun
+辛格特里	xin ge te li
+新疆飛虎	xin jiang fei hu
+新疆飛虎隊	xin jiang fei hu dui
+新疆廣匯	xin jiang guang hui
+新疆廣匯隊	xin jiang guang hui dui
+辛歷頓	xin li dun
+辛裏奇	xin li qi
+新世紀隊	xin shi ji dui
+新秀	xin xiu
+新秀第一陣容	xin xiu di yi zhen rong
+新秀挑戰賽	xin xiu tiao zhan sai
+新澤西籃網	xin ze xi lan wang
+新澤西網	xin ze xi wang
+邢璐	xing lu
+雄鹿	xiong lu
+休斯頓火箭	xiu si dun huo jian
+休斯敦火箭	xiu si dun huo jian
+徐國翀	xu guo chong
+徐磊	xu lei
+徐旭	xu xu
+許鍾豪	xu zhong hao
+薛玉洋	xue yu yang
+亞當哈盧卡斯	ya dang ha lu ka si
+亞當莫里森	ya dang mo li sen
+雅克赫巴	ya ke he ba
+雅克赫巴迪阿瓦拉	ya ke he ba di a wa la
+雅克沃恩	ya ke wo en
+亞歷山大帕夫洛維奇	ya li shan da pa fu luo wei qi
+亞歷山大約翰遜	ya li shan da yue han xun
+雅羅斯拉夫科羅勒夫	ya luo si la fu ke luo le fu
+亞旅聯盟	ya lv lian meng
+亞特蘭大老鷹	ya te lan da lao ying
+亞特蘭大鷹	ya te lan da ying
+亞特蘭龍	ya te lan long
+亞洲籃球聯合會	ya zhou lan qiu lian he hui
+亞洲聯盟杯	ya zhou lian meng bei
+亞洲聯賽	ya zhou lian sai
+亞洲男籃錦標賽	ya zhou nan lan jin biao sai
+延長賽	yan chang sai
+楊超	yang chao
+楊庚霖	yang geng lin
+楊槐	yang huai
+楊力	yang li
+楊鳴	yang ming
+楊欽	yang qin
+楊文博	yang wen bo
+楊玉明	yang yu ming
+搖擺人	yao bai ren
+姚鍇夫	yao kai fu
+姚明	yao ming
+姚鵬	yao peng
+要球	yao qiu
+鑰匙球場	yao shi qiu chang
+要位	yao wei
+耶爾土倫	ye er tu lun
+耶路撒冷哈勃爾	ye lu sa leng ha bo er
+耶拿科學城	ye na ke xue cheng
+業餘籃球聯盟	ye yu lan qiu lian meng
+意大利奧蘭多	yi da li ao lan duo
+意大利甲級聯賽	yi da li jia ji lian sai
+意大利坎圖	yi da li kan tu
+意大利籃球甲級聯賽	yi da li lan qiu jia ji lian sai
+意大利蒙特格拉納羅	yi da li meng te ge la na luo
+意大利米蘭阿瑪尼	yi da li mi lan a ma ni
+意大利斯卡法蒂	yi da li si ka fa di
+意大利斯卡沃里尼	yi da li si ka wo li ni
+意大利泰拉莫納維格	yi da li tai la mo na wei ge
+意大利瓦雷澤	yi da li wa lei ze
+一對一	yi dui yi
+伊爾格斯卡斯	yi er ge si ka si
+伊戈達拉	yi ge da la
+伊格達拉	yi ge da la
+伊古奧達拉	yi gu ao da la
+一號位置球員	yi hao wei zhi qiu yuan
+易建聯	yi jian lian
+伊克迪奧古	yi ke di ao gu
+易立	yi li
+伊曼紐爾吉諾比利	yi man niu er ji nuo bi li
+伊斯坦布爾埃菲斯	yi si tan bu er ai fei si
+伊斯特班巴蒂斯塔	yi si te ban ba di si ta
+伊坦	yi tan
+伊坦托馬斯	yi tan tuo ma si
+伊沃伊	yi wo yi
+印第安納步行者	yin di an na bu xing zhe
+印第安納步行者隊	yin di an na bu xing zhe dui
+尹逵	yin kui
+尤德里	you de li
+尤杜卡	you du ka
+尤他爵士	you ta jue shi
+猶他爵士	you ta jue shi
+尤文圖特	you wen tu te
+於高峯	yu gao feng
+遇俊鍇	yu jun kai
+於梁	yu liang
+俞寧	yu ning
+於學林	yu xue lin
+約翰愛德華茲	yue han ai de hua zi
+約翰哈夫利切克	yue han ha fu li qie ke
+約翰盧卡斯三世	yue han lu ka si san shi
+約翰斯托克頓	yue han si tuo ke dun
+約翰索蒙斯	yue han suo meng si
+約翰托馬斯	yue han tuo ma si
+約翰遜	yue han xun
+約翰遜三世	yue han xun san shi
+約什鮑威爾	yue shi bao wei er
+約什布恩	yue shi bu en
+約什霍華德	yue shi huo hua de
+約什卡爾迪倫	yue shi ka er di lun
+約什史密斯	yue shi shi mi si
+月最佳	yue zui jia
+雲南奔牛	yun nan ben niu
+雲南奔牛隊	yun nan ben niu dui
+雲南紅河	yun nan hong he
+雲南紅河隊	yun nan hong he dui
+運球	yun qiu
+暫停	zan ting
+澤雷齊尼克	ze lei qi ni ke
+澤亞克雷布拉卡	ze ya ke lei bu la ka
+扎克卡巴卡帕	zha ke ka ba ka pa
+扎克蘭多夫	zha ke lan duo fu
+扎伊德魯納斯	zha yi de lu na si
+扎扎帕楚利亞	zha zha pa chu li ya
+翟金帥	zhai jin shuai
+戰績	zhan ji
+戰績表	zhan ji biao
+詹姆斯	zhan mu si
+詹姆斯奧古斯丁	zhan mu si ao gu si ding
+詹姆斯奧古斯汀	zhan mu si ao gu si ting
+詹姆斯波西	zhan mu si bo xi
+詹姆斯庫裏	zhan mu si ku li
+詹姆斯梅斯	zhan mu si mei si
+詹姆斯瓊斯	zhan mu si qiong si
+詹姆斯沃西	zhan mu si wo xi
+詹姆斯辛歷頓	zhan mu si xin li dun
+戰術教練	zhan shu jiao lian
+戰術篇	zhan shu pian
+張彪	zhang biao
+張博	zhang bo
+張成	zhang cheng
+張大宇	zhang da yu
+張東陽	zhang dong yang
+張驥	zhang ji
+張勁松	zhang jin song
+張俊雄	zhang jun xiong
+張凱	zhang kai
+張楠	zhang nan
+張慶鵬	zhang qing peng
+張睿	zhang rui
+張術	zhang shu
+張偉	zhang wei
+張衛平	zhang wei ping
+張曉薇	zhang xiao wei
+張學文	zhang xue wen
+張翼	zhang yi
+張勇	zhang yong
+張永鵬	zhang yong peng
+張雲松	zhang yun song
+張喆	zhang zhe
+張正旺	zhang zheng wang
+趙阿南	zhao a nan
+趙杭	zhao hang
+趙南	zhao nan
+趙泰隆	zhao tai long
+趙永剛	zhao yong gang
+趙志男	zhao zhi nan
+浙江廣廈	zhe jiang guang sha
+浙江廣廈建設	zhe jiang guang sha jian she
+浙江廣廈建設隊	zhe jiang guang sha jian she dui
+浙江萬馬	zhe jiang wan ma
+浙江萬馬電纜	zhe jiang wan ma dian lan
+浙江萬馬電纜隊	zhe jiang wan ma dian lan dui
+浙江萬馬隊	zhe jiang wan ma dui
+鄭海霞	zheng hai xia
+蒸氣隊	zheng qi dui
+爭球	zheng qiu
+鄭準	zheng zhun
+支持球員	zhi chi qiu yuan
+芝加哥公牛	zhi jia ge gong niu
+芝加哥牡鹿	zhi jia ge mu lu
+芝加哥牡鹿隊	zhi jia ge mu lu dui
+職籃聯盟	zhi lan lian meng
+職業籃球聯盟	zhi ye lan qiu lian meng
+中部賽區	zhong bu sai qu
+中場	zhong chang
+中場休息	zhong chang xiu xi
+中場休息時間	zhong chang xiu xi shi jian
+鍾誠	zhong cheng
+中鋒	zhong feng
+中國籃球聯盟	zhong guo lan qiu lian meng
+中距離投籃	zhong ju li tou lan
+中投	zhong tou
+中心球館	zhong xin qiu guan
+中宇	zhong yu
+周鵬	zhou peng
+周雪峯	zhou xue feng
+周最佳	zhou zui jia
+朱安迪克遜	zhu an di ke xun
+主場	zhu chang
+主場比賽	zhu chang bi sai
+主場優勢	zhu chang you shi
+主隊	zhu dui
+朱芳雨	zhu fang yu
+助功	zhu gong
+助攻	zhu gong
+助攻王	zhu gong wang
+朱漢波特洛	zhu han bo te luo
+朱利安賴特	zhu li an lai te
+助理教練	zhu li jiao lian
+朱利葉斯霍吉	zhu li ye si huo ji
+朱利葉斯歐文	zhu li ye si ou wen
+朱梅因瓊斯	zhu mei yin qiong si
+朱世龍	zhu shi long
+朱萬霍華德	zhu wan huo hua de
+朱雲龍	zhu yun long
+狀元秀	zhuang yuan xiu
+準決賽	zhun jue sai
+資深球員	zi shen qiu yuan
+總冠軍獎盃	zong guan jun jiang bei
+總決賽	zong jue sai
+棕熊	zong xiong
+走步	zou bu
+阻礙比賽正常進行	zu ai bi sai zheng chang jin xing
+阻擋犯規	zu dang fan gui
+阻攻	zu gong
+組織後衛	zu zhi hou wei
+最佳第六人	zui jia di liu ren
+最佳防守球員	zui jia fang shou qiu yuan
+最佳新秀	zui jia xin xiu
+最快進步獎	zui kuai jin bu jiang
+最快進步球員	zui kuai jin bu qiu yuan
+最有價值球員	zui you jia zhi qiu yuan

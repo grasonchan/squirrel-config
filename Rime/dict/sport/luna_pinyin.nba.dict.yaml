@@ -1,0 +1,643 @@
+# Rime dict
+# encoding: utf-8
+#
+# NBA 詞庫
+# 詞條來源：搜狗輸入法詞庫
+# 創建者：搜狗拼音輸入法
+# 更新：2017-05-11
+# 來源：https://pinyin.sogou.com/dict/detail/index/73660
+#
+# author: Graon Chan
+# GitHub: https://github.com/grasonchan/squirrel-config
+# **不去除** 與 Rime 預設詞彙表【八股文】重複的詞彙
+# 2021-02-02
+
+---
+name: "luna_pinyin.nba"
+version: "1.0.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿布裏內斯	a bu li nei si
+阿德里安	a de li an
+阿德託昆博	a de tuo kun bo
+阿爾德里奇	a er de li qi
+阿弗拉羅	a fu la luo
+阿金薩	a jin sa
+阿萊克斯	a lai ke si
+阿蘭	a lan
+阿蘭安德森	a lan an de sen
+阿里扎	a li zha
+阿隆	a long
+阿隆貝恩斯	a long bei en si
+阿隆戈登	a long ge deng
+阿倫	a lun
+阿倫克拉布	a lun ke la bu
+阿米奴	a mi nu
+阿奇	a qi
+阿泰斯特	a tai si te
+阿西克	a xi ke
+艾德戴維斯	ai de dai wei si
+埃爾弗裏德	ai er fu li de
+艾爾霍福德	ai er huo fu de
+艾爾傑弗森	ai er jie fu sen
+埃爾南戈麥斯	ai er nan ge mai si
+埃弗裏	ai fu li
+埃克薩姆	ai ke sa mu
+埃裏克	ai li ke
+埃利斯	ai li si
+埃文富尼耶	ai wen fu ni ye
+埃文斯	ai wen si
+埃文特納	ai wen te na
+埃澤利	ai ze li
+艾澤利	ai ze li
+安德烈羅伯森	an de lie luo bo sen
+安德魯哈里森	an de lu ha li sen
+安東尼	an dong ni
+安東尼戴維斯	an dong ni dai wei si
+奧布萊恩特	ao bu lai en te
+奧古斯汀	ao gu si ting
+奧卡福	ao ka fu
+奧卡羅懷特	ao ka luo huai te
+奧拉迪波	ao la di bo
+奧拉朱旺	ao la zhu wang
+奧蘭多魔術	ao lan duo mo shu
+奧利尼克	ao li ni ke
+奧尼爾	ao ni er
+奧胖	ao pang
+奧托波特	ao tuo bo te
+巴比特	ba bi te
+巴博薩	ba bo sa
+巴迪	ba di
+巴迪希爾德	ba di xi er de
+巴恩斯	ba en si
+巴里亞	ba li ya
+巴莫特	ba mo te
+巴莫特王子	ba mo te wang zi
+巴特勒	ba te le
+巴圖姆	ba tu mu
+半獸人	ban shou ren
+鮑比布朗	bao bi bu lang
+鮑德溫	bao de wen
+保羅	bao luo
+保羅皮爾斯	bao luo pi er si
+保羅齊普澤	bao luo qi pu ze
+保羅喬治	bao luo qiao zhi
+鮑威爾	bao wei er
+貝爾坦斯	bei er tan si
+貝弗利	bei fu li
+貝勒斯	bei le si
+貝里內利	bei li nei li
+本布里	ben bu li
+本德爾	ben de er
+本諾	ben nuo
+本西蒙斯	ben xi meng si
+比斯利	bi si li
+俾斯麥比永博	bi si mai bi yong bo
+別利察	bie li cha
+博班	bo ban
+波蒂斯	bo di si
+波爾津吉斯	bo er jin ji si
+伯克斯	bo ke si
+波普	bo pu
+波什	bo shen
+波士頓	bo shi dun
+波特蘭開拓者	bo te lan kai tuo zhe
+博揚	bo yang
+波伊思雷斯	bo yi si lei si
+布拉德利	bu la de li
+布萊恩羅伯茨	bu lai en luo bo ci
+布萊斯	bu lai si
+布賴斯	bu lai si
+布萊索	bu lai suo
+布蘭登	bu lan deng
+布蘭登巴斯	bu lan deng ba si
+布蘭登拉什	bu lan deng la shi
+布蘭登萊特	bu lan deng lai te
+布蘭登詹寧斯	bu lan deng zhan ning si
+布蘭頓	bu lan dun
+布蘭頓奈特	bu lan dun nai te
+布蘭頓詹寧斯	bu lan dun zhan ning si
+布雷克	bu lei ke
+布里安特	bu li an te
+布林福布斯	bu lin fu bu si
+布魯克	bu lu ke
+布魯克林	bu lu ke lin
+布魯克林籃網	bu lu ke lin lan wang
+布魯克斯	bu lu ke si
+布魯西諾	bu lu xi nuo
+布羅格登	bu luo ge deng
+步行者	bu xing zhe
+慈世平	ci shi ping
+達德利	da de li
+大加索爾	da jia suo er
+達拉斯小牛	da la si xiao niu
+達雷爾亞瑟	da lei er ya se
+達倫希爾拉德	da lun xi er la de
+達米安瓊斯	da mi an qiong si
+達米恩	da mi en
+大鳥伯德	da niao bo de
+大衛李	da wei li
+大衛努瓦巴	da wei nu wa ba
+大衛韋斯特	da wei wei si te
+戴德蒙	dai de meng
+戴蒙德斯通	dai meng de si tong
+戴維斯	dai wei si
+丹佛掘金隊	dan fo jue jin dui
+丹尼爾奧謝富	dan ni er ao xie fu
+丹尼爾斯	dan ni er si
+丹尼格林	dan ni ge lin
+道格	dao ge
+德安德烈喬丹	de an de lie qiao dan
+德安德魯	de an de lu
+德安吉洛	de an ji luo
+德懷特	de huai te
+德懷特霍華德	de huai te huo hua de
+德克	de ke
+德克爾	de ke er
+德拉	de la
+德拉蒙德	de la meng de
+德拉維多瓦	de la wei duo wa
+德萊尼	de lai ni
+德雷蒙德	de lei meng de
+德里克	de li ke
+德里克羅斯	de li ke luo si
+德隆	de long
+德隆萊特	de long lai te
+德羅贊	de luo zan
+德馬雷卡羅爾	de ma lei ka luo er
+德米特里厄斯	de mi te li e si
+德文布克	de wen bu ke
+德文哈里斯	de wen ha li si
+德揚泰	de yang tai
+德章泰	de zhang tai
+鄧恩	deng en
+鄧臺瓊斯	deng tai qiong si
+迪昂	di ang
+迪昂維特斯	di ang wei te si
+迪奧	di ao
+蒂姆弗雷澤	di mu fu lei ze
+蒂姆哈達威	di mu ha da wei
+蒂姆夸特曼	di mu kua te man
+帝師	di shi
+底特律	di te lv
+底特律活塞	di te lv huo sai
+丁維迪	ding wei di
+多倫多猛龍	duo lun duo meng long
+多納塔斯	duo na ta si
+俄克拉荷馬城	e ke la he ma cheng
+恩比德	en bi de
+恩尼斯	en ni si
+法裏德	fa li de
+範弗利特	fan fu li te
+費爾頓	fei er dun
+費利西奧	fei li xi ao
+菲尼克斯	fei ni ke si
+費斯圖斯	fei si tu si
+費沃斯	fei wo si
+菲茲戴爾	fei zi dai er
+芬尼史密斯	fen ni shi mi si
+弗雷德	fu lei de
+蓋伊	gai yi
+戈貝爾	ge bei er
+戈登	ge deng
+戈爾吉	ge er ji
+格拉漢姆	ge la han mu
+戈蘭德拉季奇	ge lan de la ji qi
+格蘭特	ge lan te
+格里芬	ge li fen
+格林	ge lin
+戈塔特	ge ta te
+古德溫	gu de wen
+國王	guo wang
+國王隊	guo wang dui
+哈登	ha deng
+哈克利斯	ha ke li si
+哈雷爾	ha lei er
+哈里森	ha li sen
+哈蒙斯	ha meng si
+哈斯勒姆	ha si le mu
+海沃德	hai wo de
+海佐尼亞	hai zuo ni ya
+漢密爾頓	han mi er dun
+赫佐尼亞	he zuo ni ya
+亨弗里斯	heng fu li si
+亨利埃倫森	heng li ai lun sen
+胡德	hu de
+湖人	hu ren
+胡斯蒂斯	hu si di si
+華盛頓奇才	hua sheng dun qi cai
+懷特海德	huai te hai de
+懷特塞德	huai te sai de
+黃蜂	huang feng
+灰熊	hui xiong
+霍華德	huo hua de
+霍勒迪	huo le di
+活塞	huo sai
+霍伊斯	huo yi si
+吉布森	ji bu sen
+基爾帕特里克	ji er pa te li ke
+吉列爾莫	ji lie er mo
+吉諾比利	ji nuo bi li
+賈巴爾	jia ba er
+賈巴里	jia ba li
+加萊特	jia lai te
+賈雷爾馬丁	jia lei er ma ding
+加里哈里斯	jia li ha li si
+加里納利	jia li na li
+加里諾	jia li nuo
+加里佩頓二世	jia li pei dun er shi
+賈羅德	jia luo de
+加洛韋	jia luo wei
+賈馬爾	jia ma er
+賈馬爾穆雷	jia ma er mu lei
+賈馬爾尼爾森	jia ma er ni er sen
+賈森史密斯	jia sen shi mi si
+賈森特里	jia sen te li
+賈斯汀安德森	jia si ting an de sen
+加索爾	jia suo er
+賈伊克勞德	jia yi ke lao de
+傑夫蒂格	jie fu di ge
+傑夫格林	jie fu ge lin
+傑弗森	jie fu sen
+傑夫維希	jie fu wei xi
+傑克萊曼	jie ke lai man
+傑拉德	jie la de
+傑拉德格林	jie la de ge lin
+傑拉米	jie la mi
+傑雷布科	jie lei bu ke
+傑裏安	jie li an
+傑林布朗	jie lin bu lang
+傑邁克爾格林	jie mai ke er ge lin
+金州勇士隊	jin zhou yong shi dui
+爵士	jue shi
+卡波科洛	ka bo ke luo
+卡爾德隆	ka er de long
+卡里斯	ka li si
+喀麥隆王子	ka mai long wang zi
+卡明斯基	ka ming si ji
+卡佩拉	ka pei la
+卡斯比	ka si bi
+卡特威廉姆斯	ka te wei lian mu si
+卡溫頓	ka wen dun
+凱爾安德森	kai er an de sen
+凱爾奧奎因	kai er ao kui yin
+凱爾科沃爾	kai er ke wo er
+凱爾洛瑞	kai er luo rui
+凱爾歐文	kai er ou wen
+凱爾特人	kai er te ren
+凱爾維爾徹	kai er wei er che
+凱爾辛格勒	kai er xin ge le
+凱菲爾德	kai fei er de
+凱文杜蘭特	kai wen du lan te
+凱文樂福	kai wen le fu
+凱文盧尼	kai wen lu ni
+坎特	kan te
+康寧漢姆	kang ning han mu
+康特尼李	kang te ni li
+考利斯坦	kao li si tan
+考辛斯	kao xin si
+科比	ke bi
+科比布萊恩特	ke bi bu lai en te
+科迪澤勒	ke di ze le
+科爾	ke er
+科懷	ke huai
+科懷倫納德	ke huai lun na de
+克萊湯普森	ke lai tang pu sen
+克勞福德	ke lao fu de
+科里布魯爾	ke li bu lu er
+克利夫蘭	ke li fu lan
+科裏森	ke li sen
+克里斯	ke li si
+克里斯保羅	ke li si bao luo
+克里斯鄧恩	ke li si deng en
+克里斯蒂亞諾	ke li si di ya nuo
+克里斯頓	ke li si dun
+克里斯馬斯	ke li si ma si
+科里約瑟夫	ke li yue se fu
+肯巴沃克	ken ba wo ke
+肯特貝茲莫爾	ken te bei zi mo er
+庫佛斯	ku fo si
+庫茲明斯卡斯	ku zi ming si ka si
+快船	kuai chuan
+奎因庫克	kui yin ku ke
+昆西阿希	kun xi a xi
+拉比西埃	la bi xi ai
+拉基姆	la ji mu
+拉馬庫斯	la ma ku si
+拉塞爾	la sai er
+拉沙德沃恩	la sha de wo en
+拉沃伊	la wo yi
+萊恩	lai en
+萊恩安德森	lai en an de sen
+萊恩凱利	lai en kai li
+萊爾斯	lai er si
+蘭德爾	lan de er
+蘭登馬紹爾	lan deng ma shao er
+蘭迪弗耶	lan di fu ye
+蘭姆	lan mu
+蘭斯頓	lan si dun
+蘭斯托馬斯	lan si tuo ma si
+籃網	lan wang
+朗戴	lang dai
+勞爾內託	lao er nei tuo
+老鷹隊	lao ying dui
+勒布朗	le bu lang
+勒夫特	le fu te
+雷阿倫	lei a lun
+雷迪克	lei di ke
+雷吉布洛克	lei ji bu luo ke
+雷吉傑克遜	lei ji jie ke xun
+雷蒙塞申斯	lei meng sai shen si
+雷霆	lei ting
+理查德森	li cha de sen
+理查恩霍姆斯	li cha en huo mu si
+裏弗斯	li fu si
+裏基盧比奧	li ji lu bi ao
+利金斯	li jin si
+利拉德	li la de
+利文斯頓	li wen si dun
+林來瘋	lin lai feng
+林書豪	lin shu hao
+隆多	long duo
+魯德茲	lu de zi
+魯迪	lu di
+盧克巴比特	lu ke ba bi te
+盧克巴莫特	lu ke ba mo te
+魯瓦烏	lu wa wu
+路威廉姆斯	lu wei lian mu si
+倫納德	lun na de
+羅賓洛佩茲	luo bin luo pei zi
+羅德里格斯	luo de li ge si
+羅恩貝克	luo en bei ke
+羅爾鄧	luo er deng
+羅尼普萊斯	luo ni pu lai si
+洛佩斯	luo pei si
+洛杉磯湖人	luo shan ji hu ren
+洛杉磯快船	luo shan ji kuai chuan
+羅伊希伯特	luo yi xi bo te
+馬刺	ma ci
+馬刺隊	ma ci dui
+馬爾科姆	ma er ke mu
+馬基夫	ma ji fu
+馬克加索爾	ma ke jia suo er
+馬庫斯	ma ku si
+馬奎斯	ma kui si
+馬拉奇	ma la qi
+馬努	ma nu
+馬紹爾	ma shao er
+馬特巴恩斯	ma te ba en si
+馬文	ma wen
+馬辛米	ma xin mi
+馬修斯	ma xiu si
+馬揚諾維奇	ma yang nuo wei qi
+邁阿密熱火	mai a mi re huo
+邁爾斯	mai er si
+邁爾斯特納	mai er si te na
+麥格魯德	mai ge lu de
+麥基	mai ji
+麥卡杜	mai ka du
+麥卡洛	mai ka luo
+麥康奈爾	mai kang nai er
+麥考	mai kao
+邁克德莫特	mai ke de mo te
+邁克鄧利維	mai ke deng li wei
+邁克爾貝納傑	mai ke er bei na jie
+邁克爾基德	mai ke er ji de
+邁克康利	mai ke kang li
+麥克萊倫	mai ke lai lun
+麥克萊默	mai ke lai mo
+邁克勒姆	mai ke le mu
+麥克羅伯茨	mai ke luo bo ci
+邁克米勒	mai ke mi le
+曼巴精神	man ba jing shen
+曼尼哈里斯	man ni ha li si
+梅森普拉姆利	mei sen pu la mu li
+梅耶斯	mei ye si
+門羅	men luo
+孟菲斯灰熊	meng fei si hui xiong
+猛龍	meng long
+蒙塔埃利斯	meng ta ai li si
+米德爾頓	mi de er dun
+米爾薩普	mi er sa pu
+米爾斯	mi er si
+密爾沃基	mi er wo ji
+米羅蒂奇	mi luo di qi
+明尼蘇達	ming ni su da
+默裏	mo li
+莫里斯	mo li si
+莫里斯恩多爾	mo li si en duo er
+莫羅	mo luo
+魔術	mo shu
+魔術師約翰遜	mo shu shi yue han xun
+莫泰	mo tai
+莫茲戈夫	mo zi ge fu
+穆迪埃	mu di ai
+穆斯卡拉	mu si ka la
+內內	nei nei
+內皮爾	nei pi er
+內託	nei tuo
+尼克爾森	ni ke er sen
+尼克斯	ni ke si
+尼克楊	ni ke yang
+紐約尼克斯隊	niu yue ni ke si dui
+濃眉哥	nong mei ge
+努爾基奇	nu er ji qi
+諾阿馮萊	nuo a feng lai
+諾爾	nuo er
+諾奎拉	nuo kui la
+諾里斯	nuo li si
+諾維茨基	nuo wei ci ji
+歐努阿庫	ou nu a ku
+歐文	ou wen
+帕楚里亞	pa chu li ya
+帕克	pa ke
+帕帕揚尼斯	pa pa yang ni si
+帕特康諾頓	pa te kang nuo dun
+帕特森	pa te sen
+潘大福	pan da fu
+龐德塞特	pang de sai te
+佩頓	pei dun
+佩恩	pei en
+佩科維奇	pei ke wei qi
+珀爾特爾	po er te er
+普拉姆利	pu la mu li
+普林斯	pu lin si
+奇才	qi cai
+齊默爾曼	qi mo er man
+騎士	qi shi
+錢德勒	qian de le
+錢德勒帕森斯	qian de le pa sen si
+錢寧弗萊	qian ning fu lai
+喬丹	qiao dan
+喬丹克拉克森	qiao dan ke la ke sen
+喬丹米奇	qiao dan mi qi
+喬丹希爾	qiao dan xi er
+喬恩洛伊爾	qiao en luo yi er
+喬爾安東尼	qiao er an dong ni
+喬爾博倫博伊	qiao er bo lun bo yi
+喬弗裏洛韋爾	qiao fu li luo wei er
+喬哈里斯	qiao ha li si
+喬金諾阿	qiao jin nuo a
+喬納森	qiao na sen
+喬楊	qiao yang
+喬約翰遜	qiao yue han xun
+喬治亨特	qiao zhi heng te
+喬治尼昂	qiao zhi ni ang
+喬治斯	qiao zhi si
+喬治希爾	qiao zhi xi er
+熱火	re huo
+薩博尼斯	sa bo ni si
+薩克拉門託	sa ke la men tuo
+薩拉梅吉里	sa la mei ji li
+賽迪斯楊	sai di si yang
+塞弗羅薩	sai fu luo sa
+塞拉芬	sai la fen
+塞斯庫裏	sai si ku li
+森林狼	sen lin lang
+沙巴茲	sha ba zi
+沙裏奇	sha li qi
+沙松蘭德爾	sha song lan de er
+聖安東尼奧	sheng an dong ni ao
+史蒂芬森	shi di fen sen
+史蒂文亞當斯	shi di wen ya dang si
+施羅德	shi luo de
+史密斯	shi mi si
+斯貝茨	si bei ci
+斯賓塞	si bin sai
+斯蒂芬庫裏	si di fen ku li
+斯瑪特	si ma te
+斯內爾	si nei er
+斯普利特	si pu li te
+斯坦利	si tan li
+斯陶斯卡斯	si tao si ka si
+索恩馬克	suo en ma ke
+所羅門希爾	suo luo men xi er
+塔克	ta ke
+塔裏克布萊克	ta li ke bu lai ke
+塔瓦雷斯	ta wa lei si
+泰爾斯瓊斯	tai er si qiong si
+泰勞森	tai lao sen
+泰勒	tai le
+泰勒恩尼斯	tai le en ni si
+泰勒托維奇	tai le tuo wei qi
+泰勒尤利斯	tai le you li si
+泰勒約翰遜	tai le yue han xun
+泰勒澤勒	tai le ze le
+泰森	tai sen
+太陽	tai yang
+太陽隊	tai yang dui
+坦普爾	tan pu er
+彈跳之王	tan tiao zhi wang
+唐佩恩	tang pei en
+湯普森	tang pu sen
+唐斯	tang si
+特雷伯克	te lei bo ke
+特雷沃布克	te lei wo bu ke
+特雷沃恩	te lei wo en
+特里洛奇爾	te li luo qi er
+特里沃	te li wo
+特倫斯羅斯	te lun si luo si
+特洛伊	te luo yi
+鵜鶘	ti hu
+天勾	tian gou
+甜瓜安東尼	tian gua an dong ni
+託拜厄斯	tuo bai e si
+托馬什	tuo ma shen
+托馬斯羅賓遜	tuo ma si luo bin xun
+託尼艾倫	tuo ni ai lun
+託尼帕克	tuo ni pa ke
+瓦蘭丘納斯	wa lan qiu na si
+瓦倫丁	wa lun ding
+韋德	wei de
+維恩艾靈頓	wei en ai ling dun
+韋恩塞爾登	wei en sai er deng
+威爾巴頓	wei er ba dun
+威爾森錢德勒	wei er sen qian de le
+威金斯	wei jin si
+威利裏德	wei li li de
+威廉姆斯	wei lian mu si
+威少	wei shao
+韋少	wei shao
+威斯布魯克	wei si bu lu ke
+韋斯利約翰遜	wei si li yue han xun
+韋斯特	wei si te
+維特斯	wei te si
+文斯卡特	wen si ka te
+溫斯洛	wen si luo
+沃倫	wo lun
+沃特森	wo te sen
+烏佈雷	wu bu lei
+伍德	wu de
+武賈西奇	wu jia xi qi
+武切維奇	wu qie wei qi
+希爾	xi er
+西蒙斯	xi meng si
+西亞卡姆	xi ya ka mu
+夏洛特黃蜂	xia luo te huang feng
+小德里克瓊斯	xiao de li ke qiong si
+小杜蘭特	xiao du lan te
+肖恩朗	xiao en lang
+小狗羅賓遜	xiao gou luo bin xun
+小拉里南斯	xiao la li nan si
+小裏弗斯	xiao li fu si
+小隆多	xiao long duo
+效率狂魔	xiao lv kuang mo
+小南斯	xiao nan si
+小牛	xiao niu
+小佩頓	xiao pei dun
+小托馬斯	xiao tuo ma si
+謝爾登	xie er deng
+謝爾登麥克	xie er deng mai ke
+謝爾文	xie er wen
+謝赫迪亞洛	xie he di ya luo
+新奧爾良	xin ao er liang
+雄鹿	xiong lu
+熊貓之友	xiong mao zhi you
+休斯頓火箭	xiu si dun huo jian
+亞歷克	ya li ke
+亞歷克斯	ya li ke si
+亞特蘭大	ya te lan da
+亞特蘭大老鷹隊	ya te lan da lao ying dui
+揚尼斯	yang ni si
+野獸	ye shou
+伊安馬辛米	yi an ma xin mi
+伊巴卡	yi ba ka
+伊恩克拉克	yi en ke la ke
+伊戈達拉	yi ge da la
+伊利亞索瓦	yi li ya suo wa
+伊曼香珀特	yi man xiang po te
+伊內斯	yi nei si
+以賽亞迦南	yi sai ya jia nan
+以賽亞泰勒	yi sai ya tai le
+伊斯梅爾	yi si mei er
+伊託萬	yi tuo wan
+伊澤利	yi ze li
+印第安納	yin di an na
+英格爾斯	ying ge er si
+英格拉姆	ying ge la mu
+尤德里	you de li
+尤吉費雷爾	you ji fei lei er
+猶他爵士隊	you ta jue shi dui
+約迪米克斯	yue di mi ke si
+約翰漢森	yue han han sen
+約翰沃爾	yue han wo er
+約翰遜	yue han xun
+約基奇	yue ji qi
+約什	yue shi
+約什理查德森	yue shi li cha de sen
+扎克拉文	zha ke la wen
+扎克蘭多夫	zha ke lan duo fu
+扎扎	zha zha
+詹皇	zhan huang
+詹姆斯	zhan mu si
+詹姆斯哈登	zhan mu si ha deng
+詹姆斯瓊斯	zhan mu si qiong si
+詹姆斯楊	zhan mu si yang
+詹姆斯約翰遜	zhan mu si yue han xun
+詹寧斯	zhan ning si
+芝加哥公牛	zhi jia ge gong niu
+中國弩	zhong guo nu
+狀元西蒙斯	zhuang yuan xi meng si
+祖巴茨	zu ba ci
